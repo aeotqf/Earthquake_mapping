@@ -1,0 +1,1126 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-02-11T00:08:48.720Z,13.1988,-87.7188,192.61,4.7,mww,,59,0.821,0.67,us,us2000jg5r,2019-02-13T07:33:30.887Z,12km SW of Amapala  Honduras,earthquake,6.5,4.5,0.08,15,reviewed,us,us
+2019-01-31T04:40:30.240Z,13.4636,-88.3658,180.61,5.2,mb,,125,1.214,0.9,us,us2000jb2y,2019-02-01T16:29:17.079Z,4km SSW of Chinameca  El Salvador,earthquake,2.8,7,0.03,373,reviewed,us,us
+2019-01-24T16:20:01.930Z,12.9743,-89.0867,79.45,4.6,mb,,138,1.44,0.87,us,us2000j8cp,2019-02-13T22:19:55.659Z,58km S of El Rosario  El Salvador,earthquake,6.5,8.8,0.052,113,reviewed,us,us
+2019-01-01T18:17:45.070Z,16.6527,-86.136,10,4.3,mb,,43,2.804,1,us,us2000izny,2019-01-18T22:37:19.651Z,37km NW of Guanaja  Honduras,earthquake,4.1,2,0.073,54,reviewed,us,us
+2018-12-07T04:01:29.370Z,13.2613,-89.1663,77.63,4.1,mb,,167,1.146,0.8,us,us1000i3xs,2019-01-03T22:29:47.705Z,30km SE of La Libertad  El Salvador,earthquake,8.5,3.4,0.124,18,reviewed,us,us
+2018-11-13T10:26:50.200Z,13.5673,-88.3024,186.11,4.4,mb,,143,0.911,0.67,us,us1000huuu,2019-01-30T18:36:27.040Z,5km ENE of Lolotique  El Salvador,earthquake,12.2,9.8,0.065,68,reviewed,us,us
+2018-11-02T09:12:16.020Z,12.9693,-89.3704,35,4.3,mwr,,132,0.725,0.94,us,us2000i5sh,2019-01-21T14:29:43.040Z,57km S of La Libertad  El Salvador,earthquake,6.5,2,0.098,10,reviewed,us,us
+2018-10-23T23:38:58.830Z,13.0821,-89.4387,48.47,4.5,mb,,159,0.634,0.9,us,us1000hgcf,2019-01-10T17:18:35.040Z,46km SSW of La Libertad  El Salvador,earthquake,6.6,6.8,0.063,74,reviewed,us,us
+2018-09-12T15:35:16.080Z,13.2268,-87.83,10,4.7,mb,,129,0.925,0.89,us,us2000hdfj,2018-11-21T18:19:09.040Z,9km SSE of Conchagua  El Salvador,earthquake,5.8,1.9,0.041,184,reviewed,us,us
+2018-09-12T10:12:29.530Z,13.1233,-87.8515,24.56,4.3,mb,,136,0.889,0.83,us,us2000hdd3,2018-11-21T18:19:09.040Z,20km S of Conchagua  El Salvador,earthquake,7.1,9.5,0.049,121,reviewed,us,us
+2018-08-15T14:19:36.160Z,13.304,-87.727,175.91,4.7,mb,,147,0.868,0.84,us,us1000g9n5,2018-10-27T16:22:03.040Z,8km W of Amapala  Honduras,earthquake,9.4,6.2,0.138,16,reviewed,us,us
+2018-07-28T20:46:22.630Z,13.4384,-88.6606,149.37,4.2,mb,,154,0.607,0.77,us,us2000ggai,2018-10-09T16:43:32.040Z,6km W of San Agustin  El Salvador,earthquake,7.2,7.8,0.09,34,reviewed,us,us
+2018-07-09T07:11:48.750Z,13.4702,-88.3914,196.12,4.7,mb,,150,0.844,0.86,us,us2000g060,2018-10-02T16:40:30.040Z,5km S of Jucuapa  El Salvador,earthquake,7.4,6.2,0.037,219,reviewed,us,us
+2018-07-08T23:25:52.540Z,15.7708,-86.6725,10,3.4,ml,,278,1.8,0.46,us,us2000g02i,2018-09-27T14:03:45.040Z,5km SSE of Sambo Creek  Honduras,earthquake,3.1,2,0.097,14,reviewed,us,us
+2018-07-03T10:32:24.030Z,13.172,-89.3409,81.76,4,mb,,167,0.522,0.59,us,us2000fvpu,2018-09-27T14:03:38.040Z,35km S of La Libertad  El Salvador,earthquake,2.5,11.1,0.065,63,reviewed,us,us
+2018-07-02T21:58:21.320Z,13.1416,-87.9936,151.43,4.3,mb,,148,1.021,0.88,us,us2000fv6s,2018-09-27T14:03:38.040Z,8km SE of Intipuca  El Salvador,earthquake,8,7.6,0.067,63,reviewed,us,us
+2018-05-30T19:35:05.370Z,13.2528,-87.9803,10,4.3,mb,,148,1.054,1.31,us,us1000ef1k,2018-08-28T16:28:56.040Z,10km NE of Intipuca  El Salvador,earthquake,6.5,2,0.177,9,reviewed,us,us
+2018-05-22T11:54:14.720Z,13.4178,-89.3578,76.69,4.2,mb,,162,1.907,1.02,us,us1000e9vk,2018-08-21T21:23:48.040Z,8km SSW of La Libertad  El Salvador,earthquake,8,10.3,0.063,70,reviewed,us,us
+2018-05-13T15:59:48.500Z,12.9299,-87.2405,192.38,4.7,mb,,143,0.297,0.85,us,us1000e45f,2018-08-08T15:21:39.040Z,11km NW of Puerto Morazan  Nicaragua,earthquake,10.7,6.3,0.042,171,reviewed,us,us
+2018-05-13T15:47:56.230Z,12.9892,-88.7418,76.62,4.3,mb,,160,0.841,1.13,us,us1000e45b,2018-08-08T15:21:38.040Z,38km SSW of Puerto El Triunfo  El Salvador,earthquake,7.2,7.9,0.054,98,reviewed,us,us
+2018-05-08T23:07:32.830Z,13.3045,-87.9683,10,4.7,mb,,127,1.008,1.2,us,us1000e133,2018-08-08T15:19:41.040Z,11km W of Conchagua  El Salvador,earthquake,5,1.9,0.039,202,reviewed,us,us
+2018-05-08T14:09:59.440Z,13.283,-88.0334,10,4.1,mb,,147,1.066,0.93,us,us1000e0nk,2018-08-08T15:19:33.040Z,9km NNE of Intipuca  El Salvador,earthquake,5.6,2,0.302,3,reviewed,us,us
+2018-05-06T19:02:22.360Z,13.1036,-88.0615,10,5.4,mww,,125,1.066,1.22,us,us1000dzgr,2018-07-27T20:20:28.040Z,10km S of Intipuca  El Salvador,earthquake,6.5,1.9,0.05,38,reviewed,us,us
+2018-05-06T18:58:16.660Z,13.3319,-87.9657,10,4.5,mb,,141,0.986,1.1,us,us1000dzgj,2018-07-27T20:20:28.040Z,11km S of San Alejo  El Salvador,earthquake,7.3,1.9,0.05,119,reviewed,us,us
+2018-05-06T17:43:41.120Z,13.3173,-88.0681,10,4.5,mb,,146,1.066,0.93,us,us1000dzfb,2018-07-27T20:20:43.040Z,13km NE of Chirilagua  El Salvador,earthquake,5.2,1.9,0.065,68,reviewed,us,us
+2018-05-06T15:02:11.020Z,13.3041,-87.9997,10,4.4,mb,,145,1.029,0.92,us,us1000dzd2,2018-07-27T20:20:28.040Z,13km NNE of Intipuca  El Salvador,earthquake,4.4,2,0.095,32,reviewed,us,us
+2018-05-06T14:52:54.180Z,13.2253,-88.0851,10,4.8,mb,,130,1.137,0.97,us,us1000dzcv,2018-07-27T20:20:28.040Z,4km NW of Intipuca  El Salvador,earthquake,5.8,1.9,0.028,399,reviewed,us,us
+2018-05-06T14:37:50.620Z,13.2519,-87.9776,10,4.3,mb,,148,1.053,0.86,us,us1000dzch,2018-07-27T20:20:43.040Z,10km NE of Intipuca  El Salvador,earthquake,5.7,1.9,0.169,10,reviewed,us,us
+2018-05-06T12:44:28.080Z,13.2731,-87.9546,10,5.2,mww,,81,1.022,0.79,us,us1000dzau,2018-07-27T20:20:28.040Z,10km WSW of Conchagua  El Salvador,earthquake,4.8,1.8,0.065,23,reviewed,us,us
+2018-05-06T12:37:58.950Z,13.2236,-88.0338,10,5.2,mww,,60,1.093,0.92,us,us1000dzap,2018-07-27T20:20:28.040Z,3km NE of Intipuca  El Salvador,earthquake,5.7,1.9,0.058,29,reviewed,us,us
+2018-05-06T04:58:22.070Z,13.3024,-87.8448,10,4.9,mwr,,125,0.933,0.86,us,us1000dz60,2018-07-27T20:20:29.040Z,2km ESE of Conchagua  El Salvador,earthquake,3.7,1.9,0.05,39,reviewed,us,us
+2018-05-06T04:04:25.750Z,13.2584,-87.9387,10,4.4,mb,,142,1.024,0.87,us,us1000dz58,2018-07-27T20:20:29.040Z,9km SW of Conchagua  El Salvador,earthquake,5.2,1.9,0.059,83,reviewed,us,us
+2018-04-30T04:10:17.200Z,13.2208,-89.2951,78.03,4.3,mb,,125,0.467,1.01,us,us1000duju,2018-07-27T20:20:34.040Z,29km S of La Libertad  El Salvador,earthquake,7.7,7.5,0.051,110,reviewed,us,us
+2018-04-27T22:42:08.490Z,13.2211,-89.1392,64.72,4.3,mb,,163,0.471,0.95,us,us1000dtpl,2018-07-25T21:37:29.040Z,32km SSW of El Rosario  El Salvador,earthquake,7.1,4.2,0.079,45,reviewed,us,us
+2018-04-03T16:00:50.900Z,13.0609,-88.7998,64.85,4.8,mb,,63,0.75,1.05,us,us1000ddpb,2018-06-30T01:11:26.040Z,36km SW of Puerto El Triunfo  El Salvador,earthquake,6.3,5.7,0.029,369,reviewed,us,us
+2018-04-03T01:16:21.250Z,13.0969,-88.7736,63.64,4.2,mb,,170,0.736,0.92,us,us1000ddep,2018-06-30T01:11:25.040Z,31km SW of Puerto El Triunfo  El Salvador,earthquake,5.6,10.1,0.076,49,reviewed,us,us
+2018-04-02T23:23:17.670Z,13.1086,-88.6821,50,5.9,mww,,19,0.785,1.32,us,us1000dcru,2018-10-12T21:21:58.208Z,24km SW of Puerto El Triunfo  El Salvador,earthquake,5.5,1.8,0.04,61,reviewed,us,us
+2018-03-21T00:00:37.010Z,13.1827,-89.0803,52.33,4,mb,,193,0.522,1.36,us,us1000d6ym,2018-06-19T01:35:45.040Z,35km S of El Rosario  El Salvador,earthquake,9.1,6.3,0.173,9,reviewed,us,us
+2018-03-04T05:01:26.170Z,13.2777,-89.2946,69.61,4.5,mb,,60,0.411,0.86,us,us2000dbyd,2018-05-27T01:06:12.040Z,23km S of La Libertad  El Salvador,earthquake,6.6,6.6,0.046,140,reviewed,us,us
+2018-02-18T13:42:15.200Z,15.4097,-87.8617,10,4,ml,,135,0.765,0.4,us,us2000d7vr,2018-05-15T06:29:14.040Z,6km W of El Progreso  Honduras,earthquake,3.5,2,0.073,25,reviewed,us,us
+2018-02-17T06:29:39.900Z,12.9298,-88.5149,60.21,4.3,mb,,164,1.026,1.05,us,us2000d3sl,2018-05-15T06:29:12.040Z,39km S of Puerto El Triunfo  El Salvador,earthquake,7.4,11.1,0.073,53,reviewed,us,us
+2018-02-09T10:19:55.490Z,15.3199,-88.8958,10,4.2,mb,,44,0.506,0.98,us,us2000czfr,2018-05-03T22:15:06.040Z,19km SSW of Morales  Guatemala,earthquake,5.8,1.9,0.052,102,reviewed,us,us
+2018-02-05T19:28:47.470Z,13.0373,-89.0522,62.89,4.3,mb,,158,1.386,1.13,us,us1000cg8d,2018-05-03T22:14:58.040Z,51km S of El Rosario  El Salvador,earthquake,6.8,5.8,0.108,24,reviewed,us,us
+2018-02-05T10:10:08.850Z,13.1901,-89.1613,60.85,4.4,mb,,163,0.498,1.2,us,us1000cfzn,2018-05-03T22:14:57.040Z,36km SSW of El Rosario  El Salvador,earthquake,5.8,7,0.07,58,reviewed,us,us
+2018-02-03T01:02:32.550Z,13.7165,-89.0373,4,4.3,mb,,113,0.191,0.74,us,us1000cevm,2018-04-25T01:39:44.040Z,7km ENE of Ilopango  El Salvador,earthquake,3.6,7.3,0.093,33,reviewed,us,us
+2018-01-27T14:40:36.020Z,15.9952,-84.5422,10,4.7,mb,,60,2.877,1.08,us,us2000cqd2,2018-04-20T07:05:30.040Z,27km NNW of Brus Laguna  Honduras,earthquake,7.1,1.8,0.045,147,reviewed,us,us
+2018-01-22T13:58:02.290Z,16.4186,-83.2736,10,4.5,mb,,49,3.962,0.72,us,us2000cmgb,2018-04-20T07:05:07.040Z,127km ENE of Barra Patuca  Honduras,earthquake,7.5,1.9,0.071,58,reviewed,us,us
+2018-01-13T01:43:28.690Z,13.054,-88.8193,66.36,4.1,mb,,152,0.746,0.78,us,us2000cj6h,2018-04-03T01:40:28.040Z,38km SW of Puerto El Triunfo  El Salvador,earthquake,6.7,9.4,0.139,14,reviewed,us,us
+2018-01-11T18:19:35.900Z,13.7936,-89.1152,10,4.2,mb,,94,0.155,1.29,us,us2000cikm,2018-04-03T01:40:27.040Z,1km NNE of Tonacatepeque  El Salvador,earthquake,4.1,2,0.373,2,reviewed,us,us
+2018-01-03T13:38:40.300Z,13.1978,-89.2796,73.5,5.2,mww,,113,0.488,0.86,us,us1000bzb5,2018-03-23T23:16:49.040Z,32km S of La Libertad  El Salvador,earthquake,6.3,5.9,0.061,26,reviewed,us,us
+2018-01-01T09:40:08.750Z,16.6729,-86.1807,16.34,4.5,mwr,,35,2.492,0.93,us,us1000byr6,2018-03-23T23:16:47.040Z,42km NW of Guanaja  Honduras,earthquake,6.8,5.4,0.073,18,reviewed,us,us
+2017-12-07T16:03:41.200Z,13.774,-89.175,178.74,4.4,mb,,76,0.102,0.7,us,us2000c1ma,2018-02-28T02:32:31.040Z,3km S of Apopa  El Salvador,earthquake,7.3,5,0.091,35,reviewed,us,us
+2017-11-27T02:56:58.880Z,13.0005,-88.7827,66.91,4.2,mb,,171,0.81,1.35,us,us2000bupw,2018-02-20T09:06:04.040Z,40km SW of Puerto El Triunfo  El Salvador,earthquake,7.7,8.4,0.058,82,reviewed,us,us
+2017-11-13T10:01:27.200Z,13.0549,-88.6711,82.52,4.6,mb,,137,0.831,1.08,us,us2000bmjs,2018-02-06T02:45:31.040Z,28km SSW of Puerto El Triunfo  El Salvador,earthquake,7.4,8.1,0.034,255,reviewed,us,us
+2017-11-11T09:27:11.830Z,13.1012,-89.0971,52.38,4.1,mb,,153,0.596,0.84,us,us2000blxy,2018-01-31T03:04:48.040Z,44km S of El Rosario  El Salvador,earthquake,6.8,12.5,0.105,25,reviewed,us,us
+2017-10-26T04:01:31.480Z,13.6987,-89.2497,10,2.9,ml,,226,0.021,0.46,us,us1000ax8w,2018-01-17T21:50:34.040Z,2km NNW of Antiguo Cuscatlan  El Salvador,earthquake,5.4,2,0.115,10,reviewed,us,us
+2017-09-24T00:29:06.340Z,13.0273,-88.7587,65.76,4.4,mb,,171,0.8,0.8,us,us2000atre,2017-12-22T21:56:19.040Z,36km SW of Puerto El Triunfo  El Salvador,earthquake,7.3,7.3,0.069,60,reviewed,us,us
+2017-09-17T05:56:49.680Z,14.3944,-88.5593,10,4.3,mb,,102,0.775,0.56,us,us2000apf5,2017-12-19T01:54:01.040Z,20km NNW of Erandique  Honduras,earthquake,3.8,2,0.265,4,reviewed,us,us
+2017-09-06T13:53:08.730Z,13.1897,-89.4347,45.9,4.1,mb,,168,0.532,0.79,us,us2000arps,2017-12-07T20:00:17.040Z,35km SSW of La Libertad  El Salvador,earthquake,7.2,5.4,0.197,7,reviewed,us,us
+2017-07-26T02:37:27.250Z,13.2193,-87.7501,202.07,4.7,mb,,132,0.858,1.04,us,us2000a16h,2017-10-14T00:19:40.040Z,13km SW of Amapala  Honduras,earthquake,8.1,7.9,0.044,156,reviewed,us,us
+2017-04-23T15:51:30.790Z,13.6757,-89.2174,10,3.3,ml,,175,0.017,0.54,us,us10008k4n,2017-07-21T02:32:02.040Z,2km E of Antiguo Cuscatlan  El Salvador,earthquake,6.1,2,0.088,17,reviewed,us,us
+2017-04-10T23:53:58.630Z,13.7664,-89.1547,10,4.8,mb,,64,0.108,0.83,us,us10008ge2,2017-07-05T18:09:55.040Z,3km N of Soyapango  El Salvador,earthquake,6,1.9,0.03,351,reviewed,us,us
+2017-04-10T23:52:59.050Z,13.7626,-89.2076,10,4.2,mb,,91,0.078,1.08,us,us10008im7,2017-07-05T18:09:55.040Z,1km N of Ayutuxtepeque  El Salvador,earthquake,5.4,2,0.128,17,reviewed,us,us
+2017-04-10T22:21:44.330Z,13.6704,-89.3237,5.5,3.4,ml,,164,0.091,0.35,us,us10008gdr,2017-07-05T18:09:55.040Z,4km W of Santa Tecla  El Salvador,earthquake,4.6,7.9,0.081,20,reviewed,us,us
+2017-04-10T20:02:03.660Z,13.6702,-89.2695,6.39,3.5,ml,,157,0.04,0.68,us,us10008gdm,2017-07-05T18:09:55.040Z,1km SE of Santa Tecla  El Salvador,earthquake,5.2,10.6,0.076,23,reviewed,us,us
+2017-04-10T02:13:17.560Z,13.6363,-89.3209,6.91,3.6,ml,,163,0.1,0.55,us,us10008g5e,2017-07-05T18:09:54.040Z,6km SW of Santa Tecla  El Salvador,earthquake,4.7,9.1,0.071,26,reviewed,us,us
+2017-01-21T07:31:29.540Z,13.2037,-89.3085,60.69,4.4,mb,,141,0.486,0.75,us,us10007ulc,2017-04-12T02:29:03.040Z,31km S of La Libertad  El Salvador,earthquake,7,10.5,0.058,86,reviewed,us,us
+2017-01-04T16:45:08.790Z,13.1006,-89.3635,68.22,5,mb,,114,0.596,0.87,us,us10007pxt,2017-03-27T23:53:22.040Z,43km S of La Libertad  El Salvador,earthquake,6.8,7,0.031,324,reviewed,us,us
+2016-12-30T11:23:05.350Z,16.2179,-87.7557,22.6,4.4,mb,,28,2.14,1.28,us,us10007nrb,2017-03-23T22:52:10.040Z,38km NNE of Baja Mar  Honduras,earthquake,5.3,5.9,0.062,75,reviewed,us,us
+2016-12-27T05:14:24.810Z,12.9913,-88.6454,69.23,4.6,mwr,,110,0.896,1.06,us,us10007mz5,2017-03-23T22:52:04.040Z,33km SSW of Puerto El Triunfo  El Salvador,earthquake,7.1,6.4,0.066,22,reviewed,us,us
+2016-12-25T23:03:38.480Z,13.0196,-88.9792,29.54,4,md,,210,0.707,0.52,us,us10007nuz,2017-03-23T22:52:03.040Z,53km S of El Rosario  El Salvador,earthquake,7.3,15.8,,,reviewed,us,snet
+2016-12-18T08:12:19.210Z,13.1331,-88.9451,48.22,4.3,mb,,184,0.616,1.13,us,us10007u9x,2017-03-16T02:31:27.040Z,41km SSW of Zacatecoluca  El Salvador,earthquake,4.3,18.7,0.217,6,reviewed,us,us
+2016-12-11T14:57:01.150Z,13.1997,-89.2246,57.46,4.3,mb,,169,0.484,1.1,us,us10007sxt,2017-03-09T02:14:27.040Z,33km SSE of La Libertad  El Salvador,earthquake,8.2,7.6,0.142,14,reviewed,us,us
+2016-11-28T06:37:08.250Z,15.5716,-88.4126,10,4.4,mb,,48,1.347,1.17,us,us10007cvx,2017-02-23T00:11:51.040Z,13km WSW of Potrerillos  Honduras,earthquake,5.5,2,0.061,78,reviewed,us,us
+2016-11-15T23:06:48.640Z,12.9855,-86.0874,19.31,3.9,mwr,,43,0.167,1.12,us,usa0014cef,2017-02-09T03:02:30.040Z,14km SW of Jinotega  Nicaragua,earthquake,3.3,4,0.071,19,reviewed,us,us
+2016-11-15T07:36:38.460Z,12.94,-88.9465,44.05,4.1,mb,,188,0.792,1,us,us100079zw,2017-02-09T03:02:29.040Z,57km SW of Puerto El Triunfo  El Salvador,earthquake,3.5,16.7,0.26,4,reviewed,us,us
+2016-09-29T20:23:14.390Z,16.1182,-84.9751,10,5.3,mww,,23,3.02,0.83,us,us10006txy,2016-12-14T03:17:57.040Z,40km NE of Cusuna  Honduras,earthquake,6.5,1.8,,,reviewed,us,us
+2016-09-17T16:27:47.270Z,12.9663,-88.7395,61.74,4.9,mb,,70,0.861,1.08,us,us10006qfq,2016-12-12T23:01:27.040Z,40km SSW of Puerto El Triunfo  El Salvador,earthquake,5.7,6,0.058,94,reviewed,us,us
+2016-09-12T11:49:23.020Z,12.9647,-88.7968,46.31,4.1,mb,,191,0.833,1.46,us,us10006p7t,2016-12-07T02:56:12.040Z,44km SW of Puerto El Triunfo  El Salvador,earthquake,4.2,21.7,0.26,4,reviewed,us,us
+2016-09-09T22:36:21.120Z,13.2605,-88.7122,102.76,4.4,mb,,146,0.659,0.7,us,us10006nh0,2016-12-07T02:56:08.040Z,15km WSW of Jiquilisco  El Salvador,earthquake,6.2,8.3,0.046,134,reviewed,us,us
+2016-09-09T06:54:23.780Z,13.3663,-89.0828,52.37,4.2,mb,,165,0.349,1.01,us,us20007cas,2016-12-07T02:56:07.040Z,15km SSW of El Rosario  El Salvador,earthquake,7.3,3.3,0.216,6,reviewed,us,us
+2016-08-05T08:14:21.150Z,13.0191,-88.6023,67.01,4.3,mb,,151,0.903,0.79,us,us10006cb7,2016-10-26T03:10:19.040Z,29km S of Puerto El Triunfo  El Salvador,earthquake,7.3,8,0.137,15,reviewed,us,us
+2016-07-19T08:31:29.420Z,13.0142,-86.8614,3.95,3.8,mb,,116,0.365,0.98,us,us20006h2k,2016-09-17T01:27:50.040Z,5km ESE of Somotillo  Nicaragua,earthquake,3.5,10,0.361,2,reviewed,us,us
+2016-07-19T07:32:19.270Z,13.0233,-88.8996,57.42,4,mb,,165,0.734,1.31,us,us20006h2l,2016-09-17T01:27:50.040Z,47km SW of Puerto El Triunfo  El Salvador,earthquake,7.4,13.4,0.212,6,reviewed,us,us
+2016-07-14T07:02:11.980Z,13.1624,-89.0328,59.58,3.6,mb,,181,0.556,1.15,us,us10006a9i,2016-09-08T01:50:31.040Z,37km S of El Rosario  El Salvador,earthquake,4.4,27,0.501,1,reviewed,us,us
+2016-06-21T19:11:31.740Z,12.98,-86.9406,3.8,4.1,mb,,87,0.301,1.11,us,us200066k2,2016-08-27T02:15:33.040Z,7km SSW of Somotillo  Nicaragua,earthquake,1.7,5.8,0.175,10,reviewed,us,us
+2016-06-13T14:45:15.860Z,13.0439,-88.5889,62.43,4.4,mb,,67,0.894,1.34,us,us2000642z,2016-08-25T01:22:54.040Z,26km S of Puerto El Triunfo  El Salvador,earthquake,6.6,6.1,0.052,105,reviewed,us,us
+2016-06-10T20:57:26.120Z,12.9255,-86.9494,5.14,4.2,mb,,86,0.248,0.76,us,us200064sx,2016-08-25T01:22:50.040Z,13km SSW of Somotillo  Nicaragua,earthquake,4.6,6.3,0.176,9,reviewed,us,us
+2016-06-10T13:19:43.470Z,12.9515,-86.9131,2.75,4.3,mb,,85,0.286,1.04,us,us200063i5,2016-08-25T01:22:50.040Z,10km S of Somotillo  Nicaragua,earthquake,6.2,3.1,0.129,17,reviewed,us,us
+2016-06-10T13:15:25.440Z,12.9368,-86.8817,5.06,4.2,md,,109,0.29,0.6,us,us20006493,2016-08-25T01:22:50.040Z,12km SSE of Somotillo  Nicaragua,earthquake,3.8,12.6,,,reviewed,us,snet
+2016-06-10T03:34:20.220Z,16.4099,-87.2215,10,4.7,mb,,35,2.339,1.26,us,us200063d3,2016-08-25T01:22:49.040Z,70km W of Sandy Bay  Honduras,earthquake,6.7,1.9,0.09,38,reviewed,us,us
+2016-05-10T07:33:20.440Z,14.7644,-87.6234,14.33,4,md,,74,0.78,1.32,us,us10005hnz,2016-07-20T18:10:51.040Z,1km NNW of La Libertad  Honduras,earthquake,5.1,9.4,,,reviewed,us,snet
+2016-05-08T14:00:57.870Z,14.6991,-87.6197,18.95,4,mb,,99,0.721,0.75,us,us200062iv,2016-07-20T18:10:48.040Z,3km W of Jamalteca  Honduras,earthquake,3.7,7.3,0.231,5,reviewed,us,us
+2016-04-30T20:16:55.640Z,13.0897,-89.223,44.09,4,mb,,189,0.593,0.97,us,us10005j36,2016-07-19T20:03:07.040Z,45km SSE of La Libertad  El Salvador,earthquake,9.2,12.3,0.299,3,reviewed,us,us
+2016-04-22T08:54:28.150Z,14.8079,-87.6185,9.23,4.3,mwr,,70,0.818,0.91,us,us20005ktb,2016-07-08T02:49:17.040Z,6km N of La Libertad  Honduras,earthquake,7,4.7,0.063,24,reviewed,us,us
+2016-04-20T20:13:00.880Z,12.9312,-88.7384,59.43,4.5,mb,,79,0.891,1.13,us,us20005k9e,2016-06-27T23:02:29.040Z,43km SSW of Puerto El Triunfo  El Salvador,earthquake,7.4,6.1,0.044,152,reviewed,us,us
+2016-03-23T01:12:47.240Z,13.2921,-89.0994,66.79,4.2,mb,,115,0.412,1.24,us,us20005bxt,2016-06-09T21:41:57.040Z,23km SSW of El Rosario  El Salvador,earthquake,6.9,6.6,0.078,46,reviewed,us,us
+2016-03-12T06:31:42.930Z,13.3094,-89.1159,43.87,4,mb,,184,0.391,0.98,us,us20005g0x,2016-05-21T00:05:26.040Z,22km SSW of El Rosario  El Salvador,earthquake,8.3,8,0.365,2,reviewed,us,us
+2016-03-01T01:08:43.010Z,13.0839,-88.8191,59.53,5.1,mwr,,69,0.721,0.82,us,us10004tqy,2016-05-06T23:34:20.040Z,36km SW of Puerto El Triunfo  El Salvador,earthquake,3.4,4.8,0.058,29,reviewed,us,us
+2016-02-19T04:42:38.920Z,13.8074,-88.8387,201.31,5,mb,,64,0.4,0.94,us,us10004qz4,2016-05-03T23:44:11.040Z,8km ENE of San Martin  El Salvador,earthquake,7.6,5.4,0.031,338,reviewed,us,us
+2016-02-18T04:45:56.000Z,13.1003,-88.6707,69.87,4.3,mb,,169,0.798,0.62,us,us10004rqq,2016-04-26T23:28:26.040Z,24km SSW of Puerto El Triunfo  El Salvador,earthquake,5.4,9.2,0.122,19,reviewed,us,us
+2016-02-11T01:04:43.610Z,13.06,-88.8526,63.11,4.4,mb,,88,0.724,0.84,us,us20004zf5,2016-04-19T01:33:29.040Z,40km SW of Jiquilisco  El Salvador,earthquake,7.1,6,0.061,77,reviewed,us,us
+2015-12-10T01:43:32.760Z,13.0939,-89.2215,53.63,4.1,mb,,185,0.589,0.9,us,us20004h8h,2016-03-05T01:41:59.040Z,44km SSE of La Libertad  El Salvador,earthquake,8.1,8.2,0.174,9,reviewed,us,us
+2015-12-06T08:26:24.310Z,13.2274,-87.7536,180.34,4.4,mb,,143,0.865,0.82,us,us20004fxt,2016-03-02T03:36:34.040Z,12km WSW of Amapala  Honduras,earthquake,7.9,7.3,0.073,54,reviewed,us,us
+2015-12-04T16:29:26.240Z,13.106,-89.1304,37.02,4,md,,220,0.585,0.68,us,us10004alh,2016-03-02T03:36:31.040Z,44km SSW of El Rosario  El Salvador,earthquake,5,73.6,,,reviewed,us,snet
+2015-11-27T11:46:27.180Z,13.0906,-88.9476,52,5.6,mww,,43,0.653,1.07,us,us100041q5,2016-11-10T22:02:24.747Z,45km S of El Rosario  El Salvador,earthquake,6.3,1.9,,,reviewed,us,us
+2015-11-20T01:49:19.170Z,16.5632,-87.1467,24.84,4.2,mb,,140,2.494,1.14,us,us100040dz,2016-02-18T04:48:45.040Z,67km WNW of Sandy Bay  Honduras,earthquake,9.6,4,0.09,34,reviewed,us,us
+2015-10-30T23:56:30.100Z,13.1258,-88.6936,70,4.4,mb,,170,0.764,0.89,us,us200041kp,2016-01-30T02:10:58.040Z,23km SW of Puerto El Triunfo  El Salvador,earthquake,8,11.6,0.082,43,reviewed,us,us
+2015-10-27T22:49:41.760Z,13.3212,-88.0872,144.97,4.9,mww,,50,1.077,1.03,us,us20004005,2016-11-10T21:57:26.272Z,12km NNE of Chirilagua  El Salvador,earthquake,6.5,4.2,,,reviewed,us,us
+2015-10-14T07:31:52.240Z,13.0235,-88.7959,51.84,4.1,md,,119,0.783,1.14,us,us10003nix,2016-01-11T21:07:26.040Z,39km SW of Puerto El Triunfo  El Salvador,earthquake,7.3,9.8,,,reviewed,us,snet
+2015-10-02T11:01:27.440Z,13.2629,-89.1194,67.73,4.3,mb,,115,0.435,1,us,us10003jr1,2016-01-04T22:28:45.040Z,27km SSW of El Rosario  El Salvador,earthquake,6.8,8,0.068,61,reviewed,us,us
+2015-09-30T23:45:45.570Z,13.2811,-87.8732,5.3,4,md,,144,0.967,0.57,us,us10003v1l,2015-12-28T23:08:52.040Z,3km SSW of Conchagua  El Salvador,earthquake,3.5,9,,,reviewed,us,snet
+2015-09-30T17:31:32.780Z,13.4193,-87.7209,10,4.4,mb,,103,0.769,0.96,us,us10003n17,2015-12-28T23:08:52.040Z,7km SW of El Cubolero  Honduras,earthquake,5.9,1.9,0.309,3,reviewed,us,us
+2015-09-28T13:37:04.560Z,16.6265,-86.397,12.8,4.9,mb,,32,2.69,0.64,us,us20003pnj,2016-11-10T21:54:20.120Z,30km N of French Harbor  Honduras,earthquake,6.5,4.2,0.03,350,reviewed,us,us
+2015-09-27T21:16:20.000Z,12.951,-89.168,21.3,4.1,md,,,,0.53,us,us10003iz2,2015-12-28T23:08:45.040Z,61km SSE of La Libertad  El Salvador,earthquake,5.6,8.9,,,reviewed,snet,snet
+2015-09-22T02:48:58.260Z,13.1716,-88.9285,71.28,4.2,mb,,138,0.591,0.74,us,us20003mpz,2015-12-21T23:16:31.040Z,36km S of Zacatecoluca  El Salvador,earthquake,5.5,3.4,0.109,23,reviewed,us,us
+2015-09-21T09:20:21.470Z,13.4733,-89.3749,62.18,4.3,mb,,94,0.253,0.83,us,us20003me8,2015-12-21T23:16:29.040Z,5km WSW of La Libertad  El Salvador,earthquake,5.5,6.2,0.119,20,reviewed,us,us
+2015-09-21T05:08:57.220Z,13.7557,-89.2768,4.15,3.1,md,,141,0.081,0.98,us,us20003mpq,2015-12-21T23:16:28.040Z,7km WNW of Mejicanos  El Salvador,earthquake,5.2,6,,,reviewed,us,snet
+2015-09-12T11:22:02.140Z,12.9557,-86.581,6.87,4.5,mb,,35,0.421,0.63,us,us20003j0c,2015-12-12T00:42:48.040Z,8km NNW of El Sauce  Nicaragua,earthquake,3.7,5,0.039,192,reviewed,us,us
+2015-08-21T16:04:45.240Z,13.3204,-89.2923,73.65,4.2,mb,,132,0.369,0.88,us,us1000340s,2015-11-24T02:09:27.040Z,18km S of La Libertad  El Salvador,earthquake,7.5,7.5,0.118,20,reviewed,us,us
+2015-08-09T07:05:58.380Z,13.6682,-88.478,9.86,4.5,mwr,,129,0.732,0.65,us,us100030ix,2015-11-06T18:06:23.040Z,13km WSW of Sesori  El Salvador,earthquake,5.8,5.9,0.063,24,reviewed,us,us
+2015-06-13T09:50:00.480Z,13.0812,-88.6957,71.12,4.3,mb,,162,0.796,1.17,us,us10002lkn,2015-08-20T00:43:56.040Z,27km SW of Puerto El Triunfo  El Salvador,earthquake,7.5,9.3,0.09,35,reviewed,us,us
+2015-06-06T10:19:39.870Z,13.0707,-88.7932,57.43,4.4,mb,,89,0.746,0.87,us,us20002mj9,2015-08-10T13:08:22.040Z,35km SW of Puerto El Triunfo  El Salvador,earthquake,6.6,6.7,0.049,121,reviewed,us,us
+2015-05-28T21:26:32.960Z,13.2655,-87.8444,181.63,4.4,mb,,142,0.963,0.63,us,us20002mzp,2015-08-08T00:48:53.040Z,5km SSE of Conchagua  El Salvador,earthquake,5.7,8.7,0.054,100,reviewed,us,us
+2015-04-29T01:25:22.960Z,13.4194,-89.3552,68.6,4.4,mb,,186,0.291,0.95,us,us20002acw,2015-07-03T00:23:46.040Z,8km SSW of La Libertad  El Salvador,earthquake,4.7,6,0.169,10,reviewed,us,us
+2015-04-12T15:12:13.780Z,12.9942,-89.1516,54.01,4.2,mb,,200,0.692,0.81,us,us10002aur,2015-06-22T23:18:58.040Z,57km SSE of La Libertad  El Salvador,earthquake,4.4,10,0.153,12,reviewed,us,us
+2015-04-03T12:36:58.000Z,13.004,-88.729,62.2,4.6,mb,,,,1.14,us,us10001tk0,2015-06-16T01:00:25.040Z,36km SSW of Puerto El Triunfo  El Salvador,earthquake,3.8,5.3,0.036,235,reviewed,snet,us
+2015-03-10T17:38:57.680Z,13.0781,-88.633,84.65,4.3,mb,,121,0.839,1.12,us,us10001lbu,2015-05-28T00:48:41.040Z,24km SSW of Puerto El Triunfo  El Salvador,earthquake,5.7,6.3,0.053,103,reviewed,us,us
+2015-02-24T03:03:14.900Z,13.5312,-88.603,183.23,4.3,mb,,148,0.63,0.39,us,usc000tskr,2015-05-12T20:29:43.040Z,8km WNW of Berlin  El Salvador,earthquake,5.5,6.2,0.111,23,reviewed,us,us
+2015-02-02T05:27:43.620Z,13.1174,-88.0009,151.73,4.4,mb,,116,1.015,0.83,us,usc000tnpm,2015-05-02T14:06:22.040Z,10km SSE of Intipuca  El Salvador,earthquake,9.2,9.2,0.067,65,reviewed,us,us
+2015-01-31T11:40:27.830Z,14.5281,-89.1301,10,4.6,mb,,84,0.207,0.59,us,usc000tkks,2015-05-12T12:58:27.246Z,10km NNE of Sinuapa  Honduras,earthquake,3.4,1.7,0.059,91,reviewed,us,us
+2015-01-30T15:01:05.000Z,14.505,-89.185,1.1,4,md,,,,1.28,us,usc000tmh8,2015-05-02T14:05:50.040Z,6km N of Sinuapa  Honduras,earthquake,2.9,7.6,,,reviewed,snet,snet
+2015-01-29T07:42:15.000Z,12.963,-88.649,50.1,4.3,mwr,,,,1.48,us,usc000tmfm,2015-05-02T14:06:22.040Z,37km SSW of Puerto El Triunfo  El Salvador,earthquake,5.8,9,0.086,13,reviewed,snet,us
+2015-01-28T17:56:04.820Z,13.0106,-89.0659,70.57,4.3,mb,,160,0.691,1.17,us,usc000tlkc,2015-04-24T16:56:18.040Z,54km S of El Rosario  El Salvador,earthquake,8.2,4.7,0.126,20,reviewed,us,us
+2015-01-25T22:08:54.000Z,13.743,-89.226,7.3,3.4,md,,,,0.76,us,usb000tihp,2015-04-24T16:54:34.040Z,1km WNW of Mejicanos  El Salvador,earthquake,5.8,7.9,,,reviewed,snet,snet
+2015-01-10T01:59:00.640Z,12.9384,-89.2011,60.41,4.3,mb,,174,0.744,0.9,us,usc000teeg,2015-04-10T18:56:28.040Z,62km SSE of La Libertad  El Salvador,earthquake,9,9.5,0.116,29,reviewed,us,us
+2015-01-08T09:44:14.000Z,13.144,-89.303,49.4,4.4,mb,,,,1.29,us,usc000td33,2015-04-10T18:56:26.040Z,38km S of La Libertad  El Salvador,earthquake,7.5,3.2,0.068,74,reviewed,snet,us
+2014-12-30T22:03:07.000Z,13.139,-89.276,50.1,4.3,mb,,,,1.03,us,usc000tavb,2015-03-17T02:38:17.040Z,38km S of La Libertad  El Salvador,earthquake,6.7,7,0.108,26,reviewed,snet,us
+2014-12-06T17:06:59.390Z,13.5156,-88.3152,194.49,4.4,mb,,121,1.146,0.87,us,usc000t891,2015-02-28T02:16:10.040Z,4km ENE of Chinameca  El Salvador,earthquake,10.8,7.3,0.058,86,reviewed,us,us
+2014-11-13T16:14:00.080Z,13.1221,-87.5824,199.82,5.2,mb,,34,0.146,0.85,us,usc000swzu,2015-02-12T01:42:39.040Z,20km SSE of Amapala  Honduras,earthquake,5.2,4.5,0.031,372,reviewed,us,us
+2014-11-13T05:18:09.000Z,12.936,-88.644,64.4,3.7,md,,,,1.34,us,usb000t1lk,2015-02-12T01:42:38.040Z,39km SSW of Puerto El Triunfo  El Salvador,earthquake,4,8.6,,,reviewed,snet,snet
+2014-10-23T23:05:32.000Z,12.952,-88.728,50.9,4.9,mb,,,,1.16,us,usb000sq7e,2015-01-17T01:25:34.040Z,41km SSW of Puerto El Triunfo  El Salvador,earthquake,5.5,3.9,0.033,312,reviewed,snet,us
+2014-10-04T16:07:40.970Z,13.7634,-88.7865,200.88,4.5,mb,,82,0.439,0.67,us,usb000sisc,2014-12-23T01:42:02.040Z,6km ENE of San Sebastian  El Salvador,earthquake,4.6,5.6,0.074,55,reviewed,us,us
+2014-09-23T20:51:42.000Z,13.131,-89.209,62.2,4,md,,,,1.06,us,usb000si65,2014-12-19T00:05:27.040Z,41km SSE of La Libertad  El Salvador,earthquake,8,5.8,,,reviewed,snet,snet
+2014-09-15T14:23:50.950Z,13.1898,-89.0329,78,4.2,mb,,120,0.53,1.16,us,usb000scix,2014-12-08T23:31:02.040Z,34km S of El Rosario  El Salvador,earthquake,7.2,6.2,0.078,48,reviewed,us,us
+2014-09-08T03:14:49.220Z,13.0409,-89.334,35,3.9,mb,,174,0.649,0.95,us,usb000ski2,2014-12-05T23:36:38.040Z,49km S of La Libertad  El Salvador,earthquake,6,2,0.125,17,reviewed,us,us
+2014-09-08T02:39:32.670Z,13.059,-88.7182,47.26,4,mb,,154,0.799,1.42,us,usb000sa8u,2014-12-05T23:36:38.040Z,30km SW of Puerto El Triunfo  El Salvador,earthquake,5.8,12.1,0.183,8,reviewed,us,us
+2014-08-31T13:55:02.620Z,13.0101,-88.6497,57.94,4.6,mb,,42,0.879,0.99,us,usc000s8h6,2014-11-29T00:09:23.000Z,32km SSW of Puerto El Triunfo  El Salvador,earthquake,6.1,1.9,0.034,279,reviewed,us,us
+2014-08-30T19:05:10.010Z,13.1191,-87.6765,185.43,4.4,mb,,154,0.756,0.53,us,usc000s8b8,2014-11-29T00:09:21.000Z,19km S of Amapala  Honduras,earthquake,8.2,7.9,0.081,44,reviewed,us,us
+2014-08-03T00:23:56.450Z,13.6878,-89.0709,185.42,4.4,mb,,140,0.156,0.88,us,usb000rzkj,2014-10-29T19:52:57.000Z,4km ESE of Ilopango  El Salvador,earthquake,,7.3,0.049,124,reviewed,us,us
+2014-06-22T03:56:02.000Z,13.188,-89.335,58.4,4.1,mb,,,,0.95,us,usc000rjwh,2014-09-19T17:23:05.000Z,33km S of La Libertad  El Salvador,earthquake,,5.9,0.139,14,reviewed,snet,us
+2014-06-01T09:19:39.000Z,13.028,-88.636,64.1,4.1,mb,,,,1.39,us,usc000rhdx,2014-08-26T01:21:08.000Z,29km SSW of Puerto El Triunfo  El Salvador,earthquake,,6.6,0.081,43,reviewed,snet,us
+2014-05-14T17:29:43.370Z,12.967,-88.8344,61.88,4.5,mb,,83,0.813,0.99,us,usb000qmmp,2015-01-31T04:43:14.567Z,46km SW of Puerto El Triunfo  El Salvador,earthquake,,5.9,0.044,160,reviewed,us,us
+2014-04-17T04:51:51.810Z,13.7911,-89.1005,10,4.4,mb,,109,0.164,0.83,us,usb000pnh0,2014-07-04T01:33:18.000Z,2km ENE of Tonacatepeque  El Salvador,earthquake,,2,0.24,5,reviewed,us,us
+2014-04-03T00:28:43.480Z,13.4276,-89.0975,74.22,4,mb,,167,0.288,1.45,us,usc000p243,2014-06-11T06:06:03.000Z,10km SW of El Rosario  El Salvador,earthquake,,3.4,0.195,7,reviewed,us,us
+2014-03-14T19:24:40.610Z,13.0613,-88.4488,82.5,4.6,mb,,121,0.871,1.33,us,usc000nbvl,2014-05-16T21:51:40.000Z,26km SSE of Puerto El Triunfo  El Salvador,earthquake,,8.1,0.206,8,reviewed,us,us
+2014-03-09T19:32:32.540Z,13.5584,-88.3302,221.41,4.3,mb,,121,0.885,1.08,us,usc000n61p,2014-05-15T02:23:58.000Z,2km ENE of Lolotique  El Salvador,earthquake,,7.2,0.106,28,reviewed,us,us
+2014-02-14T15:21:45.820Z,13.0939,-87.5887,175.84,4.3,mb,,112,1.005,1.26,us,usb000my4m,2014-04-30T21:18:20.000Z,23km SSE of Amapala  Honduras,earthquake,,7.3,0.169,10,reviewed,us,us
+2014-02-07T16:50:04.000Z,13.086,-89.014,50.7,4.2,md,,,,0.71,us,usc000mmca,2014-04-22T18:30:08.000Z,45km S of El Rosario  El Salvador,earthquake,,7.5,,,reviewed,snet,snet
+2014-02-05T00:23:09.870Z,15.1013,-88.6151,9.71,4.1,mb,,60,0.633,0.96,us,usc000mhs5,2014-04-22T18:30:05.000Z,3km N of El Corozal  Honduras,earthquake,,2.8,0.123,20,reviewed,us,us
+2014-02-04T06:59:56.970Z,13.2127,-89.193,68.8,4.1,mb,,169,0.472,1.48,us,usc000mguz,2015-01-30T16:01:30.654Z,33km SSE of La Libertad  El Salvador,earthquake,,3.9,0.131,18,reviewed,us,us
+2014-01-20T12:54:42.000Z,12.99,-88.851,49.1,3.8,mb,,,,0.77,us,usb000m7ay,2014-03-22T00:05:26.000Z,46km SW of Puerto El Triunfo  El Salvador,earthquake,,8.9,0.293,3,reviewed,snet,us
+2014-01-03T22:40:02.040Z,14.441,-88.8671,180.31,4.1,mb,,147,1.592,0.73,us,usb000m4pl,2014-03-07T00:25:57.000Z,8km ESE of Sensenti  Honduras,earthquake,,12.3,0.213,6,reviewed,us,us
+2013-12-16T04:59:11.700Z,13.5738,-88.4544,191.16,4.7,mb,,113,0.763,0.89,us,usc000llbq,2014-02-21T23:00:56.000Z,9km NW of Jucuapa  El Salvador,earthquake,,6.3,0.049,,reviewed,us,us
+2013-12-13T04:45:11.460Z,13.1334,-89.0898,67.59,5.6,mwb,,41,0.567,0.95,us,usc000ljv7,2017-10-11T20:44:22.168Z,40km S of El Rosario  El Salvador,earthquake,,3.6,0.061,,reviewed,us,us
+2013-11-29T16:01:57.850Z,13.1592,-89.1112,69.61,4.8,mb,,128,0.537,1.02,us,usb000l82l,2015-01-30T00:00:35.723Z,38km SSW of El Rosario  El Salvador,earthquake,,5.6,0.048,,reviewed,us,us
+2013-11-24T07:12:41.000Z,13.093,-89.18,53.3,4,md,,,,0.75,us,usc000lv94,2014-02-11T02:18:57.000Z,46km SSE of La Libertad  El Salvador,earthquake,,9.5,,,reviewed,snet,snet
+2013-11-21T04:28:40.530Z,13.0601,-89.0841,62.46,4.3,mb,,86,0.639,0.82,us,usb000l3bs,2015-01-30T14:06:54.720Z,48km S of El Rosario  El Salvador,earthquake,,6.4,0.083,,reviewed,us,us
+2013-11-16T19:24:08.000Z,13.211,-88.854,82.2,4.1,md,,,,0.59,us,usb000l3m8,2014-01-31T21:22:23.000Z,31km WSW of Jiquilisco  El Salvador,earthquake,,6.9,,,reviewed,snet,snet
+2013-11-13T10:13:15.810Z,15.5906,-87.2698,10,4.3,mwr,,45,1.281,0.88,us,usb000kwsb,2015-01-31T02:03:11.253Z,3km WNW of San Juan Pueblo  Honduras,earthquake,,1.8,0.065,,reviewed,us,us
+2013-11-03T10:52:44.570Z,12.9944,-88.8372,67.25,3.9,mb,,192,0.788,1.4,us,usb000l3dm,2014-01-10T10:03:45.000Z,44km SW of Puerto El Triunfo  El Salvador,earthquake,,9.3,0.097,,reviewed,us,us
+2013-11-01T13:39:50.120Z,12.9878,-88.8534,68.05,4.2,mb,,146,0.786,1.32,us,usb000kqyf,2014-01-10T10:03:41.000Z,46km SW of Puerto El Triunfo  El Salvador,earthquake,,7.1,0.215,,reviewed,us,us
+2013-09-25T09:40:13.000Z,13.095,-89.186,52.8,4.1,mb,,,,1.48,us,usb000kj3z,2013-12-13T09:00:32.000Z,45km SSE of La Libertad  El Salvador,earthquake,,8,0.369,,reviewed,snet,us
+2013-09-19T08:29:21.830Z,15.5886,-87.142,9.38,4.1,mwr,,60,1.404,1.03,us,usb000jw2j,2013-12-09T21:11:08.000Z,1km SE of San Antonio  Honduras,earthquake,,2.7,0.063,,reviewed,us,us
+2013-09-09T09:57:24.590Z,13.2056,-89.2719,66.66,4.1,mb,,175,1.347,0.8,us,usb000k69b,2013-11-15T03:20:29.000Z,31km S of La Libertad  El Salvador,earthquake,,14.2,0.235,,reviewed,us,us
+2013-08-24T18:59:06.800Z,15.1698,-87.5666,14.12,4.6,mwr,,62,1.138,1.31,us,usb000jbep,2015-01-28T23:26:51.548Z,11km SSE of Nueva Esperanza  Honduras,earthquake,,4.5,0.069,,reviewed,us,us
+2013-08-04T15:43:04.000Z,13.14,-89.332,55.6,4.4,mb,,,,1.68,us,usb000iv8u,2013-09-25T17:45:52.000Z,38km S of La Libertad  El Salvador,earthquake,,7.5,0.059,,reviewed,us_snet,us
+2013-07-15T21:59:31.000Z,13.177,-89.365,63.4,4.4,mb,65,100,,,us,usb000iexh,2014-11-07T01:51:16.659Z,29km SSE of La Libertad  El Salvador,earthquake,,,,84,reviewed,snet,us
+2013-07-09T12:03:30.000Z,13.182,-89.365,60.2,4.1,md,14,100,,,us,usp000k1ux,2014-11-07T01:51:14.560Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2013-07-08T02:52:42.840Z,13.29,-89.172,55,5.7,mww,110,24,,1.52,us,usb000i8nx,2015-01-28T17:11:18.787Z,31km SSW of El Rosario  El Salvador,earthquake,,,,,reviewed,us,us
+2013-06-26T03:37:08.650Z,12.979,-88.78,62.3,4,mb,32,157,,1.44,us,usc000i0jk,2014-11-07T01:51:07.538Z,42km SW of Puerto El Triunfo  El Salvador,earthquake,,18.4,,27,reviewed,us,us
+2013-06-22T10:59:33.000Z,12.96,-89.351,44.5,4,md,13,100,,,us,us2013rtbb,2014-11-07T01:51:06.737Z,72km SSW of La Libertad  El Salvador,earthquake,,,,,reviewed,snet,snet
+2013-06-20T16:16:11.510Z,15.686,-87.201,9,4.3,mb,47,88,,1.44,us,usc000hw3i,2014-11-07T01:51:06.372Z,10km E of Atenas de San Cristobal  Honduras,earthquake,,5.7,,31,reviewed,us,us
+2013-06-02T08:33:18.980Z,16.325,-87.87,10,4.3,mb,85,84,,1.41,us,usp000k12e,2014-11-07T01:50:59.560Z,offshore Honduras,earthquake,,,,99,reviewed,us,us
+2013-05-29T04:24:38.500Z,14.622,-89.032,10.8,4.2,mb,20,161,,1.13,us,usb000h7z2,2014-11-07T01:50:55.279Z,7km SE of La Encarnacion  Honduras,earthquake,,5,,14,reviewed,us,us
+2013-05-15T13:20:27.890Z,13.056,-88.781,82.2,4.4,mb,105,85.2,,0.77,us,us2013qfay,2015-01-30T17:41:23.866Z,30km SW of Puerto El Triunfo  El Salvador,earthquake,,3.5,,72,reviewed,us,us
+2013-05-05T00:42:24.850Z,15.545,-87.144,26.9,4.7,mb,273,60.8,,1.07,us,us2013pvad,2015-03-24T18:21:40.743Z,2km SE of San Juan Pueblo  Honduras,earthquake,,8.6,,233,reviewed,us,us
+2013-04-24T02:15:51.040Z,15.527,-87.167,10,4.5,mb,131,67.5,,1.11,us,usp000k0dn,2014-11-07T01:50:38.158Z,Honduras,earthquake,,,,104,reviewed,us,us
+2013-04-24T02:09:12.680Z,15.714,-86.991,10,4.4,mb,18,66.1,,1.29,us,usp000k0dm,2014-11-07T01:50:38.155Z,Honduras,earthquake,,,,11,reviewed,us,us
+2013-04-24T02:05:11.680Z,15.342,-87.218,10,4.8,mb,29,83.1,,1.05,us,usp000k0dk,2014-11-07T01:50:38.152Z,Honduras,earthquake,,,,22,reviewed,us,us
+2013-04-24T02:04:21.430Z,15.39,-87.177,10,4.7,mb,226,73.2,,1.3,us,usb000geq5,2015-01-30T06:01:42.062Z,5km SSE of San Juan Pueblo  Honduras,earthquake,,,,208,reviewed,us,us
+2013-04-21T07:46:44.230Z,15.597,-87.195,15,4.7,mb,103,72.1,,1.37,us,usb000gd3b,2014-11-07T01:50:37.116Z,1km SE of San Francisco  Honduras,earthquake,,0,,76,reviewed,us,us
+2013-04-21T06:51:37.380Z,15.576,-87.216,11.6,4.1,mb,39,88,,0.92,us,usb000gd2r,2015-01-31T02:13:07.250Z,3km SSE of San Antonio  Honduras,earthquake,,8.4,,38,reviewed,us,us
+2013-04-18T17:59:50.110Z,15.485,-87.103,15.5,4.6,mb,143,67.3,,1.02,us,usb000gasz,2014-11-07T01:50:35.653Z,11km SSE of San Francisco  Honduras,earthquake,,11.1,,99,reviewed,us,us
+2013-04-18T17:25:57.930Z,15.473,-87.32,22.9,4.4,mb,23,126.5,,1,us,usb000gat2,2014-11-07T01:50:35.648Z,19km E of Ocote Paulino  Honduras,earthquake,,23,,12,reviewed,us,us
+2013-04-12T03:24:34.170Z,15.602,-87.586,10,4.1,mb,22,125.3,,0.92,us,usb000g5iu,2014-11-07T01:50:33.051Z,7km ESE of Mezapa  Honduras,earthquake,,,,17,reviewed,us,us
+2013-04-10T19:14:01.540Z,15.52,-87.159,3.5,5.4,mwb,502,36.4,,0.9,us,usb000g4a2,2017-10-11T20:29:04.023Z,5km S of San Juan Pueblo  Honduras,earthquake,,6.4,,,reviewed,us,us
+2013-02-05T16:32:06.420Z,12.964,-88.131,45.3,4.3,mb,11,177.5,,0.73,us,usp000jz0m,2014-11-07T01:50:00.780Z,offshore El Salvador,earthquake,,16.1,,6,reviewed,us,us
+2013-02-01T17:03:33.000Z,13.176,-89.262,55.8,4.4,md,11,180,,,us,usp000jyy1,2014-11-07T01:49:58.422Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2013-01-29T15:09:32.000Z,13.05,-89.011,53.1,4.1,mb,15,164.2,,,us,usp000jyw0,2014-11-07T01:49:54.401Z,offshore El Salvador,earthquake,,,,3,reviewed,snet,us
+2013-01-26T09:36:40.890Z,13.094,-89.248,76,4.5,mb,56,178.2,,0.89,us,usp000jyu7,2015-03-24T18:30:41.125Z,offshore El Salvador,earthquake,,7.2,,34,reviewed,us,us
+2012-12-28T16:23:48.000Z,13.501,-89.098,169.6,4.7,mb,54,105.2,,,us,usp000jxhh,2014-11-07T01:49:40.533Z,El Salvador,earthquake,,,,29,reviewed,snet,us
+2012-10-25T21:24:11.260Z,13.161,-88.328,29.5,4.2,mb,21,124.3,,1.05,us,usp000juer,2014-11-07T01:49:08.742Z,offshore El Salvador,earthquake,,22.5,,7,reviewed,us,us
+2012-10-05T06:38:31.790Z,13.401,-87.831,10,3.9,md,7,157.2,,1.48,us,usp000jtjw,2014-11-07T01:49:02.760Z,Honduras,earthquake,,,,,reviewed,us,snet
+2012-10-05T05:31:28.110Z,13.378,-87.804,10,3.6,md,6,156,,1.12,us,usp000jtjp,2014-11-07T01:49:02.741Z,Honduras,earthquake,,,,,reviewed,us,snet
+2012-10-05T05:27:59.000Z,13.328,-87.821,5.7,3.6,md,5,252.4,,,us,usp000jtjn,2014-11-07T01:49:02.739Z,Golfo de Fonseca  El Salvador,earthquake,,,,,reviewed,snet,snet
+2012-10-02T03:52:49.460Z,13.819,-89.152,81.5,4.4,mb,18,137.3,,0.88,us,usp000jtcw,2014-11-07T01:49:00.607Z,El Salvador,earthquake,,9.2,,3,reviewed,us,us
+2012-09-28T05:03:33.000Z,13.33,-87.824,5.5,3.6,md,6,162,,,us,usp000jt58,2014-11-07T01:48:56.147Z,Golfo de Fonseca  El Salvador,earthquake,,,,,reviewed,snet,snet
+2012-09-24T22:22:21.440Z,13.332,-89.185,110,4,mb,16,186.9,,1.41,us,usp000jswv,2014-11-07T01:48:54.565Z,offshore El Salvador,earthquake,,11.7,,8,reviewed,us,us
+2012-09-23T01:51:36.790Z,12.927,-88.641,82.5,4.5,mb,200,81.8,,0.99,us,usp000jsrr,2015-03-24T02:16:51.257Z,offshore El Salvador,earthquake,,4,,143,reviewed,us,us
+2012-09-19T04:27:02.930Z,13.046,-88.615,82.3,4.1,mb,38,166.7,,0.95,us,usp000jsjk,2014-11-07T01:48:52.794Z,offshore El Salvador,earthquake,,7,,25,reviewed,us,us
+2012-08-27T18:44:41.500Z,13.312,-88.347,10,4,mb,13,139.7,,1.35,us,usp000jqxw,2014-11-07T01:48:38.348Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2012-08-27T12:56:33.240Z,12.967,-88.292,35,4.3,mb,31,129.8,,0.99,us,usp000jqx4,2014-11-07T01:48:38.260Z,offshore El Salvador,earthquake,,,,16,reviewed,us,us
+2012-08-18T06:43:46.190Z,13.094,-88.879,35,3.8,md,6,190,,0.99,us,usp000jqes,2014-11-07T01:48:35.329Z,offshore El Salvador,earthquake,,,,,reviewed,us,snet
+2012-08-16T20:13:03.360Z,13.253,-89.287,72.8,4.1,mb,29,125.1,,1.35,us,usp000jqd3,2014-11-07T01:48:35.026Z,offshore El Salvador,earthquake,,8.5,,4,reviewed,us,us
+2012-08-15T23:45:52.330Z,13.148,-89.215,56,5.5,mwb,475,22.9,,1.25,us,usp000jqc7,2017-10-11T20:11:52.291Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+2012-08-02T15:36:33.560Z,14.581,-89.01,25.1,4.6,mb,269,92.9,,1.08,us,usp000jpss,2015-03-24T01:31:41.664Z,Honduras,earthquake,,8.3,,220,reviewed,us,us
+2012-07-31T00:20:00.000Z,13.673,-88.785,6,4,mb,8,163,,,us,usp000jpnt,2014-11-07T01:48:25.396Z,El Salvador,earthquake,,,,6,reviewed,snet,us
+2012-07-22T10:36:41.740Z,14.504,-89.112,50.6,4.4,mb,157,87.3,,0.97,us,usp000jpae,2015-03-24T02:15:02.295Z,Honduras,earthquake,,5.6,,117,reviewed,us,us
+2012-07-12T03:52:49.830Z,16.083,-84.945,25.4,4.3,mb,129,34.5,,1.03,us,usp000jnws,2014-11-07T01:48:18.831Z,offshore Honduras,earthquake,,8.9,,99,reviewed,us,us
+2012-06-03T20:55:48.540Z,13.28,-89.3,74.7,4.2,mb,38,105.5,,1.29,us,usp000jm9x,2014-11-07T01:48:00.165Z,offshore El Salvador,earthquake,,8,,7,reviewed,us,us
+2012-05-27T21:52:52.360Z,13.147,-89.054,88.2,4.4,mb,27,173.9,,1.18,us,usp000jm0t,2014-11-07T01:47:54.134Z,offshore El Salvador,earthquake,,10,,19,reviewed,us,us
+2012-05-11T06:15:00.460Z,15.611,-88.819,8,4.4,mb,113,105.3,,1.08,us,usp000jk9v,2015-03-24T01:29:15.422Z,Guatemala,earthquake,,9.4,,76,reviewed,us,us
+2012-04-28T06:36:27.670Z,15.701,-89.345,28,4.2,mb,50,60.6,,1.35,us,usp000jjq9,2014-11-07T01:47:37.798Z,Guatemala,earthquake,,20.3,,29,reviewed,us,us
+2012-04-23T00:20:34.440Z,15.766,-89.211,10,5.2,mb,385,70.5,,1.05,us,usp000jjem,2014-11-07T01:47:36.118Z,Guatemala,earthquake,,,,296,reviewed,us,us
+2012-03-27T18:39:18.390Z,12.971,-89.222,60.5,4.3,mb,29,183.2,,1.54,us,usp000jgvs,2014-11-07T01:47:19.901Z,offshore El Salvador,earthquake,,14.8,,21,reviewed,us,us
+2012-02-07T16:16:42.540Z,14.794,-87.561,26.3,4.5,mb,80,76.9,,0.78,us,usp000jen7,2015-03-24T02:13:32.637Z,Honduras,earthquake,,9.6,,50,reviewed,us,us
+2012-02-07T15:48:54.850Z,13.284,-89.259,35,4.4,md,16,107.6,,1.15,us,usp000jen6,2014-11-07T01:46:59.000Z,offshore El Salvador,earthquake,,,,,reviewed,us,snet
+2012-02-06T10:30:26.370Z,14.835,-87.544,25.4,4.4,mb,102,74.1,,0.89,us,usp000jekb,2015-03-24T01:58:54.315Z,Honduras,earthquake,,9.7,,62,reviewed,us,us
+2012-02-05T14:19:39.320Z,13.314,-89.015,90.2,4.8,mb,227,54.2,,1.03,us,usp000jehp,2015-03-24T02:10:34.844Z,offshore El Salvador,earthquake,,,,140,reviewed,us,us
+2012-02-04T11:06:45.440Z,13.25,-89.26,81.7,4.4,mb,32,172.3,,0.92,us,usp000jefh,2015-03-24T02:19:30.593Z,offshore El Salvador,earthquake,,10.3,,26,reviewed,us,us
+2012-02-02T04:24:21.770Z,13.206,-89.198,104.3,4.6,mb,215,86.3,,1.09,us,usp000je9q,2015-03-24T01:25:20.205Z,offshore El Salvador,earthquake,,5.6,,150,reviewed,us,us
+2012-01-13T05:35:08.830Z,12.961,-88.322,35,4.5,mb,17,178.5,,1.07,us,usp000jde4,2014-11-07T01:46:46.779Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+2012-01-03T22:32:48.630Z,13.002,-88.296,93.5,4.5,mb,35,109.6,,1.25,us,usp000jd07,2014-11-07T01:46:42.893Z,offshore El Salvador,earthquake,,10.6,,18,reviewed,us,us
+2011-11-29T13:40:44.930Z,15.708,-87.021,8.3,4.2,mb,19,98.4,,1.25,us,usp000jbkm,2014-11-07T01:46:25.813Z,Honduras,earthquake,,26.8,,5,reviewed,us,us
+2011-11-29T06:26:34.130Z,13.577,-88.893,157.6,4.7,mb,126,82.1,,0.9,us,usp000jbk4,2014-11-07T01:46:25.727Z,El Salvador,earthquake,,4.3,,90,reviewed,us,us
+2011-11-24T21:13:15.650Z,13.297,-87.898,43.2,5,mwc,201,85,,1.22,us,usp000jbby,2015-03-24T01:23:23.651Z,El Salvador,earthquake,,6.6,,,reviewed,us,gcmt
+2011-10-30T06:28:08.000Z,13.162,-89.161,68.6,4.4,mb,69,185.3,,0.89,us,usp000ja4c,2014-11-07T01:46:12.593Z,offshore El Salvador,earthquake,,6.2,,47,reviewed,us,us
+2011-09-22T10:13:38.450Z,12.959,-88.58,90.9,4.4,mb,104,106.8,,0.78,us,usp000j8d6,2014-11-07T01:45:56.350Z,offshore El Salvador,earthquake,,5.9,,75,reviewed,us,us
+2011-08-15T12:58:08.320Z,15.859,-85.326,35,4.6,mb,150,58.3,,1.14,us,usp000j6gs,2015-03-24T02:05:18.515Z,Honduras,earthquake,,,,102,reviewed,us,us
+2011-08-13T00:53:51.810Z,12.928,-88.554,83.3,4.7,mb,214,87,,0.98,us,usp000j6d3,2015-03-24T01:19:48.586Z,offshore El Salvador,earthquake,,4.7,,136,reviewed,us,us
+2011-07-02T22:54:00.000Z,13.26,-87.849,6,4,mb,6,166.6,,,us,usp000j42t,2014-11-07T01:45:15.648Z,El Salvador,earthquake,,,,5,reviewed,snet,us
+2011-06-20T00:10:00.000Z,12.93,-88.951,30,4,mb,15,160.1,,,us,usp000j3ev,2014-11-07T01:45:07.394Z,offshore El Salvador,earthquake,,,,14,reviewed,snet,us
+2011-06-11T22:24:33.430Z,13.265,-87.685,10,4.1,mb,16,215.4,,0.64,us,usp000j30f,2014-11-07T01:45:04.458Z,Golfo de Fonseca  Honduras,earthquake,,,,10,reviewed,us,us
+2011-03-30T22:26:37.340Z,15.26,-87.65,37,4.5,mb,37,119.1,,1.32,us,usp000hyyk,2015-03-24T02:13:41.073Z,Honduras,earthquake,,16.6,,19,reviewed,us,us
+2011-03-29T11:30:18.820Z,15.853,-89.427,10,4.1,mb,17,249.5,,1.11,us,usp000hyv3,2014-11-07T01:44:22.009Z,Guatemala,earthquake,,,,5,reviewed,us,us
+2011-03-01T21:46:42.050Z,13.561,-88.452,198.8,4.7,mb,27,146.4,,1.14,us,usp000hv80,2014-11-07T01:43:50.352Z,El Salvador,earthquake,,7.4,,20,reviewed,us,us
+2011-02-16T02:38:32.520Z,13.112,-88.839,74,4.3,mb,36,119.8,,0.93,us,usp000hukc,2014-11-07T01:43:40.665Z,offshore El Salvador,earthquake,,8.6,,18,reviewed,us,us
+2011-01-31T03:50:28.910Z,13.14,-89.155,72.4,4.2,mb,24,168,,1.41,us,usp000htw9,2015-03-24T02:10:19.442Z,offshore El Salvador,earthquake,,9.4,,16,reviewed,us,us
+2011-01-04T00:49:41.500Z,13.06,-89.271,51.4,4.8,mb,228,71.6,,,us,usp000hsjb,2015-03-24T01:55:56.506Z,offshore El Salvador,earthquake,,,,88,reviewed,snet,us
+2010-12-20T17:21:26.180Z,12.995,-88.64,72.3,5.7,mwb,384,33.3,,1.22,us,usp000hr7g,2016-11-10T02:37:38.831Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+2010-10-01T03:18:40.720Z,13.292,-89.071,120,4.8,mb,197,79.6,,0.87,us,usp000hme8,2015-03-24T01:45:58.430Z,offshore El Salvador,earthquake,,6,,120,reviewed,us,us
+2010-09-26T08:03:38.560Z,13.199,-88.267,82.8,4.6,mb,69,151.4,,1.12,us,usp000hm6w,2014-11-07T01:42:30.854Z,El Salvador,earthquake,,,,46,reviewed,us,us
+2010-08-01T03:45:34.490Z,13.327,-88.532,138.8,4.2,mb,36,167.4,,1.03,us,usp000hh92,2014-11-07T01:42:07.108Z,El Salvador,earthquake,,9.3,,26,reviewed,us,us
+2010-05-12T17:23:00.370Z,12.966,-88.96,77.4,4.7,md,12,182.7,,1.37,us,usp000hcp1,2014-11-07T01:41:28.886Z,offshore El Salvador,earthquake,,13.8,,,reviewed,us,snet
+2010-05-03T11:14:10.510Z,12.964,-89.344,73.2,4.3,mb,25,172.6,,1.02,us,usp000hc8x,2014-11-07T01:41:26.085Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2010-04-24T15:45:20.980Z,13.247,-88.658,10,4.7,mb,17,167.3,,1.14,us,usp000hbuy,2014-11-07T01:41:19.014Z,El Salvador,earthquake,,0,,5,reviewed,us,us
+2010-04-17T23:55:46.620Z,13.412,-89.358,13,4,md,21,124.3,,1.28,us,usp000hbjx,2014-11-07T01:41:17.203Z,offshore El Salvador,earthquake,,28.1,,,reviewed,us,snet
+2010-04-10T13:40:46.270Z,13.633,-87.865,28.1,4.4,mb,30,85.3,,1.24,us,usp000hb4f,2014-11-07T01:41:14.665Z,El Salvador,earthquake,,21.4,,10,reviewed,us,us
+2010-03-15T20:04:58.770Z,13.518,-89.299,42.8,4,mb,15,123.1,,1.32,us,usp000h9f8,2014-11-07T01:41:02.280Z,El Salvador,earthquake,,12,,1,reviewed,us,us
+2010-02-11T17:56:09.080Z,15.169,-86.964,10,4.9,mb,83,162.2,,1.19,us,usp000h76h,2015-03-24T02:28:23.790Z,Honduras,earthquake,,,,53,reviewed,us,us
+2010-02-11T17:43:02.660Z,14.984,-86.978,10,4.8,mb,70,75.3,,1.23,us,usp000h76g,2015-03-24T02:07:12.642Z,Honduras,earthquake,,,,42,reviewed,us,us
+2010-02-10T23:56:45.790Z,13.318,-89.419,96.5,4.6,mb,36,61.5,,0.98,us,usp000h75m,2014-11-07T01:40:41.642Z,offshore El Salvador,earthquake,,8.8,,10,reviewed,us,us
+2010-02-04T20:33:20.030Z,12.943,-88.392,43,4.8,mb,16,170.9,,1.17,us,usp000h6yh,2014-11-07T01:40:39.883Z,offshore El Salvador,earthquake,,17.6,,2,reviewed,us,us
+2010-01-30T22:50:09.660Z,13.597,-88.337,197.7,4.8,mb,190,60.7,,0.9,us,usp000h6t2,2014-11-07T01:40:35.415Z,El Salvador,earthquake,,,,113,reviewed,us,us
+2010-01-11T23:30:44.470Z,15.437,-88.761,10,5.1,mwc,113,87.8,,1.41,us,usp000h5z8,2016-11-10T02:22:36.571Z,Guatemala,earthquake,,,,,reviewed,us,gcmt
+2009-12-31T10:12:06.210Z,16.003,-87.402,10,4.8,mb,44,139.2,,1.31,us,usp000h5j6,2014-11-07T01:40:20.465Z,offshore Honduras,earthquake,,,,25,reviewed,us,us
+2009-12-11T21:30:53.950Z,13.288,-89.358,83.2,4.6,mb,44,76.6,,1.52,us,usp000h4yx,2014-11-07T01:40:15.892Z,offshore El Salvador,earthquake,,11.7,,8,reviewed,us,us
+2009-10-26T11:32:41.970Z,16.138,-87.914,10,4.2,mb,20,153.1,,1.53,us,usp000h3e7,2014-11-07T01:39:58.623Z,offshore Honduras,earthquake,,,,7,reviewed,us,us
+2009-10-18T16:19:47.090Z,15.921,-88.116,10,4.6,mb,55,95.9,,1.42,us,usp000h350,2015-03-24T02:02:58.399Z,offshore Guatemala,earthquake,,,,24,reviewed,us,us
+2009-10-17T07:27:36.280Z,13.096,-88.656,104.5,4.4,mb,56,174.5,,0.89,us,usp000h33f,2014-11-07T01:39:56.685Z,offshore El Salvador,earthquake,,8.7,,29,reviewed,us,us
+2009-10-16T05:20:44.250Z,13.143,-89.165,61.3,4.7,mb,133,87.1,,1.2,us,usp000h31r,2015-03-24T01:02:34.513Z,offshore El Salvador,earthquake,,,,88,reviewed,us,us
+2009-10-10T18:51:26.490Z,13.194,-88.392,64.2,4.3,mb,33,97.6,,1.29,us,usp000h2qa,2014-11-07T01:39:54.644Z,El Salvador,earthquake,,13.9,,10,reviewed,us,us
+2009-08-02T23:55:35.060Z,13.158,-88.728,118.5,4.5,mb,69,67.8,,1.02,us,usp000gzxg,2015-03-24T02:24:24.344Z,offshore El Salvador,earthquake,,7.9,,34,reviewed,us,us
+2009-08-02T00:14:55.910Z,13.097,-89.185,65,4.4,mb,53,119.5,,1.07,us,usp000gzwf,2014-11-07T01:39:26.111Z,offshore El Salvador,earthquake,,4.4,,16,reviewed,us,us
+2009-07-29T04:14:37.700Z,13.095,-89.197,56.1,4.3,md,16,217,,,us,usp000gzs1,2014-11-07T01:39:22.963Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2009-07-20T21:21:46.970Z,16.449,-86.679,20,4.3,mb,25,87.8,,0.75,us,usp000gzg2,2014-11-07T01:39:20.711Z,offshore Honduras,earthquake,,22.7,,8,reviewed,us,us
+2009-07-08T03:42:43.270Z,13.905,-84.557,24.4,4.9,mwc,47,87.4,,1.17,us,usp000gz14,2016-11-10T02:14:24.419Z,Nicaragua,earthquake,,,,,reviewed,us,gcmt
+2009-07-06T10:34:30.150Z,15.463,-86.317,10,4.3,mb,39,87.8,,0.95,us,usp000gyzd,2014-11-07T01:39:17.761Z,Honduras,earthquake,,,,25,reviewed,us,us
+2009-06-30T16:22:33.130Z,15.443,-86.395,35,5,mwc,149,67.6,,0.97,us,usp000gysy,2016-11-10T02:13:58.878Z,Honduras,earthquake,,,,,reviewed,us,gcmt
+2009-06-28T13:23:27.390Z,15.348,-86.366,35,4,mb,23,162,,1.2,us,usp000gyq4,2014-11-07T01:39:12.244Z,Honduras,earthquake,,,,12,reviewed,us,us
+2009-06-15T16:00:53.750Z,16.318,-87.036,10,5.1,mwc,137,124.9,,0.98,us,usp000gy88,2016-11-10T02:13:27.482Z,offshore Honduras,earthquake,,,,,reviewed,us,gcmt
+2009-06-08T05:24:37.710Z,15.937,-87.099,10,4.2,mb,19,123.6,,1.42,us,usp000gxzk,2014-11-07T01:39:07.993Z,offshore Honduras,earthquake,,,,9,reviewed,us,us
+2009-06-08T05:13:14.680Z,15.792,-86.865,10,5.4,mwc,350,34.7,,1.08,us,usp000gxzj,2017-04-26T18:09:18.695Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+2009-06-07T16:17:27.510Z,16.393,-86.638,10,4.2,mb,24,133.4,,1.07,us,usp000gxz0,2014-11-07T01:39:07.796Z,offshore Honduras,earthquake,,,,15,reviewed,us,us
+2009-06-06T11:53:45.600Z,16.363,-87.07,10,4.5,mb,56,78.4,,1.11,us,usp000gxxe,2015-03-24T01:00:37.469Z,offshore Honduras,earthquake,,,,26,reviewed,us,us
+2009-06-06T04:37:37.040Z,16.169,-87.65,10,5,mwc,102,82.2,,1.37,us,usp000gxx0,2016-11-10T02:12:55.733Z,offshore Honduras,earthquake,,,,,reviewed,us,gcmt
+2009-06-05T08:08:50.490Z,13.112,-87.827,193.5,4.3,mb,22,185.5,,1.16,us,usp000gxw0,2014-11-07T01:39:06.943Z,Golfo de Fonseca  El Salvador,earthquake,,8.6,,16,reviewed,us,us
+2009-06-05T01:12:18.130Z,15.424,-86.431,29.1,4.2,mb,50,53.5,,1.27,us,usp000gxvq,2015-03-24T02:42:23.015Z,Honduras,earthquake,,17.7,,23,reviewed,us,us
+2009-06-05T00:41:15.030Z,15.461,-86.374,35,4.7,mb,157,70.8,,0.82,us,usp000gxvp,2015-03-24T02:15:20.269Z,Honduras,earthquake,,,,91,reviewed,us,us
+2009-06-02T06:43:41.050Z,15.418,-86.409,10,5.1,mwc,190,72.3,,0.97,us,usp000gxsy,2016-11-10T02:12:45.702Z,Honduras,earthquake,,,,,reviewed,us,gcmt
+2009-05-31T02:10:17.150Z,15.43,-86.297,10,4.1,mb,22,99,,1.18,us,usp000gxqg,2014-11-07T01:39:02.300Z,Honduras,earthquake,,,,7,reviewed,us,us
+2009-05-30T12:20:03.390Z,15.959,-87.477,10,4.2,mb,26,78.5,,1.03,us,usp000gxpv,2014-11-07T01:39:02.220Z,offshore Honduras,earthquake,,,,13,reviewed,us,us
+2009-05-30T06:33:05.490Z,16.144,-87.711,10,4.6,mb,72,86.5,,1.32,us,usp000gxpg,2015-03-24T01:00:26.192Z,offshore Honduras,earthquake,,,,47,reviewed,us,us
+2009-05-29T15:18:00.920Z,15.574,-86.426,18.1,4.4,mb,50,56.2,,1.37,us,usp000gxnc,2014-11-07T01:39:01.845Z,Honduras,earthquake,,,,20,reviewed,us,us
+2009-05-29T12:51:03.340Z,15.379,-86.387,10,4.5,mb,84,55.4,,1.07,us,usp000gxn7,2015-03-24T02:39:05.088Z,Honduras,earthquake,,,,53,reviewed,us,us
+2009-05-29T05:17:15.640Z,16.43,-86.573,10,4.1,mb,26,57.9,,0.9,us,usp000gxmu,2014-11-07T01:39:01.724Z,offshore Honduras,earthquake,,,,11,reviewed,us,us
+2009-05-29T04:38:18.670Z,16.334,-87.645,10,4.3,mb,28,111.6,,1.3,us,usp000gxms,2014-11-07T01:39:01.716Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+2009-05-29T02:45:44.390Z,16.104,-87.584,10,4.5,mb,93,80.7,,1.1,us,usp000gxmm,2015-03-24T02:00:46.773Z,offshore Honduras,earthquake,,,,61,reviewed,us,us
+2009-05-28T11:05:13.970Z,16.414,-86.761,10,4.3,mb,45,60.6,,0.84,us,usp000gxkt,2014-11-07T01:39:01.530Z,offshore Honduras,earthquake,,,,27,reviewed,us,us
+2009-05-28T10:37:42.620Z,16.31,-87.458,10,4.1,mb,22,112.2,,1.23,us,usp000gxkr,2014-11-07T01:39:01.523Z,offshore Honduras,earthquake,,,,7,reviewed,us,us
+2009-05-28T10:30:18.730Z,16.282,-86.719,10,4.2,mb,22,119.1,,0.97,us,usp000gxkq,2014-11-07T01:39:01.521Z,offshore Honduras,earthquake,,,,8,reviewed,us,us
+2009-05-28T10:18:02.510Z,16.494,-86.752,10,4.4,mb,59,66.7,,1.14,us,usp000gxkp,2014-11-07T01:39:01.516Z,offshore Honduras,earthquake,,,,35,reviewed,us,us
+2009-05-28T09:06:24.600Z,16.307,-87.405,10,4.8,mb,85,51.6,,0.93,us,usp000gxkm,2015-03-24T01:00:22.578Z,offshore Honduras,earthquake,,,,55,reviewed,us,us
+2009-05-24T18:04:38.000Z,13.127,-89.26,49.9,4.4,md,7,184,,,us,usp000gxg3,2014-11-07T01:39:00.870Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2009-05-24T00:23:24.200Z,13.263,-87.644,187.5,4.7,mb,88,104.5,,0.91,us,usp000gxew,2015-03-24T01:00:16.904Z,Honduras,earthquake,,,,60,reviewed,us,us
+2009-05-22T21:47:56.000Z,13.202,-89.271,53.7,4.3,md,4,228.3,,,us,usp000gxdq,2014-11-07T01:39:00.422Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2009-05-04T10:43:51.590Z,13.932,-89.463,41.8,4.2,mb,32,114.4,,1.03,us,usp000gwu0,2014-11-07T01:38:54.981Z,El Salvador,earthquake,,12.7,,12,reviewed,us,us
+2009-04-13T00:33:20.650Z,13.496,-88.497,195.7,4.6,mb,69,96.9,,1.05,us,usp000gw2u,2014-11-07T01:38:46.192Z,El Salvador,earthquake,,6.6,,36,reviewed,us,us
+2009-03-31T17:50:34.170Z,13.452,-86.06,35.5,4.4,mb,26,96.4,,1.42,us,usp000gvmc,2015-03-24T02:41:22.260Z,Nicaragua,earthquake,,11,,9,reviewed,us,us
+2009-03-30T23:33:08.200Z,13.134,-89.166,55.8,4,mb,19,203.7,,,us,usp000gvkb,2014-11-07T01:38:39.293Z,offshore El Salvador,earthquake,,,,1,reviewed,snet,us
+2009-03-06T07:38:35.830Z,13.003,-88.542,97.7,4.4,mb,56,83.7,,1.17,us,usp000gupg,2014-11-07T01:38:32.853Z,offshore El Salvador,earthquake,,9.8,,30,reviewed,us,us
+2009-02-21T10:33:35.830Z,13.503,-88.433,198.9,4.7,mb,94,82.5,,1.06,us,usp000gu8e,2014-11-07T01:38:25.617Z,El Salvador,earthquake,,,,36,reviewed,us,us
+2009-02-13T01:42:14.900Z,13.032,-88.827,50.2,4.1,mb,38,119,,,us,usp000gtv6,2014-11-07T01:38:22.999Z,offshore El Salvador,earthquake,,,,7,reviewed,snet,us
+2009-02-07T09:40:05.920Z,13.03,-89.235,59,4.5,mb,44,86.2,,1.1,us,usp000gth7,2014-11-07T01:38:20.839Z,offshore El Salvador,earthquake,,,,21,reviewed,us,us
+2009-02-03T11:38:42.200Z,12.943,-88.428,70.4,4.3,md,16,175.8,,,us,usp000gtdx,2014-11-07T01:38:19.786Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2009-01-24T16:15:43.190Z,13.127,-89.35,62.8,4.7,mb,114,91.9,,1.38,us,usp000gt23,2015-03-24T01:58:59.549Z,offshore El Salvador,earthquake,,,,62,reviewed,us,us
+2009-01-05T14:53:06.160Z,13.097,-87.865,145.6,4.6,mb,36,93.4,,1,us,usp000gs7r,2014-11-07T01:38:10.362Z,offshore El Salvador,earthquake,,,,17,reviewed,us,us
+2009-01-01T23:03:30.000Z,13.054,-89.408,26.2,3.8,md,9,243.8,,,us,usp000grzm,2014-11-07T01:38:07.617Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2008-12-23T04:48:06.930Z,13.151,-87.523,178.7,4.4,mb,15,102.8,,1.04,us,usp000gr7z,2014-11-07T01:38:01.362Z,Golfo de Fonseca  Honduras,earthquake,,7.7,,3,reviewed,us,us
+2008-12-18T12:18:08.870Z,13.072,-88.796,87.6,4.1,mb,16,119,,1.14,us,usp000gqv7,2014-11-07T01:37:59.181Z,offshore El Salvador,earthquake,,10.5,,3,reviewed,us,us
+2008-12-17T20:54:00.490Z,15.693,-87.862,32.8,4.4,mb,13,80.4,,1.36,us,usp000gqtw,2014-11-07T01:37:58.993Z,Honduras,earthquake,,28.2,,1,reviewed,us,us
+2008-12-15T05:44:28.360Z,14.32,-88.773,78.3,3.9,md,7,150.5,,1.03,us,usp000gqmt,2014-11-07T01:37:58.357Z,Honduras,earthquake,,14.3,,,reviewed,us,snet
+2008-12-14T18:55:24.420Z,13.22,-88.855,91,4.1,md,12,122.4,,1.26,us,usp000gqm0,2014-11-07T01:37:58.201Z,offshore El Salvador,earthquake,,11.9,,,reviewed,us,snet
+2008-12-12T06:01:43.380Z,13.101,-87.71,175.5,3.7,mb,16,113.3,,1.03,us,usp000gqek,2014-11-07T01:37:57.563Z,Honduras,earthquake,,7.5,,3,reviewed,us,us
+2008-12-09T22:04:16.850Z,13.257,-87.603,180.1,4.3,mb,17,94.1,,1.05,us,usp000gqa3,2014-11-07T01:37:56.909Z,Golfo de Fonseca  Honduras,earthquake,,7.6,,4,reviewed,us,us
+2008-12-03T03:12:03.630Z,13.096,-88.712,82.2,4,mb,19,102.5,,0.81,us,usp000gpuy,2014-11-07T01:37:53.022Z,offshore El Salvador,earthquake,,8.8,,6,reviewed,us,us
+2008-11-22T00:20:21.390Z,13.621,-88.202,195.7,3.8,mb,12,113.8,,1.13,us,usp000gp6c,2014-11-07T01:37:46.587Z,El Salvador,earthquake,,12.5,,4,reviewed,us,us
+2008-11-18T01:38:51.280Z,13.792,-88.901,179.3,4.5,mb,35,113.7,,1.15,us,usp000gnyp,2014-11-07T01:37:45.582Z,El Salvador,earthquake,,8.2,,7,reviewed,us,us
+2008-11-15T23:03:16.620Z,13.05,-88.75,48,5.8,mwc,311,37,,1.33,us,usp000gnsv,2016-11-09T07:37:19.230Z,offshore El Salvador,earthquake,,,,,reviewed,us,gcmt
+2008-11-13T20:14:23.060Z,13.036,-88.6,87.7,3.9,md,10,110,,1.07,us,usp000gnmc,2014-11-07T01:37:43.951Z,offshore El Salvador,earthquake,,11.6,,,reviewed,us,snet
+2008-11-07T03:14:29.600Z,13.759,-88.71,10,3.6,md,13,145.1,,1.31,us,usp000gn4a,2014-11-07T01:37:41.647Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2008-10-09T16:12:50.340Z,14.496,-89.009,23.9,4.1,mb,18,159.2,,1.37,us,usp000gjsr,2014-11-07T01:37:26.407Z,Honduras,earthquake,,24.4,,6,reviewed,us,us
+2008-09-28T15:33:21.670Z,16.674,-86.125,10,4.5,mb,49,51.6,,1.24,us,usp000ghw6,2014-11-07T01:37:16.040Z,offshore Honduras,earthquake,,,,23,reviewed,us,us
+2008-09-28T09:23:09.540Z,16.663,-86.152,10,5,mwc,114,46.1,,1.09,us,usp000ghvr,2016-11-10T02:02:07.860Z,offshore Honduras,earthquake,,,,,reviewed,us,gcmt
+2008-09-02T05:26:00.350Z,12.929,-88.893,55.6,4.3,md,7,170.8,,1.4,us,usp000gg72,2014-11-07T01:37:06.250Z,offshore El Salvador,earthquake,,22.1,,,reviewed,us,snet
+2008-08-30T12:52:44.400Z,13.095,-89.027,67.4,4.1,mb,27,119.3,,1.15,us,usp000gg0c,2014-11-07T01:37:01.866Z,offshore El Salvador,earthquake,,8.1,,10,reviewed,us,us
+2008-08-30T08:22:59.150Z,13.377,-88.139,186,4.5,mb,89,136.4,,0.84,us,usp000gfzx,2014-11-07T01:37:01.489Z,El Salvador,earthquake,,7.5,,64,reviewed,us,us
+2008-08-29T09:22:09.100Z,13.01,-89.042,61.3,4,mb,21,105,,1.32,us,usp000gfxa,2014-11-07T01:37:01.058Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+2008-08-20T08:35:55.880Z,16.378,-85.885,35,3.2,mb,11,157.5,,0.91,us,usp000gf2k,2014-11-07T01:36:57.145Z,offshore Honduras,earthquake,,0,,1,reviewed,us,us
+2008-08-15T08:30:02.710Z,13.143,-89.214,79.9,4.2,mb,17,98.9,,1.26,us,usp000geqq,2014-11-07T01:36:54.214Z,offshore El Salvador,earthquake,,10.3,,4,reviewed,us,us
+2008-08-09T18:25:48.480Z,15.677,-86.746,40,3.6,mb,10,207.2,,1.8,us,usp000ge9p,2014-11-07T01:36:52.156Z,Honduras,earthquake,,0,,2,reviewed,us,us
+2008-08-06T08:51:23.300Z,12.955,-88.566,71.5,4.6,mb,122,146.8,,0.94,us,usp000gdyp,2014-11-07T01:36:50.796Z,offshore El Salvador,earthquake,,,,70,reviewed,us,us
+2008-07-26T12:02:55.020Z,13.359,-89.332,92,4.2,mb,37,105.5,,0.92,us,usp000gd6c,2014-11-07T01:36:43.185Z,offshore El Salvador,earthquake,,8.5,,18,reviewed,us,us
+2008-06-18T04:38:39.430Z,13.084,-89.147,81.3,4.3,mb,62,95.8,,0.99,us,usp000g9yj,2014-11-07T01:36:22.684Z,offshore El Salvador,earthquake,,8.2,,41,reviewed,us,us
+2008-05-26T06:26:12.730Z,14.16,-89.189,10,4,md,5,191.4,,0.39,us,usp000g7tq,2014-11-07T01:36:06.507Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2008-05-26T00:33:20.780Z,13.902,-89.368,22.5,4.9,mwc,53,142.4,,1.11,us,usp000g7t6,2016-11-10T01:56:29.893Z,El Salvador,earthquake,,16.6,,,reviewed,us,gcmt
+2008-05-02T23:37:31.520Z,16.267,-85.513,28.9,4.2,mb,29,62.2,,0.74,us,usp000g5cd,2014-11-07T01:35:50.076Z,offshore Honduras,earthquake,,19.7,,17,reviewed,us,us
+2008-04-27T15:15:45.920Z,16.598,-86.267,17.1,4.5,mb,64,61.3,,0.95,us,usp000g4zb,2014-11-07T01:35:44.382Z,offshore Honduras,earthquake,,13.9,,31,reviewed,us,us
+2008-04-21T09:18:52.000Z,13.901,-88.727,203.4,4.3,mb,42,162.5,,0.97,us,usp000g4fu,2014-11-07T01:35:41.215Z,El Salvador,earthquake,,7.4,,24,reviewed,us,us
+2008-04-08T19:29:35.850Z,12.979,-88.771,74.7,4.3,mb,21,129.4,,1.01,us,usp000g3d0,2014-11-07T01:35:33.970Z,offshore El Salvador,earthquake,,9.1,,3,reviewed,us,us
+2008-04-07T10:27:20.560Z,13.874,-88.726,106.4,4.2,mb,7,186.9,,0.89,us,usp000g39s,2014-11-07T01:35:33.027Z,El Salvador,earthquake,,21.7,,1,reviewed,us,us
+2008-03-24T22:05:50.760Z,13.124,-88.987,48.2,4.2,mb,36,169.9,,1.07,us,usp000g29e,2014-11-07T01:35:18.982Z,offshore El Salvador,earthquake,,10,,11,reviewed,us,us
+2008-03-12T21:59:57.800Z,13.128,-88.708,109,4,md,8,194.5,,1.07,us,usp000g1bp,2014-11-07T01:35:14.822Z,offshore El Salvador,earthquake,,24.9,,,reviewed,us,snet
+2008-03-07T00:35:39.150Z,13.233,-89.077,77.2,4,md,7,179.6,,1.35,us,usp000g0vx,2014-11-07T01:35:11.928Z,offshore El Salvador,earthquake,,17.3,,,reviewed,us,snet
+2008-02-03T21:53:33.810Z,16.387,-86.53,35,3.9,mb,11,122.8,,1,us,usp000fy3k,2014-11-07T01:34:53.354Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+2008-01-24T14:19:00.020Z,13.611,-89.447,104,3.9,mb,12,177.7,,1.31,us,usp000fxc0,2014-11-07T01:34:45.643Z,El Salvador,earthquake,,13.3,,3,reviewed,us,us
+2008-01-07T05:51:49.820Z,15.563,-88.905,10,4.2,mb,36,139.4,,0.99,us,usp000fw5n,2014-11-07T01:34:37.947Z,Guatemala,earthquake,,,,18,reviewed,us,us
+2007-12-11T05:55:00.020Z,13.268,-89.401,93,3.7,mb,11,222.8,,1.2,us,usp000fu87,2014-11-07T01:34:23.671Z,offshore El Salvador,earthquake,,11,,1,reviewed,us,us
+2007-12-02T09:46:48.250Z,13.128,-89.402,76.5,4.4,md,9,206.4,,1.29,us,usp000ftqf,2014-11-07T01:34:20.081Z,offshore El Salvador,earthquake,,15.8,,,reviewed,us,snet
+2007-11-14T22:14:54.550Z,12.939,-88.623,72,3.7,md,13,113.9,,0.93,us,usp000fsk6,2014-11-07T01:34:10.458Z,offshore El Salvador,earthquake,,12,,,reviewed,us,snet
+2007-10-28T09:30:10.330Z,15.281,-88.989,10,4.1,mb,10,137.3,,1.35,us,usp000frf2,2014-11-07T01:34:00.173Z,Guatemala,earthquake,,,,2,reviewed,us,us
+2007-09-20T10:46:57.220Z,13.108,-89.225,61.3,4.5,mb,27,86.2,,1.19,us,usp000fns7,2014-11-07T01:33:37.730Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+2007-09-15T17:59:41.890Z,14.828,-87.12,32.8,5.3,mwc,103,91.7,,1.19,us,usp000fnc9,2016-11-10T01:45:24.918Z,Honduras,earthquake,,,,,reviewed,us,gcmt
+2007-09-06T09:08:27.030Z,13.179,-88.22,78.7,4.2,mb,10,208.3,,1.37,us,usp000fmj7,2014-11-07T01:33:31.013Z,El Salvador,earthquake,,29.7,,5,reviewed,us,us
+2007-08-17T00:31:13.880Z,13.001,-88.549,92.8,4.6,mb,92,56.6,,0.94,us,usp000fjz7,2015-03-24T00:50:51.317Z,offshore El Salvador,earthquake,,5,,28,reviewed,us,us
+2007-08-12T09:09:51.350Z,15.984,-85.7,10,3.8,mb,14,79.5,,1.18,us,usp000fjft,2014-11-07T01:33:15.110Z,offshore Honduras,earthquake,,0,,3,reviewed,us,us
+2007-08-01T20:51:49.100Z,13.425,-89.205,87.3,4,mb,13,110.9,,1.06,us,usp000fhmk,2014-11-07T01:33:09.371Z,offshore El Salvador,earthquake,,10.1,,2,reviewed,us,us
+2007-07-26T21:05:09.790Z,13.106,-88.702,79,4.6,md,19,112.5,,1.2,us,usp000fh5d,2014-11-07T01:33:04.161Z,offshore El Salvador,earthquake,,13.4,,,reviewed,us,snet
+2007-07-14T08:52:37.230Z,16.678,-86.121,28.7,4.3,mb,41,95.2,,1.23,us,usp000fg4y,2014-11-07T01:32:57.415Z,offshore Honduras,earthquake,,,,16,reviewed,us,us
+2007-07-12T14:44:53.570Z,13.02,-88.435,84.1,4.8,mb,108,33.9,,1.1,us,usp000fg1c,2014-11-07T01:32:56.942Z,offshore El Salvador,earthquake,,5.6,,65,reviewed,us,us
+2007-06-28T10:44:10.350Z,12.945,-89.127,73.4,4.3,md,6,132.2,,1.46,us,usp000ff11,2014-11-07T01:32:46.699Z,offshore El Salvador,earthquake,,16.7,,,reviewed,us,snet
+2007-06-26T15:55:27.290Z,13.017,-89.212,49.5,4.6,mb,25,119.5,,1.41,us,usp000fex4,2014-11-07T01:32:46.131Z,offshore El Salvador,earthquake,,16.7,,11,reviewed,us,us
+2007-06-05T03:04:37.430Z,13.435,-88.358,124.4,4.3,md,18,104.1,,0.87,us,usp000fdd3,2014-11-07T01:32:39.232Z,El Salvador,earthquake,,6.8,,,reviewed,us,snet
+2007-05-22T10:48:45.430Z,13.074,-88.749,88.2,4.5,mb,37,174.8,,0.89,us,usp000fcg6,2014-11-07T01:32:30.704Z,offshore El Salvador,earthquake,,11.2,,11,reviewed,us,us
+2007-05-21T10:29:10.120Z,13.074,-88.625,90.4,3.8,mb,14,174.5,,1.15,us,usp000fced,2014-11-07T01:32:30.510Z,offshore El Salvador,earthquake,,16.2,,1,reviewed,us,us
+2007-05-06T04:44:44.860Z,13.033,-88.014,103.9,4.1,mb,26,105,,0.97,us,usp000fbbz,2014-11-07T01:32:24.870Z,offshore El Salvador,earthquake,,9.2,,11,reviewed,us,us
+2007-04-15T09:47:02.140Z,13.019,-88.693,86.2,3.7,md,15,118.9,,1.05,us,usp000f9sf,2014-11-07T01:32:12.336Z,offshore El Salvador,earthquake,,11.2,,,reviewed,us,snet
+2007-03-27T07:28:14.370Z,15.533,-88.208,40,4.6,mb,61,117.4,,1.02,us,usp000f7kv,2015-03-24T01:47:44.666Z,Honduras,earthquake,,0,,13,reviewed,us,us
+2007-03-09T21:01:37.800Z,13.261,-87.387,226.1,5.6,mwb,369,40.9,,1.14,us,usp000f6d2,2016-11-10T01:36:44.663Z,Honduras,earthquake,,,,,reviewed,us,us
+2007-02-02T16:28:27.140Z,13.465,-89.393,103.9,4.4,mb,29,85.9,,1.02,us,usp000f459,2014-11-07T01:31:32.848Z,offshore El Salvador,earthquake,,13.7,,20,reviewed,us,us
+2007-01-27T09:12:41.180Z,13.321,-89.424,82.1,4.6,mb,10,182.1,,1.72,us,usp000f3r0,2014-11-07T01:31:27.921Z,offshore El Salvador,earthquake,,16.6,,1,reviewed,us,us
+2007-01-19T01:43:14.070Z,12.994,-89.132,55.3,5.4,mwc,320,57.8,,1.17,us,usp000f2yn,2016-11-10T01:33:57.186Z,offshore El Salvador,earthquake,,,,,reviewed,us,gcmt
+2007-01-02T15:51:39.040Z,13.163,-89.438,73.9,4.4,mb,17,195.2,,1.56,us,usp000f1ju,2015-03-24T02:13:52.071Z,offshore El Salvador,earthquake,,,,8,reviewed,us,us
+2006-12-09T00:51:41.900Z,13.006,-89.453,60.2,5.2,mwc,165,55.8,,1.16,us,usp000ezuf,2016-11-10T01:32:16.738Z,offshore El Salvador,earthquake,,5.2,,,reviewed,us,gcmt
+2006-12-08T02:39:14.040Z,13.842,-89.274,165.5,3.8,mb,7,192.1,,0.42,us,usp000ezs3,2014-11-07T01:31:06.057Z,El Salvador,earthquake,,16.6,,1,reviewed,us,us
+2006-12-02T09:06:04.960Z,13.027,-88.977,80.8,4.1,mb,16,170.6,,1.2,us,usp000ezbj,2014-11-07T01:31:03.604Z,offshore El Salvador,earthquake,,13.1,,4,reviewed,us,us
+2006-11-18T07:55:47.450Z,13.052,-88.66,93.1,4.7,mb,9,177.8,,0.75,us,usp000ey48,2014-11-07T01:30:53.417Z,offshore El Salvador,earthquake,,12.2,,1,reviewed,us,us
+2006-11-08T04:31:36.940Z,13.592,-88.539,176.5,4,mb,19,231.2,,0.73,us,usp000ewve,2014-11-07T01:30:46.610Z,El Salvador,earthquake,,7.8,,12,reviewed,us,us
+2006-11-05T05:20:51.300Z,13.037,-88.512,86.1,4.6,mb,84,109.9,,0.92,us,usp000ewnn,2014-11-07T01:30:45.453Z,offshore El Salvador,earthquake,,6.9,,35,reviewed,us,us
+2006-11-01T17:38:32.740Z,13.255,-89.458,62.4,4.7,mb,86,95.8,,1.23,us,usp000ewe6,2014-11-07T01:30:42.198Z,offshore El Salvador,earthquake,,,,34,reviewed,us,us
+2006-10-28T00:53:38.320Z,12.936,-87.474,12.6,5.3,mwc,300,81.3,,1.14,us,usp000ew5j,2016-11-10T01:30:13.538Z,near the coast of Nicaragua,earthquake,,,,,reviewed,us,gcmt
+2006-10-26T09:36:48.880Z,13.347,-88.613,155.7,4.4,mb,12,166.3,,1.33,us,usp000ew2q,2014-11-07T01:30:38.032Z,El Salvador,earthquake,,11.9,,1,reviewed,us,us
+2006-10-25T20:10:32.990Z,13.507,-87.577,28,4.6,mb,19,175.6,,1.18,us,usp000ew17,2014-11-07T01:30:37.888Z,Honduras,earthquake,,13.8,,2,reviewed,us,us
+2006-10-25T18:15:26.740Z,13.114,-87.451,15.9,5,mb,130,86.3,,1.1,us,usp000ew12,2015-03-24T00:48:29.371Z,Golfo de Fonseca  Honduras,earthquake,,,,81,reviewed,us,us
+2006-10-06T09:13:00.490Z,13.173,-88.84,81.8,4.4,mb,13,168.8,,1.3,us,usp000euk1,2014-11-07T01:30:30.693Z,offshore El Salvador,earthquake,,11.3,,5,reviewed,us,us
+2006-08-28T02:46:09.900Z,12.938,-88.562,35,3.9,mb,8,169,,1.52,us,usp000erxu,2014-11-07T01:30:02.670Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2006-08-27T16:56:35.750Z,13.38,-88.976,21.9,4.5,mb,15,130.4,,1.29,us,usp000erwr,2014-11-07T01:30:02.520Z,El Salvador,earthquake,,33.8,,5,reviewed,us,us
+2006-08-08T11:25:23.650Z,13.844,-89.12,35,4.4,md,6,170.4,,0.72,us,usp000eqgd,2014-11-07T01:29:55.838Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2006-08-04T08:34:33.500Z,13.059,-88.159,50.1,4.1,mb,13,166.2,,0.48,us,usp000eq7b,2014-11-07T01:29:54.046Z,offshore El Salvador,earthquake,,24.7,,4,reviewed,us,us
+2006-05-26T00:44:11.560Z,12.972,-88.678,55.8,5,mwc,140,71.6,,1.09,us,usp000ehz0,2016-11-10T01:22:51.484Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2006-05-10T23:39:13.580Z,13.061,-88.568,72.5,4.9,mwc,144,58.2,,1.15,us,usp000egth,2016-11-10T01:22:05.973Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2006-04-28T19:07:06.800Z,13.455,-88.789,34.1,4.4,md,9,120,,0.76,us,usp000efqc,2014-11-07T01:28:55.896Z,El Salvador,earthquake,,66.9,,,reviewed,us,snet
+2006-04-25T17:16:13.780Z,13.7,-88.291,50.7,4.5,mb,53,129.1,,0.97,us,usp000efgr,2014-11-07T01:28:55.034Z,El Salvador,earthquake,,12.2,,24,reviewed,us,us
+2006-04-25T04:51:27.200Z,13.39,-88.435,78.2,4.2,mb,13,189,,0.78,us,usp000effr,2014-11-07T01:28:54.910Z,El Salvador,earthquake,,14.8,,5,reviewed,us,us
+2006-04-09T16:27:45.760Z,12.984,-88.909,64,5.3,mwc,211,58.3,,1.09,us,usp000ee1d,2016-11-10T01:20:13.752Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2006-04-05T05:22:43.480Z,12.95,-88.996,56.5,3.9,mb,19,196.3,,1.27,us,usp000edqp,2014-11-07T01:28:43.461Z,offshore El Salvador,earthquake,,29.3,,10,reviewed,us,us
+2006-03-16T00:36:43.590Z,12.931,-87.153,180.6,3.6,mb,8,114.1,,0.89,us,usp000ec8e,2014-11-07T01:28:32.011Z,near the coast of Nicaragua,earthquake,,20.4,,1,reviewed,us,us
+2006-03-10T11:52:00.010Z,13.113,-88.895,33.4,4.1,mb,16,114.5,,1.05,us,usp000ebvx,2014-11-07T01:28:30.462Z,offshore El Salvador,earthquake,,36.7,,3,reviewed,us,us
+2006-03-06T13:37:04.160Z,13.043,-87.59,10,4.7,mb,57,84.5,,1.45,us,usp000ebhz,2014-11-07T01:28:28.962Z,Honduras,earthquake,,,,21,reviewed,us,us
+2006-02-20T06:56:09.690Z,13.164,-87.561,10,5.5,mwc,226,60.5,,1.43,us,usp000eae6,2017-04-13T22:19:48.970Z,Golfo de Fonseca  Honduras,earthquake,,,,,reviewed,us,hrv
+2006-02-18T20:51:34.600Z,13.363,-87.375,35,4.2,mb,11,195.9,,1.39,us,usp000eaav,2014-11-07T01:28:20.028Z,Honduras,earthquake,,,,7,reviewed,us,us
+2006-01-25T17:46:46.000Z,13.168,-87.44,10,3.8,mb,7,148.2,,0.75,us,usp000e8v0,2014-11-07T01:28:09.482Z,Golfo de Fonseca  Honduras,earthquake,,0,,2,reviewed,us,us
+2006-01-03T20:34:01.410Z,14.193,-89.457,96.3,4.2,md,12,162.4,,0.86,us,usp000e7hs,2014-11-07T01:28:03.490Z,El Salvador,earthquake,,21.6,,,reviewed,us,snet
+2005-12-22T19:18:17.870Z,12.999,-87.302,150.9,4.3,mb,24,153.6,,1.08,us,usp000e6mz,2014-11-07T01:27:55.801Z,Honduras,earthquake,,15.6,,13,reviewed,us,us
+2005-12-17T09:27:33.250Z,13.894,-88.52,81.4,3.9,mb,15,172.9,,0.43,us,usp000e6aj,2014-11-07T01:27:54.547Z,El Salvador,earthquake,,29.7,,9,reviewed,us,us
+2005-11-20T12:04:45.560Z,13.199,-88.27,51.9,3.9,mb,28,109.6,,1.02,us,usp000e4j6,2014-11-07T01:27:41.456Z,El Salvador,earthquake,,,,13,reviewed,us,us
+2005-11-18T03:15:46.880Z,13.298,-89.069,84.7,5.4,mwc,205,42.8,,1.07,us,usp000e4du,2016-11-10T01:14:39.465Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2005-11-04T17:15:20.010Z,13.388,-88.478,107.7,4.4,md,11,123.7,,0.42,us,usp000e3gd,2014-11-07T01:27:35.891Z,El Salvador,earthquake,,14.5,,,reviewed,us,snet
+2005-10-28T03:18:25.370Z,13.201,-89.064,57.2,4.7,mb,87,87.2,,1.25,us,usp000e2zq,2014-11-07T01:27:29.763Z,offshore El Salvador,earthquake,,,,46,reviewed,us,us
+2005-10-17T23:51:29.820Z,14.789,-88.066,35,3.8,md,6,171.7,,1.44,us,usp000e239,2014-11-07T01:27:25.779Z,Honduras,earthquake,,,,,reviewed,us,snet
+2005-10-11T00:59:41.360Z,13.468,-88.122,101.2,4.4,md,12,109.5,,1.12,us,usp000e1jq,2014-11-07T01:27:22.238Z,El Salvador,earthquake,,19.1,,,reviewed,us,snet
+2005-10-09T09:16:30.380Z,13.11,-88.701,35,4.1,mb,14,192.1,,1.14,us,usp000e1ch,2014-11-07T01:27:20.442Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2005-10-07T17:43:01.630Z,13.295,-89.347,49.7,5.7,mwb,247,37,,1.13,us,usp000e11s,2016-11-10T01:12:37.687Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+2005-09-28T22:48:16.410Z,13.484,-88.754,10,4.8,md,13,119.1,,1.37,us,usp000e0fj,2014-11-07T01:27:11.163Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2005-09-23T13:48:30.460Z,16.129,-87.473,23,5.9,mwb,507,45.8,,0.83,us,usp000e010,2016-11-10T01:11:52.705Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+2005-08-30T06:17:37.590Z,13.499,-88.924,124.7,4,mb,27,110.6,,0.71,us,usp000dyaw,2014-11-07T01:26:54.503Z,El Salvador,earthquake,,23.3,,12,reviewed,us,us
+2005-08-29T22:47:31.240Z,13.182,-87.955,135,3.9,mb,20,99,,1.12,us,usp000dya8,2014-11-07T01:26:54.437Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2005-08-27T11:36:02.110Z,13.064,-88.978,95.2,4,mb,13,184,,1.03,us,usp000dy58,2014-11-07T01:26:53.283Z,offshore El Salvador,earthquake,,51,,6,reviewed,us,us
+2005-08-10T02:25:39.550Z,13.387,-89.441,65.2,4.1,mb,22,92.2,,1.21,us,usp000dx1j,2014-11-07T01:26:47.802Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+2005-07-21T07:46:24.900Z,13.357,-88.987,106,4,mb,11,189.7,,0.67,us,usp000dvm6,2014-11-07T01:26:31.425Z,El Salvador,earthquake,,17.5,,3,reviewed,us,us
+2005-06-27T06:05:48.760Z,13.265,-89.011,76.3,4.3,mb,48,98.6,,1.13,us,usp000du06,2014-11-07T01:26:17.856Z,offshore El Salvador,earthquake,,,,23,reviewed,us,us
+2005-06-23T06:39:38.850Z,13.391,-88.87,82,4.1,mb,14,119.2,,1.09,us,usp000dtqp,2014-11-07T01:26:16.474Z,El Salvador,earthquake,,19.3,,4,reviewed,us,us
+2005-06-21T17:04:35.030Z,13.12,-88.516,50,4.5,mb,44,109.9,,0.99,us,usp000dtm6,2014-11-07T01:26:16.083Z,offshore El Salvador,earthquake,,,,20,reviewed,us,us
+2005-06-14T10:04:49.370Z,13.106,-87.728,178.3,4.1,mb,14,119.1,,1.13,us,usp000dsy8,2014-11-07T01:26:12.272Z,Honduras,earthquake,,19.9,,4,reviewed,us,us
+2005-06-12T09:37:51.700Z,13.303,-87.449,10,3.7,mb,7,178.7,,0.66,us,usp000dssp,2014-11-07T01:26:11.073Z,Honduras,earthquake,,,,3,reviewed,us,us
+2005-06-04T21:35:56.080Z,13.155,-88.5,86.4,4.1,mb,29,104.3,,1.02,us,usp000ds7k,2014-11-07T01:26:06.200Z,offshore El Salvador,earthquake,,12.5,,8,reviewed,us,us
+2005-06-03T04:03:43.140Z,13.269,-88.273,73.7,4.1,mb,31,84.8,,0.72,us,usp000ds40,2014-11-07T01:26:05.288Z,El Salvador,earthquake,,12.2,,15,reviewed,us,us
+2005-03-30T18:40:33.620Z,13.034,-88.811,68.4,4.6,mb,54,85.7,,1.41,us,usp000dkps,2014-11-07T01:25:22.353Z,offshore El Salvador,earthquake,,,,23,reviewed,us,us
+2005-03-23T00:05:26.680Z,12.995,-89.073,101.8,4.1,md,8,199.2,,0.8,us,usp000djur,2014-11-07T01:25:17.906Z,offshore El Salvador,earthquake,,18.7,,,reviewed,us,snet
+2005-03-20T06:21:27.260Z,13.374,-88.878,104.7,4,mb,26,104.9,,0.84,us,usp000djm6,2014-11-07T01:25:16.796Z,El Salvador,earthquake,,11.2,,10,reviewed,us,us
+2005-03-20T03:43:30.070Z,13.481,-89.241,117.2,4,md,9,192.7,,1.19,us,usp000djkz,2014-11-07T01:25:16.784Z,El Salvador,earthquake,,18.9,,,reviewed,us,snet
+2005-03-18T08:39:22.010Z,12.981,-88.92,50.1,4.6,mb,92,85.8,,1.24,us,usp000djf1,2014-11-07T01:25:16.043Z,offshore El Salvador,earthquake,,,,35,reviewed,us,us
+2005-03-10T13:37:48.780Z,12.932,-88.419,68.5,5.1,mwc,221,44.8,,0.93,us,usp000dhxp,2016-11-10T01:02:31.175Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2005-03-05T16:31:40.290Z,15.696,-88.598,10,4.2,mb,22,134.1,,1.17,us,usp000dhkg,2014-11-07T01:25:11.209Z,Guatemala,earthquake,,,,6,reviewed,us,us
+2005-02-27T13:31:25.300Z,13.067,-88.779,58.2,4.2,md,25,123.1,,,us,usp000dh3e,2014-11-07T01:25:04.838Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2005-02-22T06:16:04.580Z,13.209,-87.616,200.9,4.2,mb,15,102.9,,1.18,us,usp000dgqe,2014-11-07T01:25:02.527Z,Golfo de Fonseca  Honduras,earthquake,,17.1,,2,reviewed,us,us
+2005-02-17T13:38:48.460Z,13.572,-88.322,202.3,4.5,mb,64,65,,0.97,us,usp000dgc5,2014-11-07T01:25:00.745Z,El Salvador,earthquake,,8.7,,28,reviewed,us,us
+2005-02-14T15:00:35.650Z,13.02,-88.796,65.3,4.1,mb,35,119.7,,0.97,us,usp000dg4f,2014-11-07T01:24:59.516Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2005-02-12T04:30:55.250Z,13.824,-89.084,10,3.8,mb,14,92.3,,0.65,us,usp000dfyv,2014-11-07T01:24:58.859Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2005-02-09T22:22:43.450Z,13.021,-88.168,10,4.3,mb,11,237.3,,0.94,us,usp000dftd,2014-11-07T01:24:57.806Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2005-01-24T12:49:05.590Z,16.577,-86.211,25,4.4,mb,37,159.5,,1.32,us,usp000de74,2014-11-07T01:24:44.030Z,offshore Honduras,earthquake,,0,,13,reviewed,us,us
+2005-01-22T16:00:34.230Z,13.41,-89.257,100.5,4.4,mb,17,123.6,,1.01,us,usp000de0u,2014-11-07T01:24:42.977Z,offshore El Salvador,earthquake,,9.7,,9,reviewed,us,us
+2005-01-16T17:15:41.780Z,13.095,-88.582,93.4,3.9,mb,7,191.4,,0.58,us,usp000ddga,2014-11-07T01:24:39.933Z,offshore El Salvador,earthquake,,16.9,,1,reviewed,us,us
+2005-01-15T03:42:00.020Z,12.936,-87.761,10,3.5,mb,16,84.7,,0.68,us,usp000ddc7,2014-11-07T01:24:39.321Z,near the coast of Nicaragua,earthquake,,,,2,reviewed,us,us
+2005-01-12T00:15:34.800Z,13.227,-89.429,58.4,3.8,md,20,234.7,,,us,usp000dd4g,2014-11-07T01:24:37.755Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2005-01-09T21:15:21.480Z,15.907,-88.46,11.2,4,mb,22,104,,1.29,us,usp000dcxq,2014-11-07T01:24:36.370Z,offshore Guatemala,earthquake,,32.3,,6,reviewed,us,us
+2005-01-06T04:14:47.850Z,13.183,-88.876,122.7,4.4,mb,27,196.8,,0.98,us,usp000dcn2,2014-11-07T01:24:34.925Z,offshore El Salvador,earthquake,,13.8,,21,reviewed,us,us
+2005-01-01T01:20:05.360Z,13.785,-88.778,193.1,4.7,mwc,102,84.8,,0.77,us,usp000dcb4,2016-11-10T00:57:24.314Z,El Salvador,earthquake,,7.6,,,reviewed,us,hrv
+2004-12-14T18:22:05.210Z,13.291,-89.374,51.8,4.3,mb,45,105.6,,1.34,us,usp000daqb,2014-11-07T01:24:16.894Z,offshore El Salvador,earthquake,,,,12,reviewed,us,us
+2004-12-14T12:18:13.700Z,13.894,-88.811,188.2,4.2,mb,13,122.5,,1.25,us,usp000dapp,2014-11-07T01:24:16.835Z,El Salvador,earthquake,,15.7,,2,reviewed,us,us
+2004-12-13T15:23:41.010Z,13.385,-89.37,62.3,6,mwc,413,21.8,,1.16,us,usp000damd,2016-11-10T00:54:53.701Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2004-12-11T19:07:57.920Z,13.425,-89.415,105.8,4.6,mb,43,89.1,,1.14,us,usp000dag4,2014-11-07T01:24:15.838Z,offshore El Salvador,earthquake,,12.1,,22,reviewed,us,us
+2004-10-24T23:40:23.210Z,13.135,-88.042,183.6,4,mb,16,168.5,,0.8,us,usp000d70s,2014-11-07T01:23:48.871Z,offshore El Salvador,earthquake,,16.9,,7,reviewed,us,us
+2004-10-10T21:02:59.200Z,13.15,-89.264,59,3.5,md,18,189.8,,,us,usp000d65r,2014-11-07T01:23:44.315Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2004-10-06T21:20:40.940Z,13.099,-88.484,85.6,4,mb,22,174.2,,1.08,us,usp000d5ww,2014-11-07T01:23:42.811Z,offshore El Salvador,earthquake,,14.7,,7,reviewed,us,us
+2004-09-29T06:37:48.240Z,13.793,-88.754,195.7,4.3,mb,22,85.4,,0.63,us,usp000d59v,2014-11-07T01:23:34.696Z,El Salvador,earthquake,,10.8,,8,reviewed,us,us
+2004-09-05T07:14:35.300Z,13.05,-89.254,44.9,4.2,md,13,206.9,,,us,usp000d3jw,2014-11-07T01:23:25.601Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2004-08-11T19:15:22.400Z,13.046,-89.421,34.7,4.2,ml,15,264.1,,,us,usp000d1ys,2014-11-07T01:23:11.233Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2004-08-07T10:33:12.020Z,13.585,-88.592,66.9,3.7,md,14,123,,0.93,us,usp000d1pf,2014-11-07T01:23:09.888Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2004-08-04T17:24:01.900Z,12.996,-89.436,57.9,3.5,md,10,267.5,,,us,usp000d1fq,2014-11-07T01:23:08.884Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2004-07-16T13:53:17.800Z,12.949,-88.594,66.7,4.2,mb,46,104.4,,1.11,us,usp000d09m,2014-11-07T01:22:54.671Z,offshore El Salvador,earthquake,,4.6,,13,reviewed,us,us
+2004-07-11T14:55:16.750Z,12.931,-87.367,170.4,4,mb,8,111,,0.8,us,usp000czyq,2014-11-07T01:22:52.975Z,near the coast of Nicaragua,earthquake,,17.4,,1,reviewed,us,us
+2004-07-10T19:49:37.120Z,13.068,-88.433,287.7,4.1,mb,11,120.4,,1.32,us,usp000czxp,2014-11-07T01:22:52.871Z,offshore El Salvador,earthquake,,20.9,,3,reviewed,us,us
+2004-07-10T08:13:25.220Z,13.053,-89.112,55.7,4.4,mb,120,48.5,,1.24,us,usp000czwm,2014-11-07T01:22:52.734Z,offshore El Salvador,earthquake,,,,35,reviewed,us,us
+2004-07-01T11:48:10.430Z,13.137,-87.862,85,4.1,mb,15,184,,0.5,us,usp000czbh,2014-11-07T01:22:47.997Z,Golfo de Fonseca  El Salvador,earthquake,,,,6,reviewed,us,us
+2004-06-22T03:34:00.100Z,13.065,-89.264,51.4,4.1,md,10,212.9,,,us,usp000cyfu,2014-11-07T01:22:40.279Z,offshore El Salvador,earthquake,,,,,reviewed,snet,snet
+2004-06-19T14:19:22.460Z,13.382,-89.367,67.1,4.2,mb,37,105.6,,1.11,us,usp000cy8t,2014-11-07T01:22:39.020Z,offshore El Salvador,earthquake,,4.4,,6,reviewed,us,us
+2004-06-16T09:48:24.770Z,13.434,-88.616,84.5,3.9,md,12,118.8,,0.91,us,usp000cy0h,2014-11-07T01:22:38.206Z,El Salvador,earthquake,,9.9,,,reviewed,us,snet
+2004-06-02T01:09:40.980Z,13.22,-88.63,47.9,4.1,mb,17,127,,1.28,us,usp000cww3,2014-11-07T01:22:30.582Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2004-05-28T01:06:01.480Z,13.012,-88.852,50.5,4.6,mb,106,137.7,,1.23,us,usp000cwe4,2014-11-07T01:22:25.381Z,offshore El Salvador,earthquake,,,,31,reviewed,us,us
+2004-05-23T02:36:44.590Z,12.947,-88.602,66.5,4.3,md,28,110,,1.13,us,usp000cvyd,2014-11-07T01:22:23.094Z,offshore El Salvador,earthquake,,,,,reviewed,us,snet
+2004-05-18T03:31:35.580Z,13.241,-89.324,61.1,3.5,mb,10,167.4,,1.09,us,usp000cvdz,2014-11-07T01:22:20.605Z,offshore El Salvador,earthquake,,19.4,,2,reviewed,us,us
+2004-05-08T09:16:41.850Z,12.987,-87.321,10,4.1,mb,27,122.1,,1.3,us,usp000cuev,2014-11-07T01:22:15.917Z,Golfo de Fonseca  Honduras,earthquake,,,,13,reviewed,us,us
+2004-05-06T13:29:25.340Z,12.949,-88.363,92.6,4,mb,28,128.7,,0.85,us,usp000cu9v,2014-11-07T01:22:15.210Z,offshore El Salvador,earthquake,,12.2,,15,reviewed,us,us
+2004-05-04T19:54:24.820Z,13.058,-88.519,66.5,4.4,mb,34,84.2,,1,us,usp000cu68,2014-11-07T01:22:14.678Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+2004-04-22T19:23:15.930Z,13.866,-85.868,35,4.2,mb,18,106.9,,1.07,us,usp000ct5c,2014-11-07T01:22:04.405Z,Nicaragua,earthquake,,,,5,reviewed,us,us
+2004-04-22T19:22:05.510Z,13.656,-86,35,4.2,mb,16,107.8,,1.25,us,usp000ct5b,2014-11-07T01:22:04.403Z,Nicaragua,earthquake,,,,4,reviewed,us,us
+2004-04-22T16:46:43.450Z,13.264,-88.249,110.3,4.3,md,24,111.7,,1.18,us,usp000ct53,2014-11-07T01:22:04.376Z,El Salvador,earthquake,,12.2,,,reviewed,us,casc
+2004-03-06T04:34:12.650Z,13.347,-88.823,102.7,4.1,md,23,104.8,,1.06,us,usp000cp72,2014-11-07T01:21:38.860Z,El Salvador,earthquake,,13.3,,,reviewed,us,snet
+2004-02-15T14:49:07.230Z,13.312,-87.64,10,3.4,mb,9,179.7,,1.19,us,usp000cm8n,2014-11-07T01:21:21.531Z,Honduras,earthquake,,0,,1,reviewed,us,us
+2004-02-14T05:00:11.280Z,12.992,-88.76,89.2,4.2,mb,40,104.6,,1.09,us,usp000cm50,2014-11-07T01:21:21.075Z,offshore El Salvador,earthquake,,16.8,,12,reviewed,us,us
+2004-02-09T05:27:30.970Z,13.099,-88.854,63.6,4.5,mb,39,107.1,,1.33,us,usp000cktb,2014-11-07T01:21:19.745Z,offshore El Salvador,earthquake,,,,14,reviewed,us,us
+2004-01-30T03:49:21.800Z,12.997,-88.189,15,3.8,md,11,135.2,,0.62,us,usp000cjzm,2014-11-07T01:21:10.357Z,offshore El Salvador,earthquake,,0,,,reviewed,us,snet
+2004-01-18T19:23:55.190Z,13.172,-87.641,52.8,3.7,mb,10,263.4,,0.8,us,usp000cj6y,2014-11-07T01:21:05.870Z,Honduras,earthquake,,,,3,reviewed,us,us
+2004-01-02T18:40:38.220Z,13.263,-88.581,145.6,3.8,md,18,123.7,,0.76,us,usp000cgw8,2014-11-07T01:20:56.765Z,El Salvador,earthquake,,23.2,,,reviewed,us,snet
+2003-12-23T15:37:27.020Z,12.968,-88.282,86.4,4.6,mb,86,148.3,,1.22,us,usp000cfw3,2014-11-07T01:20:48.288Z,offshore El Salvador,earthquake,,3.5,,21,reviewed,us,us
+2003-12-18T17:52:44.970Z,13.651,-88.77,33,4.3,mb,18,113.6,,1.42,us,usp000cfgr,2014-11-07T01:20:46.685Z,El Salvador,earthquake,,,,8,reviewed,us,us
+2003-11-22T12:54:53.710Z,13.019,-87.841,33,4,mb,18,125.9,,1.01,us,usp000cdnv,2014-11-07T01:20:32.582Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+2003-11-20T10:17:04.780Z,13.447,-88.157,33,3.6,mb,11,263.2,,0.69,us,usp000cdg0,2014-11-07T01:20:31.740Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2003-11-11T08:22:27.950Z,12.948,-88.135,33,4.2,md,12,247.3,,1.35,us,usp000ccks,2014-11-07T01:20:27.204Z,offshore El Salvador,earthquake,,,,,reviewed,us,snet
+2003-11-08T14:49:05.090Z,13.004,-88.814,33,3.8,md,11,150.8,,1.46,us,usp000ccca,2014-11-07T01:20:25.804Z,offshore El Salvador,earthquake,,,,,reviewed,us,snet
+2003-11-03T17:08:30.750Z,13.124,-88.447,33,4.1,mb,10,231.5,,1.2,us,usp000cbzt,2014-11-07T01:20:24.079Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2003-10-30T16:20:55.250Z,13.398,-87.707,33,4.2,mb,19,162.4,,1.37,us,usp000cbna,2014-11-07T01:20:17.419Z,Honduras,earthquake,,,,11,reviewed,us,us
+2003-10-17T13:24:56.660Z,13.696,-88.611,33,3.9,md,14,143.6,,0.98,us,usp000cam9,2014-11-07T01:20:13.217Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2003-10-07T13:16:58.320Z,12.997,-87.565,10,4.5,mb,72,153.9,,1.33,us,usp000c9ux,2014-11-07T01:20:09.380Z,near the coast of Nicaragua,earthquake,,,,13,reviewed,us,us
+2003-10-05T11:03:58.100Z,13.114,-87.492,10,3.9,md,6,264.3,,0.94,us,usp000c9nq,2014-11-07T01:20:08.625Z,Golfo de Fonseca  Honduras,earthquake,,,,,reviewed,us,snet
+2003-09-25T18:37:06.900Z,13.289,-88.312,195,3.6,mb,10,114.4,,0.83,us,usp000c8kp,2014-11-07T01:19:56.319Z,El Salvador,earthquake,,47.2,,4,reviewed,us,us
+2003-09-16T07:20:19.770Z,13.717,-88.496,100,4.3,mb,13,128.8,,0.7,us,usp000c7pr,2014-11-07T01:19:49.935Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2003-09-13T06:47:11.060Z,13.192,-87.732,66.8,4.1,mb,25,113.7,,0.81,us,usp000c7dj,2014-11-07T01:19:48.702Z,Golfo de Fonseca  El Salvador,earthquake,,,,11,reviewed,us,us
+2003-09-09T14:54:39.690Z,12.968,-88.658,33,4.2,mb,12,172.4,,0.4,us,usp000c74t,2014-11-07T01:19:47.563Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+2003-09-05T12:36:51.330Z,13.194,-89.433,51.3,4.2,mb,41,123,,1.09,us,usp000c6u5,2014-11-07T01:19:45.458Z,offshore El Salvador,earthquake,,,,12,reviewed,us,us
+2003-08-30T07:21:20.330Z,13.117,-86.854,134.1,4,mb,27,126.3,,1.08,us,usp000c68z,2014-11-07T01:19:36.925Z,Nicaragua,earthquake,,27.8,,13,reviewed,us,us
+2003-08-25T05:51:11.890Z,12.949,-88.322,33,4.3,mb,14,180.9,,1.02,us,usp000c5vv,2014-11-07T01:19:35.164Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2003-08-23T20:57:14.750Z,13.331,-89.094,150,4.1,mb,18,175.1,,1.09,us,usp000c5ru,2014-11-07T01:19:34.846Z,offshore El Salvador,earthquake,,,,10,reviewed,us,us
+2003-08-18T19:29:41.480Z,16.205,-86.051,33,4.3,mb,13,199.5,,1.05,us,usp000c5a1,2014-11-07T01:19:32.854Z,offshore Honduras,earthquake,,,,3,reviewed,us,us
+2003-08-16T22:55:53.880Z,12.954,-88.79,69.8,4.2,mb,30,173,,1.11,us,usp000c54d,2014-11-07T01:19:32.311Z,offshore El Salvador,earthquake,,,,17,reviewed,us,us
+2003-07-03T05:42:40.270Z,13.384,-89.149,33,4,mb,14,125.7,,1.1,us,usp000c1hm,2014-11-07T01:19:06.578Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+2003-06-19T20:41:10.010Z,13.716,-89.404,100,4.1,mb,17,231.2,,0.81,us,usp000c090,2014-11-07T01:18:57.646Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2003-06-10T23:45:35.470Z,12.969,-88.729,57.8,4.3,mb,53,110.2,,1.25,us,usp000bzkk,2014-11-07T01:18:54.303Z,offshore El Salvador,earthquake,,,,18,reviewed,us,us
+2003-05-22T03:40:40.810Z,13.483,-88.591,33,4.2,mb,14,174.5,,1.43,us,usp000bxt5,2014-11-07T01:18:40.680Z,El Salvador,earthquake,,,,6,reviewed,us,us
+2003-05-12T17:47:09.490Z,13.306,-88.174,33,3.9,mb,10,237.5,,0.94,us,usp000bx44,2014-11-07T01:18:36.508Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2003-05-10T20:48:31.150Z,13.884,-89.201,33,3.8,mb,9,239.5,,1.38,us,usp000bwzw,2014-11-07T01:18:36.105Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2003-04-26T17:14:56.970Z,15.752,-88.789,33,4.2,mb,16,112.2,,1.19,us,usp000bw0n,2014-11-07T01:18:26.305Z,Guatemala,earthquake,,,,6,reviewed,us,us
+2003-04-18T00:19:32.180Z,13.807,-88.854,57.4,4.5,md,13,242.8,,1.13,us,usp000bvdv,2014-11-07T01:18:21.773Z,El Salvador,earthquake,,,,,reviewed,us,snet
+2003-03-19T07:07:53.740Z,13.051,-88.335,65.1,4.1,mb,38,117.3,,1.28,us,usp000bt0e,2014-11-07T01:18:06.511Z,offshore El Salvador,earthquake,,14,,13,reviewed,us,us
+2003-02-27T06:19:48.210Z,13.052,-88.487,100,4.2,mb,36,,,1.04,us,usp000brk2,2014-11-07T01:17:52.780Z,offshore El Salvador,earthquake,,,,18,reviewed,us,us
+2003-02-20T06:09:07.450Z,13.245,-89.456,77.8,4.6,mb,93,,,1.2,us,usp000br2d,2014-11-07T01:17:49.970Z,offshore El Salvador,earthquake,,4.9,,39,reviewed,us,us
+2003-02-12T10:33:13.190Z,13.026,-88.782,47,5.2,mwc,169,,,1.28,us,usp000bqh5,2016-11-09T21:51:38.985Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2003-02-12T06:58:01.930Z,13.593,-88.108,200,4.2,mb,39,,,0.77,us,usp000bqgr,2014-11-07T01:17:47.301Z,El Salvador,earthquake,,,,19,reviewed,us,us
+2002-12-10T14:32:46.150Z,13.426,-88.07,100,4.2,mb,14,,,0.82,us,usp000bkez,2014-11-07T01:17:19.987Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2002-12-05T18:52:02.220Z,12.949,-87.19,10,4.1,mb,16,,,1.05,us,usp000bk5r,2014-11-07T01:17:18.923Z,near the coast of Nicaragua,earthquake,,,,8,reviewed,us,us
+2002-12-02T06:19:57.070Z,13.278,-89.063,125,4.8,mb,136,,,0.97,us,usp000bjx5,2014-11-07T01:17:17.096Z,offshore El Salvador,earthquake,,5.9,,60,reviewed,us,us
+2002-11-28T23:11:44.730Z,13.16,-88.413,33,4.2,mb,9,,,0.94,us,usp000bjnn,2014-11-07T01:17:12.124Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2002-11-23T13:17:46.320Z,13.234,-87.931,33,4.1,mb,13,,,0.54,us,usp000bj83,2014-11-07T01:17:10.639Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2002-11-19T18:24:08.870Z,12.924,-89.019,33,4.8,mb,101,,,1.28,us,usp000bj05,2014-11-07T01:17:09.355Z,offshore El Salvador,earthquake,,,,33,reviewed,us,us
+2002-11-18T06:15:29.100Z,13.404,-88.659,33,4.2,mb,10,,,0.97,us,usp000bhxe,2014-11-07T01:17:09.117Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2002-11-01T09:28:09.360Z,13.615,-88.852,33,4,mb,16,,,1.08,us,usp000bft1,2014-11-07T01:16:53.954Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2002-09-27T09:48:32.680Z,13.118,-89.357,71.2,4.1,mb,64,,,0.85,us,usp000bd7j,2014-11-07T01:16:35.054Z,offshore El Salvador,earthquake,,4.8,,14,reviewed,us,us
+2002-09-03T07:45:52.100Z,13.838,-84.441,35.5,4.2,md,28,,,,us,usp000bb60,2014-11-07T01:16:25.970Z,Nicaragua,earthquake,,,,,reviewed,casc,casc
+2002-08-22T08:03:22.300Z,13.036,-89.344,33,4.1,mb,22,,,1.18,us,usp000badd,2014-11-07T01:16:18.474Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2002-08-10T21:50:30.120Z,15.388,-86.878,33,4.3,mb,10,,,0.83,us,usp000b9nx,2014-11-07T01:16:14.872Z,Honduras,earthquake,,,,1,reviewed,us,us
+2002-07-20T01:03:24.820Z,13.182,-89.247,61.9,4.2,mb,30,,,0.58,us,usp000b8e7,2014-11-07T01:16:05.178Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2002-06-20T20:53:03.900Z,13.102,-88.557,10.6,4.2,md,23,,,,us,usp000b6kn,2014-11-07T01:15:52.101Z,offshore El Salvador,earthquake,,,,,reviewed,casc,casc
+2002-06-16T21:45:41.310Z,13.016,-88.628,67.9,4.2,mb,63,,,1.21,us,usp000b6a4,2014-11-07T01:15:50.699Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2002-06-14T10:02:08.830Z,13.46,-89.065,97.3,4.1,md,21,,,0.61,us,usp000b654,2014-11-07T01:15:49.937Z,El Salvador,earthquake,,14.4,,,reviewed,us,casc
+2002-06-06T19:57:32.900Z,13.167,-88.938,62.1,4.2,md,31,,,,us,usp000b5nj,2014-11-07T01:15:46.760Z,offshore El Salvador,earthquake,,,,,reviewed,casc,casc
+2002-05-30T06:15:09.210Z,13.14,-88.553,97.9,4,mb,45,,,0.96,us,usp000b57e,2014-11-07T01:15:41.235Z,offshore El Salvador,earthquake,,13.5,,7,reviewed,us,us
+2002-05-27T15:31:07.050Z,13.181,-88.944,100,4.1,md,20,,,1.03,us,usp000b52p,2014-11-07T01:15:40.669Z,offshore El Salvador,earthquake,,,,,reviewed,us,casc
+2002-05-19T08:17:51.400Z,13.158,-88.919,34.9,4.1,md,11,,,,us,usp000b4kc,2014-11-07T01:15:38.429Z,offshore El Salvador,earthquake,,,,,reviewed,casc,casc
+2002-05-04T06:06:03.250Z,13.7,-88.127,33,4.1,mb,18,,,1.2,us,usp000b3pj,2014-11-07T01:15:34.168Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2002-04-28T19:04:04.090Z,13.046,-88.635,65.4,4.3,mb,62,,,1.31,us,usp000b3bs,2014-11-07T01:15:29.305Z,offshore El Salvador,earthquake,,,,19,reviewed,us,us
+2002-04-11T20:42:45.320Z,13.272,-87.889,179.7,4.4,mb,16,,,1.21,us,usp000b27j,2014-11-07T01:15:24.068Z,El Salvador,earthquake,,26,,6,reviewed,us,us
+2002-04-03T21:55:20.160Z,13.035,-88.766,67.9,4.5,mb,103,,,1.17,us,usp000b1p4,2014-11-07T01:15:20.698Z,offshore El Salvador,earthquake,,,,33,reviewed,us,us
+2002-03-25T07:42:05.080Z,13.177,-87.862,179.2,4.2,mb,47,,,0.92,us,usp000b107,2014-11-07T01:15:13.947Z,Golfo de Fonseca  El Salvador,earthquake,,5.5,,10,reviewed,us,us
+2002-03-07T03:31:31.500Z,13.076,-88.746,33,4.1,mb,9,,,1.45,us,usp000azux,2014-11-07T01:15:05.599Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2002-03-05T10:45:44.420Z,13.764,-88.926,33,4.5,mb,50,,,1.08,us,usp000azph,2014-11-07T01:15:04.938Z,El Salvador,earthquake,,,,15,reviewed,us,us
+2002-03-01T13:06:44.610Z,13.297,-88.671,115.8,4.4,mb,16,,,0.51,us,usp000azdk,2014-11-07T01:15:01.330Z,El Salvador,earthquake,,12.8,,3,reviewed,us,us
+2002-02-24T03:54:54.020Z,13.305,-88.145,66.7,4.1,mb,14,,,1.02,us,usp000az2d,2014-11-07T01:14:57.632Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2002-02-17T23:35:18.110Z,13.422,-88.932,96,3.5,mb,21,,,1.19,us,usp000ayp5,2014-11-07T01:14:56.070Z,El Salvador,earthquake,,21.4,,3,reviewed,us,us
+2002-02-16T08:08:17.800Z,12.969,-88.486,26.4,4.1,md,12,,,,us,usp000ayjt,2014-11-07T01:14:55.365Z,offshore El Salvador,earthquake,,,,,reviewed,casc,casc
+2002-01-23T16:14:04.080Z,13.154,-88.46,64.4,3.5,mb,11,,,0.95,us,usp000ax17,2014-11-07T01:14:44.788Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2002-01-19T14:49:57.720Z,13.218,-89.259,72.2,4.1,mb,20,,,1.26,us,usp000awsb,2014-11-07T01:14:42.864Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+2002-01-10T10:25:16.060Z,13.818,-88.968,196.7,4.9,mb,102,,,1.13,us,usp000aw5w,2014-11-07T01:14:40.051Z,El Salvador,earthquake,,,,31,reviewed,us,us
+2001-12-30T04:00:08.850Z,13.082,-88.719,70.1,4.4,mb,57,,,1.22,us,usp000avhh,2014-11-07T01:14:33.118Z,offshore El Salvador,earthquake,,,,10,reviewed,us,us
+2001-12-26T14:45:26.220Z,12.996,-89.076,63.2,4.6,mb,89,,,1.18,us,usp000avas,2014-11-07T01:14:32.291Z,offshore El Salvador,earthquake,,,,26,reviewed,us,us
+2001-12-25T16:06:03.720Z,13.121,-89.121,66.1,4.4,mb,53,,,1.19,us,usp000av95,2014-11-07T01:14:31.685Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2001-12-25T03:24:49.840Z,12.948,-87.413,33,4.1,mb,9,,,1.15,us,usp000av7t,2014-11-07T01:14:31.482Z,near the coast of Nicaragua,earthquake,,,,3,reviewed,us,us
+2001-12-01T23:54:45.770Z,13.048,-88.945,33,4.1,md,20,,,0.93,us,usp000atuz,2014-11-07T01:14:23.802Z,offshore El Salvador,earthquake,,,,,reviewed,us,casc
+2001-12-01T13:36:16.770Z,13.078,-88.753,88,4.3,mb,48,,,1.24,us,usp000attj,2014-11-07T01:14:23.195Z,offshore El Salvador,earthquake,,7.8,,5,reviewed,us,us
+2001-11-25T18:06:08.760Z,13.379,-89.062,33,4.1,mb,15,,,1.4,us,usp000atfp,2014-11-07T01:14:18.233Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-11-16T06:57:23.090Z,13.648,-88.99,33,4.1,mb,9,,,1.45,us,usp000asyy,2014-11-07T01:14:15.566Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-11-09T21:14:45.850Z,13.348,-88.216,33,4.3,mb,27,,,1.09,us,usp000asjc,2014-11-07T01:14:13.492Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-11-02T14:28:46.500Z,13.357,-89.295,33,4.2,mb,20,,,1.15,us,usp000as3n,2014-11-07T01:14:09.734Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2001-09-26T12:11:30.410Z,13.052,-88.308,33,4.5,mb,31,,,0.95,us,usp000aptu,2014-11-07T01:13:51.049Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2001-09-20T22:51:02.940Z,13.455,-87.774,33,3.9,mb,10,,,1.36,us,usp000aphd,2014-11-07T01:13:49.490Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-09-18T14:51:03.920Z,12.99,-88.761,62,5.5,mwc,134,,,1.07,us,usp000apdy,2017-04-13T22:14:37.865Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-09-09T13:21:16.710Z,13.097,-88.468,33,3.5,mb,10,,,1.19,us,usp000anwm,2014-11-07T01:13:45.808Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-09-06T22:59:55.960Z,13.041,-88.592,33,4.4,mb,20,,,1.22,us,usp000anrw,2014-11-07T01:13:45.223Z,offshore El Salvador,earthquake,,,,8,reviewed,us,us
+2001-08-28T12:30:25.420Z,13.158,-88.507,33,4.3,mb,42,,,0.84,us,usp000an72,2014-11-07T01:13:37.669Z,offshore El Salvador,earthquake,,,,21,reviewed,us,us
+2001-08-26T17:35:05.960Z,13.008,-88.781,66.5,4.2,mb,24,,,1.26,us,usp000an37,2014-11-07T01:13:37.015Z,offshore El Salvador,earthquake,,,,13,reviewed,us,us
+2001-08-11T13:21:00.890Z,13.792,-89.08,155.4,3.5,mb,17,,,0.87,us,usp000am8g,2014-11-07T01:13:31.718Z,El Salvador,earthquake,,41.9,,2,reviewed,us,us
+2001-08-03T17:24:33.370Z,13.099,-88.624,33,4.4,mb,15,,,1.33,us,usp000akss,2014-11-07T01:13:28.917Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+2001-07-20T15:24:05.630Z,13.283,-88.268,33,4.1,mb,12,,,1.43,us,usp000ajwj,2014-11-07T01:13:19.262Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-07-16T17:24:39.970Z,13.089,-88.603,69.3,4.4,mb,34,,,1.12,us,usp000ajnd,2014-11-07T01:13:17.867Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2001-06-20T01:42:24.510Z,13.116,-89.245,57.7,4.1,mb,17,,,1.43,us,usp000agye,2014-11-07T01:13:05.320Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+2001-06-17T02:01:47.020Z,13.073,-88.95,33,3.6,mb,10,,,1.5,us,usp000agtj,2014-11-07T01:13:04.623Z,offshore El Salvador,earthquake,,,,3,reviewed,us,us
+2001-06-13T12:26:02.190Z,13.626,-85.621,33,4.7,md,10,,,1.25,us,usp000agjn,2014-11-07T01:13:03.440Z,Nicaragua,earthquake,,,,,reviewed,us,casc
+2001-06-11T15:34:15.730Z,13.22,-88.031,33,4.1,mb,16,,,1.21,us,usp000agew,2014-11-07T01:13:01.922Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-06-11T14:55:37.940Z,13.35,-88.352,33,4.3,mb,16,,,0.94,us,usp000ageu,2014-11-07T01:13:01.916Z,El Salvador,earthquake,,,,6,reviewed,us,us
+2001-05-30T02:15:50.860Z,12.985,-89.026,64.7,4.1,mb,24,,,1.09,us,usp000afs3,2014-11-07T01:12:52.189Z,offshore El Salvador,earthquake,,,,3,reviewed,us,us
+2001-05-29T03:01:48.100Z,13.432,-88.75,10,4.2,mb,15,,,1.36,us,usp000afq7,2014-11-07T01:12:51.779Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-05-28T23:56:49.390Z,13.235,-88.493,270,4.2,mb,16,,,0.74,us,usp000afq1,2014-11-07T01:12:51.744Z,El Salvador,earthquake,,31.2,,3,reviewed,us,us
+2001-05-25T02:16:08.100Z,13.666,-88.64,33,4,mb,25,,,1.42,us,usp000afga,2014-11-07T01:12:50.494Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-05-22T06:00:18.480Z,13.022,-88.966,33,4,mb,10,,,1.34,us,usp000afba,2014-11-07T01:12:49.610Z,offshore El Salvador,earthquake,,,,3,reviewed,us,us
+2001-05-19T08:25:44.650Z,12.941,-88.556,59.4,4.3,mb,53,,,1.38,us,usp000af63,2014-11-07T01:12:48.684Z,offshore El Salvador,earthquake,,,,23,reviewed,us,us
+2001-05-18T10:08:06.010Z,15.466,-86.965,33,3.9,mb,16,,,0.98,us,usp000af4c,2014-11-07T01:12:48.473Z,Honduras,earthquake,,,,6,reviewed,us,us
+2001-05-15T20:41:40.050Z,13.609,-88.638,10,4,mb,12,,,1.42,us,usp000aezz,2014-11-07T01:12:47.919Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-05-15T19:46:46.080Z,13.647,-88.71,10,4.4,mb,39,,,1.22,us,usp000aezv,2014-11-07T01:12:47.908Z,El Salvador,earthquake,,,,15,reviewed,us,us
+2001-05-14T11:06:15.520Z,13.176,-89.177,58.2,4.3,mb,40,,,1.27,us,usp000aexy,2014-11-07T01:12:47.759Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2001-05-12T11:39:28.830Z,13.435,-88.556,10,4.1,mb,38,,,1.19,us,usp000aeu2,2014-11-07T01:12:47.361Z,El Salvador,earthquake,,,,11,reviewed,us,us
+2001-05-09T10:32:03.650Z,13.634,-88.711,10,4.2,md,7,,,1.53,us,usp000aep1,2014-11-07T01:12:46.705Z,El Salvador,earthquake,,,,,reviewed,us,casc
+2001-05-09T07:23:56.730Z,13.621,-88.682,10,4.2,mb,15,,,1.11,us,usp000aenv,2014-11-07T01:12:46.687Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-05-09T07:23:14.390Z,13.698,-88.624,10,4.5,mb,66,,,0.99,us,usp000aenu,2014-11-07T01:12:46.681Z,El Salvador,earthquake,,,,29,reviewed,us,us
+2001-05-08T19:52:14.100Z,13.602,-88.644,10,4.2,mb,37,,,1.21,us,usp000aemt,2014-11-07T01:12:46.590Z,El Salvador,earthquake,,,,12,reviewed,us,us
+2001-05-08T18:40:22.090Z,13.545,-88.65,10,4.4,mb,42,,,0.94,us,usp000aemk,2014-11-07T01:12:46.565Z,El Salvador,earthquake,,,,10,reviewed,us,us
+2001-05-08T18:15:47.580Z,13.712,-88.507,10,5,mb,113,,,1.13,us,usp000aemj,2014-11-07T01:12:46.553Z,El Salvador,earthquake,,,,55,reviewed,us,us
+2001-05-08T18:12:26.610Z,13.818,-88.331,10,4,mb,10,,,0.96,us,usp000aemh,2014-11-07T01:12:46.551Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-05-08T18:09:11.960Z,13.64,-88.43,10,4.3,mb,19,,,1.19,us,usp000aemg,2014-11-07T01:12:46.549Z,El Salvador,earthquake,,,,6,reviewed,us,us
+2001-05-08T18:02:16.910Z,13.605,-88.795,10,5.7,mwc,192,,,1.27,us,usp000aemf,2017-04-26T17:58:57.269Z,El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-05-08T05:24:00.630Z,13.147,-88.47,106.9,3.7,mb,16,,,0.79,us,usp000aekh,2014-11-07T01:12:46.428Z,offshore El Salvador,earthquake,,12.9,,1,reviewed,us,us
+2001-05-06T06:07:20.100Z,13.129,-87.663,37.5,4.2,md,10,,,,us,usp000aegm,2014-11-07T01:12:46.012Z,Honduras,earthquake,,,,,reviewed,casc,casc
+2001-05-02T07:05:52.070Z,13.135,-89.017,46.2,4.7,mb,76,,,1.05,us,usp000aeaf,2014-11-07T01:12:42.642Z,offshore El Salvador,earthquake,,,,27,reviewed,us,us
+2001-04-21T11:25:54.140Z,13.126,-88.362,33,4.1,mb,26,,,1.08,us,usp000adr3,2014-11-07T01:12:37.171Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2001-04-15T16:24:04.810Z,13.081,-88.637,33,3.8,mb,14,,,1.52,us,usp000adad,2014-11-07T01:12:35.071Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2001-04-12T23:43:35.740Z,13.166,-88.349,33,4.1,mb,28,,,1.22,us,usp000ad4e,2014-11-07T01:12:34.370Z,offshore El Salvador,earthquake,,,,16,reviewed,us,us
+2001-04-11T14:41:50.340Z,13.148,-88.363,69.9,4.5,mb,33,,,0.91,us,usp000ad1h,2014-11-07T01:12:34.053Z,offshore El Salvador,earthquake,,,,14,reviewed,us,us
+2001-04-10T21:47:00.170Z,13.904,-88.359,10,4.5,mb,33,,,1.27,us,usp000aczm,2014-11-07T01:12:33.861Z,Honduras,earthquake,,,,23,reviewed,us,us
+2001-04-04T07:34:43.050Z,13.255,-89.067,64,4.5,mb,64,,,1.13,us,usp000acjf,2014-11-07T01:12:31.613Z,offshore El Salvador,earthquake,,,,23,reviewed,us,us
+2001-04-03T06:18:04.120Z,13.076,-88.736,33,4.3,mb,27,,,1.14,us,usp000acfr,2014-11-07T01:12:31.015Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+2001-04-03T01:07:14.060Z,12.935,-88.565,76.9,4.4,mb,71,,,0.99,us,usp000acfb,2014-11-07T01:12:30.933Z,offshore El Salvador,earthquake,,6.5,,22,reviewed,us,us
+2001-03-29T06:54:28.280Z,13.082,-88.939,33,5.8,mwc,180,,,1.15,us,usp000ac5v,2017-04-26T17:58:49.069Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-03-22T04:25:13.270Z,13.061,-88.709,72.1,4.5,mb,76,,,1.24,us,usp000abur,2014-11-07T01:12:23.418Z,offshore El Salvador,earthquake,,,,27,reviewed,us,us
+2001-03-19T18:48:19.990Z,12.989,-88.388,33,3.9,mb,9,,,1.04,us,usp000abra,2014-11-07T01:12:22.691Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-03-18T12:08:03.370Z,12.984,-88.54,33,4.2,mb,11,,,1.27,us,usp000abp0,2014-11-07T01:12:22.145Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2001-03-16T01:44:36.560Z,13.312,-88.509,33,4.2,mb,9,,,0.52,us,usp000abg9,2014-11-07T01:12:21.482Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2001-03-16T00:01:18.380Z,13.144,-88.699,48.9,5.9,mwc,297,,,1.24,us,usp000abg2,2016-11-09T22:05:27.192Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-03-14T21:40:34.700Z,13.158,-88.5,33,4.1,mb,8,,,0.83,us,usp000abdm,2014-11-07T01:12:21.138Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2001-03-14T13:56:10.300Z,13.226,-88.355,33,4.3,mb,15,,,1.14,us,usp000abd3,2014-11-07T01:12:21.062Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-03-11T20:44:41.640Z,13.51,-89.063,10,3.7,mb,8,,,1.03,us,usp000ab8g,2014-11-07T01:12:20.085Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-03-11T01:45:45.460Z,13.607,-88.368,185.4,4.4,mb,49,,,1.16,us,usp000ab73,2014-11-07T01:12:19.939Z,El Salvador,earthquake,,7.5,,15,reviewed,us,us
+2001-03-10T13:40:17.700Z,13.865,-88.691,21.1,4.3,mb,13,,,,us,usp000ab6q,2014-11-07T01:12:19.862Z,El Salvador,earthquake,,,,5,reviewed,casc,us
+2001-03-08T06:17:33.470Z,13.317,-87.901,33,3.8,mb,22,,,1.03,us,usp000ab3d,2014-11-07T01:12:19.463Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-03-07T02:49:42.870Z,13.653,-88.606,61.1,4,mb,20,,,1.11,us,usp000ab1g,2014-11-07T01:12:19.184Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-03-06T23:24:10.010Z,13.603,-89.33,10,4,mb,13,,,0.54,us,usp000ab17,2014-11-07T01:12:19.127Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-03-06T13:15:11.270Z,13.259,-88.919,10,3.9,mb,12,,,1.45,us,usp000ab0f,2014-11-07T01:12:19.036Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-03-04T19:45:07.540Z,13.331,-89.087,59.8,4.4,mb,34,,,1.31,us,usp000aax3,2014-11-07T01:12:18.365Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2001-03-02T07:09:29.770Z,13.294,-88.824,33,4.4,mb,38,,,1.45,us,usp000aarh,2014-11-07T01:12:16.665Z,El Salvador,earthquake,,,,7,reviewed,us,us
+2001-03-02T00:22:37.900Z,13.177,-88.827,64.7,4.1,mb,48,,,1.31,us,usp000aaqt,2014-11-07T01:12:16.545Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2001-03-01T06:54:07.150Z,13.793,-88.667,10,4.2,mb,22,,,1.48,us,usp000aanx,2014-11-07T01:12:15.916Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-03-01T05:58:38.050Z,13.734,-88.71,10,4.1,mb,22,,,1.1,us,usp000aanr,2014-11-07T01:12:15.823Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-02-28T18:50:13.020Z,13.283,-88.827,65.3,6.1,mwb,179,,,0.99,us,usp000aam7,2017-04-26T17:58:43.743Z,El Salvador,earthquake,,,,,reviewed,us,us
+2001-02-27T17:46:14.860Z,13.207,-89.122,33,4.4,mb,53,,,1.35,us,usp000aah4,2014-11-07T01:12:12.573Z,offshore El Salvador,earthquake,,,,14,reviewed,us,us
+2001-02-26T19:51:12.090Z,12.961,-89.058,53.2,4.6,mb,64,,,1.13,us,usp000aaf3,2014-11-07T01:12:12.343Z,offshore El Salvador,earthquake,,7.7,,15,reviewed,us,us
+2001-02-25T08:28:15.110Z,14.065,-88.62,10,4.1,mb,17,,,1.15,us,usp000aab0,2014-11-07T01:12:11.846Z,Honduras,earthquake,,,,7,reviewed,us,us
+2001-02-24T16:42:34.680Z,14.403,-88.949,10,4.3,mb,12,,,1.34,us,usp000aa96,2014-11-07T01:12:11.557Z,Honduras,earthquake,,,,6,reviewed,us,us
+2001-02-23T18:40:50.390Z,13.018,-88.874,33,4.5,mb,77,,,1.14,us,usp000aa70,2014-11-07T01:12:11.222Z,offshore El Salvador,earthquake,,,,23,reviewed,us,us
+2001-02-23T16:22:07.960Z,14.416,-88.16,10,4.3,mb,9,,,1.22,us,usp000aa6v,2014-11-07T01:12:11.214Z,Honduras,earthquake,,,,3,reviewed,us,us
+2001-02-21T06:51:24.670Z,13.003,-89.069,33,4.3,mb,51,,,1.1,us,usp000aa1d,2014-11-07T01:12:10.602Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2001-02-21T03:44:37.320Z,13.148,-88.462,33,4,mb,29,,,0.93,us,usp000aa0y,2014-11-07T01:12:10.574Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2001-02-20T21:55:15.500Z,13.304,-88.283,33,4.3,mb,17,,,1.27,us,usp000aa0c,2014-11-07T01:12:10.543Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-02-18T19:34:14.520Z,13.171,-88.668,33,4.4,mb,44,,,1.13,us,usp000a9wk,2014-11-07T01:12:10.156Z,offshore El Salvador,earthquake,,,,21,reviewed,us,us
+2001-02-17T23:02:53.380Z,13.54,-88.837,10,3.8,md,9,,,0.76,us,usp000a9u1,2014-11-07T01:12:09.908Z,El Salvador,earthquake,,,,,reviewed,us,cig
+2001-02-17T20:25:15.780Z,13.787,-89.106,10,4.1,mb,18,,,1.58,us,usp000a9tt,2017-04-13T22:14:01.557Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2001-02-17T18:53:33.160Z,14.901,-88.303,10,3.9,mb,17,,,1.37,us,usp000a9tm,2014-11-07T01:12:09.791Z,Honduras,earthquake,,,,4,reviewed,us,us
+2001-02-17T09:56:46.700Z,13.279,-88.588,33,4.3,mb,34,,,1.19,us,usp000a9sq,2014-11-07T01:12:09.704Z,El Salvador,earthquake,,,,9,reviewed,us,us
+2001-02-17T01:17:31.420Z,13.062,-88.909,33,5.5,mwc,148,,,1.33,us,usp000a9s2,2017-04-26T17:58:39.677Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-02-14T09:13:11.640Z,13.124,-88.785,52.9,4.3,mb,62,,,1.17,us,usp000a9mh,2014-11-07T01:12:08.496Z,offshore El Salvador,earthquake,,,,18,reviewed,us,us
+2001-02-14T05:53:40.620Z,13.194,-88.059,33,4.1,mb,38,,,1.12,us,usp000a9m8,2014-11-07T01:12:08.455Z,El Salvador,earthquake,,,,13,reviewed,us,us
+2001-02-13T19:26:00.010Z,13.66,-88.455,10,4.4,mb,12,,,0.91,us,usp000a9kb,2014-11-07T01:12:08.279Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2001-02-13T19:22:09.520Z,13.706,-88.76,10,4.6,mb,55,,,0.96,us,usp000a9ka,2014-11-07T01:12:08.274Z,El Salvador,earthquake,,,,11,reviewed,us,us
+2001-02-13T16:15:56.380Z,13.419,-88.623,10,4.4,mb,24,,,1.08,us,usp000a9k1,2014-11-07T01:12:08.250Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2001-02-13T14:58:46.990Z,13.446,-88.883,10,4.4,mb,42,,,1.07,us,usp000a9k0,2014-11-07T01:12:08.245Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-02-13T14:39:02.260Z,13.412,-88.868,10,4.8,mb,34,,,1.26,us,usp000a9jy,2014-11-07T01:12:08.226Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2001-02-13T14:22:05.820Z,13.671,-88.938,10,6.6,mwc,273,,,1.44,us,usp000a9jv,2018-03-12T20:03:28.558Z,El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-02-13T07:23:43.350Z,13.277,-88.26,69.3,4.1,mb,8,,,0.91,us,usp000a9jp,2014-11-07T01:12:08.172Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-02-12T08:38:16.080Z,13.46,-88.552,64.8,4.2,mb,38,,,1.22,us,usp000a9ha,2014-11-07T01:12:07.983Z,El Salvador,earthquake,,,,14,reviewed,us,us
+2001-02-11T07:22:45.880Z,13.037,-88.77,68.3,4.1,mb,49,,,1.41,us,usp000a9ff,2014-11-07T01:12:07.781Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2001-02-08T08:52:45.040Z,13.274,-87.46,200,4.1,mb,17,,,1.03,us,usp000a990,2014-11-07T01:12:06.792Z,Honduras,earthquake,,,,5,reviewed,us,us
+2001-02-07T18:10:25.180Z,13.091,-89.1,57.8,4.3,mb,42,,,1.4,us,usp000a983,2014-11-07T01:12:06.614Z,offshore El Salvador,earthquake,,,,14,reviewed,us,us
+2001-02-07T10:23:09.830Z,13.211,-88.941,63.6,5.8,mwc,229,,,1.1,us,usp000a97j,2016-11-09T21:49:23.820Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-02-06T10:47:01.830Z,13.135,-89.009,61.8,4.3,mb,63,,,1.24,us,usp000a95p,2014-11-07T01:12:05.961Z,offshore El Salvador,earthquake,,,,10,reviewed,us,us
+2001-02-05T08:51:45.770Z,13.191,-88.294,56.2,3.9,mb,25,,,1.11,us,usp000a93s,2014-11-07T01:12:05.769Z,El Salvador,earthquake,,,,8,reviewed,us,us
+2001-02-04T13:36:56.590Z,13.068,-88.824,33,4.2,mb,51,,,1.09,us,usp000a927,2014-11-07T01:12:05.453Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2001-02-04T09:15:26.000Z,13.194,-88.888,33,4.5,mb,97,,,1.16,us,usp000a91q,2014-11-07T01:12:05.339Z,offshore El Salvador,earthquake,,,,29,reviewed,us,us
+2001-02-03T06:50:39.620Z,13.241,-88.615,33,3.7,mb,8,,,0.88,us,usp000a8yt,2014-11-07T01:12:04.803Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2001-02-02T07:32:53.150Z,13.333,-88.475,33,4,mb,14,,,1.12,us,usp000a8wf,2014-11-07T01:12:04.059Z,El Salvador,earthquake,,,,6,reviewed,us,us
+2001-02-01T04:16:12.420Z,13.428,-88.239,10,3.9,mb,10,,,1.6,us,usp000a8th,2014-11-07T01:12:02.248Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-01-30T15:54:53.980Z,13.091,-88.542,33,4.2,mb,10,,,1.11,us,usp000a8qa,2014-11-07T01:12:00.173Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-30T02:55:57.940Z,13.227,-88.736,33,4.5,mb,35,,,1.2,us,usp000a8pd,2014-11-07T01:12:00.107Z,El Salvador,earthquake,,,,16,reviewed,us,us
+2001-01-29T22:33:20.420Z,12.948,-88.78,43.4,4.4,mb,41,,,1.21,us,usp000a8nq,2014-11-07T01:12:00.024Z,offshore El Salvador,earthquake,,,,10,reviewed,us,us
+2001-01-28T07:14:06.590Z,12.925,-88.887,33,4.4,mb,57,,,1.09,us,usp000a8j3,2014-11-07T01:11:59.656Z,offshore El Salvador,earthquake,,,,23,reviewed,us,us
+2001-01-26T20:58:32.750Z,13.08,-89.277,65,4.5,mb,50,,,1.16,us,usp000a8fp,2014-11-07T01:11:59.273Z,offshore El Salvador,earthquake,,9.9,,18,reviewed,us,us
+2001-01-25T18:37:42.230Z,13.159,-87.978,33,4.2,mb,11,,,0.9,us,usp000a8d4,2014-11-07T01:11:58.917Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-25T13:27:27.310Z,13.279,-87.802,33,4.7,mb,23,,,1.15,us,usp000a8cy,2014-11-07T01:11:58.898Z,El Salvador,earthquake,,,,7,reviewed,us,us
+2001-01-25T10:36:12.680Z,13.221,-88.668,33,4.2,mb,27,,,1.19,us,usp000a8cq,2014-11-07T01:11:58.845Z,El Salvador,earthquake,,,,11,reviewed,us,us
+2001-01-25T03:32:48.560Z,13.279,-88.449,33,4.1,mb,9,,,1.27,us,usp000a8c3,2014-11-07T01:11:58.757Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-25T01:34:09.790Z,13.05,-88.573,56.8,3.8,mb,23,,,1.16,us,usp000a8by,2014-11-07T01:11:58.740Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2001-01-24T14:53:55.660Z,13.275,-88.617,33,4.1,mb,8,,,1.11,us,usp000a8aw,2014-11-07T01:11:58.591Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-24T10:55:24.500Z,13.787,-89.286,33,4,mb,17,,,1.34,us,usp000a8ad,2014-11-07T01:11:58.561Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2001-01-24T02:18:42.670Z,13.488,-88.404,33,3.4,mb,5,,,1.8,us,usp000a897,2014-11-07T01:11:58.465Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-24T01:34:29.020Z,13.149,-89.084,53.6,4.5,mb,36,,,1.17,us,usp000a895,2014-11-07T01:11:58.457Z,offshore El Salvador,earthquake,,,,3,reviewed,us,us
+2001-01-23T21:23:14.860Z,13.718,-88.349,33,4.4,mb,7,,,1.27,us,usp000a88u,2014-11-07T01:11:58.433Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2001-01-23T04:51:07.350Z,13.093,-88.377,67,4,mb,16,,,0.73,us,usp000a86f,2014-11-07T01:11:58.130Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-22T20:38:01.560Z,13.107,-87.889,33,4.2,mb,7,,,0.97,us,usp000a85j,2014-11-07T01:11:58.050Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-21T10:21:01.770Z,13.005,-89.049,54.8,4.3,mb,33,,,1.48,us,usp000a835,2014-11-07T01:11:57.837Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2001-01-17T21:05:39.940Z,12.997,-89.062,45.7,4.6,mb,107,,,1.1,us,usp000a7wf,2014-11-07T01:11:57.041Z,offshore El Salvador,earthquake,,,,27,reviewed,us,us
+2001-01-17T01:40:15.920Z,13.018,-88.931,44.5,5.4,mwc,158,,,1.09,us,usp000a7ua,2016-11-09T21:41:16.315Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-16T23:32:52.770Z,13.283,-89.098,58.4,4.4,mb,92,,,1.35,us,usp000a7u6,2014-11-07T01:11:56.851Z,offshore El Salvador,earthquake,,,,26,reviewed,us,us
+2001-01-16T13:51:41.050Z,13.019,-88.483,33,3.9,md,14,,,1.18,us,usp000a7t4,2014-11-07T01:11:56.702Z,offshore El Salvador,earthquake,,,,,reviewed,us,cig
+2001-01-16T11:53:24.740Z,13.815,-89.456,33,4.4,mb,21,,,1.31,us,usp000a7sw,2014-11-07T01:11:56.500Z,El Salvador,earthquake,,,,7,reviewed,us,us
+2001-01-16T11:24:33.640Z,13.076,-88.853,67.9,4.8,mb,143,,,1.14,us,usp000a7sv,2014-11-07T01:11:56.485Z,offshore El Salvador,earthquake,,,,45,reviewed,us,us
+2001-01-16T10:58:17.000Z,12.985,-88.697,62.6,5.7,mwc,258,,,1.2,us,usp000a7su,2017-04-26T17:58:18.160Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-16T08:22:09.750Z,13.017,-88.596,44,5.7,mwc,220,,,1.23,us,usp000a7sp,2017-04-26T17:58:17.571Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-16T03:17:41.750Z,13.211,-88.645,57.5,4.6,mb,28,,,1.11,us,usp000a7s7,2014-11-07T01:11:56.123Z,El Salvador,earthquake,,,,7,reviewed,us,us
+2001-01-16T02:57:08.970Z,13.129,-88.674,58,4,mb,9,,,0.87,us,usp000a7s5,2014-11-07T01:11:56.119Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+2001-01-15T15:31:22.560Z,13.565,-88.312,33,4.7,mb,17,,,1.39,us,usp000a7r6,2014-11-07T01:11:56.042Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2001-01-15T12:20:10.440Z,13.076,-88.58,74.6,5.8,mwc,168,,,1.12,us,usp000a7qw,2016-11-09T21:40:28.110Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-15T10:07:32.500Z,12.976,-88.751,69.1,4.4,mb,42,,,1.23,us,usp000a7qr,2014-11-07T01:11:55.982Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2001-01-15T05:09:11.300Z,13.181,-88.792,67.7,5.6,mwc,187,,,1.32,us,usp000a7qb,2016-11-09T21:40:27.097Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-15T02:52:51.070Z,13.339,-88.5,33,4.1,mb,11,,,1.03,us,usp000a7q4,2014-11-07T01:11:55.899Z,El Salvador,earthquake,,,,4,reviewed,us,us
+2001-01-15T00:22:56.580Z,12.992,-88.764,68.1,5.3,mwc,146,,,1.13,us,usp000a7px,2017-04-26T17:58:16.952Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-14T22:41:28.520Z,13.118,-88.594,48.8,5.7,mwc,246,,,1.07,us,usp000a7pp,2017-04-26T17:58:16.347Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2001-01-14T21:20:18.730Z,13.999,-89.369,33,4.3,mb,12,,,1.39,us,usp000a7pk,2014-11-07T01:11:55.795Z,El Salvador,earthquake,,,,7,reviewed,us,us
+2001-01-14T18:17:29.260Z,13.151,-89.013,33,4.2,mb,12,,,1.44,us,usp000a7p8,2014-11-07T01:11:55.765Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+2001-01-14T17:01:59.030Z,13.16,-88.446,33,3.5,mb,9,,,0.97,us,usp000a7p4,2014-11-07T01:11:55.758Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-01-14T16:22:20.460Z,13.761,-89.144,33,4.1,mb,13,,,1.38,us,usp000a7p1,2014-11-07T01:11:55.751Z,El Salvador,earthquake,,,,6,reviewed,us,us
+2001-01-14T16:19:31.300Z,13.169,-88.352,33,3.3,md,4,,,0.69,us,usp000a7p0,2014-11-07T01:11:55.750Z,El Salvador,earthquake,,,,,reviewed,us,cig
+2001-01-14T15:41:30.310Z,13.847,-89.21,33,4.5,mb,23,,,1.44,us,usp000a7nz,2014-11-07T01:11:55.746Z,El Salvador,earthquake,,,,11,reviewed,us,us
+2001-01-14T15:13:59.220Z,13.549,-89.386,33,4.3,mb,29,,,1.3,us,usp000a7ny,2014-11-07T01:11:55.742Z,El Salvador,earthquake,,,,8,reviewed,us,us
+2001-01-14T11:09:18.360Z,13.014,-88.594,45.7,4.6,mb,42,,,1,us,usp000a7nj,2014-11-07T01:11:55.711Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+2001-01-14T09:23:55.690Z,13.089,-88.719,55.8,4.3,mb,48,,,1.12,us,usp000a7ne,2014-11-07T01:11:55.699Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2001-01-14T08:54:54.130Z,13.043,-88.643,54,4.3,mb,26,,,1.34,us,usp000a7nb,2014-11-07T01:11:55.665Z,offshore El Salvador,earthquake,,,,8,reviewed,us,us
+2001-01-14T08:02:45.320Z,13.281,-88.838,59.8,4,mb,23,,,1.12,us,usp000a7n8,2014-11-07T01:11:55.656Z,El Salvador,earthquake,,,,6,reviewed,us,us
+2001-01-14T07:30:08.760Z,13.211,-88.402,33,3.6,mb,15,,,1.16,us,usp000a7n7,2014-11-07T01:11:55.654Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-01-14T07:02:47.080Z,13.119,-88.937,55.3,4.2,mb,28,,,1.25,us,usp000a7n5,2014-11-07T01:11:55.649Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+2001-01-14T05:37:34.420Z,13.015,-89.077,54.6,4.2,mb,18,,,1.22,us,usp000a7n0,2014-11-07T01:11:55.635Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+2001-01-14T02:53:36.220Z,13.167,-88.913,63.3,4.6,mb,30,,,1.05,us,usp000a7mr,2014-11-07T01:11:55.614Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+2001-01-14T02:33:56.860Z,13.006,-88.557,33,4.4,mb,14,,,0.98,us,usp000a7mn,2014-11-07T01:11:55.606Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+2001-01-13T20:56:31.490Z,13.44,-88.789,33,4.2,mb,17,,,0.9,us,usp000a7me,2014-11-07T01:11:55.586Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2001-01-13T17:33:32.380Z,13.049,-88.66,60,7.7,mwc,427,,,1.13,us,usp000a7m5,2018-10-17T19:39:00.654Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2000-12-13T13:11:00.480Z,15.229,-86.835,33,3.9,mb,9,,,1.03,us,usp000a60j,2014-11-07T01:11:43.729Z,Honduras,earthquake,,,,1,reviewed,us,us
+2000-12-07T14:33:28.070Z,13.441,-87.598,200,4.2,mb,9,,,1.29,us,usp000a5nt,2014-11-07T01:11:41.500Z,Honduras,earthquake,,,,2,reviewed,us,us
+2000-10-19T15:52:55.670Z,14.455,-89.251,33,4.2,mb,5,,,1.64,us,usp000a234,2014-11-07T01:11:17.423Z,Honduras,earthquake,,,,1,reviewed,us,us
+2000-10-14T10:16:52.280Z,13.223,-89.381,88.4,4.3,mb,43,,,1.3,us,usp000a1rm,2014-11-07T01:11:16.441Z,offshore El Salvador,earthquake,,10.9,,9,reviewed,us,us
+2000-10-08T06:26:17.330Z,13.163,-89.023,33,4.3,mb,28,,,1.46,us,usp000a1eq,2014-11-07T01:11:15.190Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+2000-09-21T04:45:31.650Z,13.693,-88.794,33,3.8,mb,9,,,1.22,us,usp000a0ku,2014-11-07T01:11:06.486Z,El Salvador,earthquake,,,,2,reviewed,us,us
+2000-08-27T06:57:22.280Z,14.089,-89.129,33,4.4,mb,10,,,1.07,us,usp0009z81,2014-11-07T01:10:55.259Z,El Salvador,earthquake,,,,5,reviewed,us,us
+2000-08-22T09:45:10.150Z,13.101,-88.612,33,4.3,mb,32,,,0.91,us,usp0009yyn,2014-11-07T01:10:54.148Z,offshore El Salvador,earthquake,,,,20,reviewed,us,us
+2000-07-06T05:55:39.320Z,13.078,-88.877,65.5,4.7,mb,112,,,1.14,us,usp0009vve,2014-11-07T01:10:32.423Z,offshore El Salvador,earthquake,,,,36,reviewed,us,us
+2000-06-02T07:45:57.270Z,13.346,-88.974,72.1,3.7,mb,13,,,1.08,us,usp0009ttn,2014-11-07T01:10:16.886Z,El Salvador,earthquake,,,,1,reviewed,us,us
+2000-05-24T02:01:23.120Z,13.535,-88.554,44.6,4.2,mb,,,,0.92,us,usp0009tda,2014-11-07T01:10:11.305Z,El Salvador,earthquake,,24.4,,4,reviewed,us,us
+2000-05-12T19:33:46.850Z,13.577,-89.202,33,4.1,mb,,,,1.29,us,usp0009suv,2014-11-07T01:10:07.518Z,El Salvador,earthquake,,,,3,reviewed,us,us
+2000-04-01T06:28:25.390Z,13.244,-87.779,173.8,4.3,mb,,,,1.06,us,usp0009qm3,2014-11-07T01:09:48.468Z,Golfo de Fonseca  El Salvador,earthquake,,,,22,reviewed,us,us
+2000-03-12T21:53:12.740Z,13.631,-88.948,200,4.3,mb,,,,0.98,us,usp0009pmt,2014-11-07T01:09:41.018Z,El Salvador,earthquake,,,,8,reviewed,us,us
+2000-02-25T09:09:53.400Z,13.21,-89.177,50.5,4.2,mb,,,,1.13,us,usp0009ny1,2014-11-07T01:09:33.636Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+2000-02-25T05:12:31.280Z,13.322,-88.866,90.6,3.9,mb,,,,1.19,us,usp0009nxt,2014-11-07T01:09:33.590Z,El Salvador,earthquake,,18.5,,1,reviewed,us,us
+2000-02-14T15:03:11.920Z,16.397,-86.084,33,3.7,mb,,,,1.25,us,usp0009nfd,2014-11-07T01:09:30.861Z,offshore Honduras,earthquake,,,,3,reviewed,us,us
+2000-02-14T13:55:30.230Z,16.651,-86.261,33,4.6,mb,,,,0.88,us,usp0009nfc,2014-11-07T01:09:30.857Z,offshore Honduras,earthquake,,,,14,reviewed,us,us
+2000-02-14T12:52:45.520Z,16.616,-86.295,33,4.5,mb,,,,1.09,us,usp0009nf5,2014-11-07T01:09:30.829Z,offshore Honduras,earthquake,,,,10,reviewed,us,us
+2000-02-13T11:29:02.500Z,13.063,-88.638,88.1,4.4,mb,,,,0.96,us,usp0009ndr,2014-11-07T01:09:30.669Z,offshore El Salvador,earthquake,,5,,14,reviewed,us,us
+2000-02-06T04:32:18.610Z,13.565,-88.318,250,3.9,mb,,,,1.17,us,usp0009n3w,2014-11-07T01:09:27.205Z,El Salvador,earthquake,,,,7,reviewed,us,us
+2000-02-02T22:30:54.490Z,13.232,-88.398,249.2,3.9,mb,,,,1.07,us,usp0009mz3,2014-11-07T01:09:25.773Z,El Salvador,earthquake,,19.9,,2,reviewed,us,us
+2000-02-01T02:00:10.680Z,13.01,-88.847,55.1,5.2,mwc,,,,1.23,us,usp0009mwx,2016-11-09T21:47:12.636Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+2000-01-30T23:54:31.050Z,13.214,-87.546,186.4,4.3,mb,,,,1.02,us,usp0009mvg,2014-11-07T01:09:22.889Z,Golfo de Fonseca  Honduras,earthquake,,,,8,reviewed,us,us
+2000-01-29T06:49:35.280Z,13.051,-89.089,88.4,4.1,mb,,,,1.02,us,usp0009mte,2014-11-07T01:09:22.649Z,offshore El Salvador,earthquake,,8.6,,10,reviewed,us,us
+2000-01-28T08:45:21.960Z,13.074,-89.282,75.1,3.7,mb,,,,1.35,us,usp0009mrz,2014-11-07T01:09:22.349Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+2000-01-25T13:50:18.450Z,13.98,-89.38,103.2,3.9,mb,,,,0.95,us,usp0009mn5,2014-11-07T01:09:21.909Z,El Salvador,earthquake,,23.5,,4,reviewed,us,us
+2000-01-24T03:23:11.080Z,13.053,-88.626,67.1,4.8,mb,,,,1.17,us,usp0009mkr,2014-11-07T01:09:21.738Z,offshore El Salvador,earthquake,,,,35,reviewed,us,us
+2000-01-23T06:18:31.070Z,13.183,-88.901,98.7,3.9,mb,,,,0.84,us,usp0009mjc,2014-11-07T01:09:21.527Z,offshore El Salvador,earthquake,,8.2,,3,reviewed,us,us
+1999-12-10T09:14:07.320Z,13.02,-88.445,109.6,4.3,mb,,,,1.09,us,usp0009jpa,2014-11-07T01:09:08.609Z,offshore El Salvador,earthquake,,7.1,,12,reviewed,us,us
+1999-11-25T11:49:09.920Z,13.314,-88.688,33,4.4,mb,,,,0.89,us,usp0009j2h,2014-11-07T01:09:00.280Z,El Salvador,earthquake,,,,3,reviewed,us,us
+1999-08-12T09:35:16.080Z,15.86,-88.523,10,4.2,mb,,,,1.28,us,usp0009cy1,2014-11-07T01:08:15.889Z,Guatemala,earthquake,,,,12,reviewed,us,us
+1999-07-19T17:56:33.660Z,15.654,-88.317,10,4.6,mb,,,,1.17,us,usp0009bv5,2014-11-07T01:08:07.172Z,Honduras,earthquake,,,,24,reviewed,us,us
+1999-07-17T14:26:58.470Z,13.469,-88.429,54.8,3.9,md,,,,1.26,us,usp0009brk,2014-11-07T01:08:06.545Z,El Salvador,earthquake,,,,,reviewed,us,casc
+1999-07-14T13:12:38.240Z,15.764,-89.283,10,3.9,mb,,,,1.44,us,usp0009bky,2014-11-07T01:08:05.788Z,Guatemala,earthquake,,,,4,reviewed,us,us
+1999-07-14T12:06:14.780Z,15.922,-88.514,10,4.5,mb,,,,0.83,us,usp0009bkv,2014-11-07T01:08:05.781Z,offshore Guatemala,earthquake,,,,16,reviewed,us,us
+1999-07-11T20:17:25.730Z,15.26,-88.415,10,4.5,mb,,,,1.13,us,usp0009bf5,2014-11-07T01:08:05.307Z,Honduras,earthquake,,,,16,reviewed,us,us
+1999-07-11T20:09:21.450Z,15.73,-88.572,10,4.5,mb,,,,1.26,us,usp0009bf2,2014-11-07T01:08:05.298Z,Guatemala,earthquake,,,,29,reviewed,us,us
+1999-07-11T14:53:42.760Z,15.773,-88.907,10,4.2,mb,,,,1.26,us,usp0009beg,2014-11-07T01:08:05.253Z,Guatemala,earthquake,,,,5,reviewed,us,us
+1999-07-11T14:31:59.330Z,15.828,-88.61,10,4.8,mb,,,,1.35,us,usp0009bee,2014-11-07T01:08:05.237Z,Bahia de Amatique  Guatemala,earthquake,,,,10,reviewed,us,us
+1999-07-11T14:14:16.530Z,15.782,-88.33,10,6.7,mwc,,,,1.01,us,usp0009bed,2017-04-26T17:56:03.966Z,Guatemala,earthquake,,,,,reviewed,us,hrv
+1999-06-28T01:36:23.190Z,12.926,-88.283,33,4.2,mb,,,,1.17,us,usp0009apb,2014-11-07T01:07:57.661Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+1999-06-27T06:59:27.120Z,12.926,-88.488,75.9,4.6,mb,,,,1.03,us,usp0009amz,2014-11-07T01:07:57.520Z,offshore El Salvador,earthquake,,,,24,reviewed,us,us
+1999-05-21T17:11:12.610Z,13.078,-88.169,200,4.3,mb,,,,1.05,us,usp00098fs,2014-11-07T01:07:42.167Z,offshore El Salvador,earthquake,,,,9,reviewed,us,us
+1999-04-26T02:13:08.090Z,14.672,-88.492,33,3.6,mb,,,,1.02,us,usp00096wc,2014-11-07T01:07:30.329Z,Honduras,earthquake,,,,2,reviewed,us,us
+1999-04-04T00:50:23.660Z,13.235,-87.645,33,4.4,md,,,,1.25,us,usp00095rq,2014-11-07T01:07:22.628Z,Golfo de Fonseca  Honduras,earthquake,,,,,reviewed,us,casc
+1999-04-03T13:12:02.710Z,12.996,-87.732,33,3.5,mb,,,,1.02,us,usp00095qp,2014-11-07T01:07:22.362Z,near the coast of Nicaragua,earthquake,,,,3,reviewed,us,us
+1999-04-03T10:42:23.280Z,13.205,-87.579,33,4.1,mb,,,,1.54,us,usp00095qm,2014-11-07T01:07:22.353Z,Golfo de Fonseca  Honduras,earthquake,,,,2,reviewed,us,us
+1999-04-03T10:10:30.700Z,13.173,-87.634,38.4,6,mwc,,,,0.9,us,usp00095qj,2017-04-26T17:55:48.333Z,Honduras,earthquake,,3.8,,,reviewed,us,hrv
+1999-04-03T04:53:27.130Z,12.989,-87.806,33,4.2,mb,,,,1.14,us,usp00095py,2014-11-07T01:07:22.034Z,near the coast of Nicaragua,earthquake,,,,10,reviewed,us,us
+1999-04-03T04:22:23.670Z,12.997,-87.924,33,5.4,mwc,,,,1.21,us,usp00095pu,2016-11-09T22:13:38.886Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+1999-03-30T18:46:07.360Z,14.365,-88.415,33,4,mb,,,,0.93,us,usp00095gj,2014-11-07T01:07:17.758Z,Honduras,earthquake,,,,4,reviewed,us,us
+1999-03-29T01:27:09.330Z,14.433,-88.399,33,5.1,mb,,,,0.77,us,usp00095db,2014-11-07T01:07:17.390Z,Honduras,earthquake,,,,81,reviewed,us,us
+1999-03-23T22:22:56.830Z,14.434,-88.531,33,4.5,ml,,,,0.64,us,usp0009523,2014-11-07T01:07:15.958Z,Honduras,earthquake,,,,,reviewed,us,casc
+1999-03-23T17:30:17.110Z,14.443,-88.444,33,4.6,mb,,,,1.02,us,usp000951n,2014-11-07T01:07:15.907Z,Honduras,earthquake,,,,21,reviewed,us,us
+1999-03-19T06:38:50.220Z,13.224,-87.692,191.4,4.9,mb,,,,1.02,us,usp00094sh,2014-11-07T01:07:14.954Z,Golfo de Fonseca  El Salvador,earthquake,,,,26,reviewed,us,us
+1999-03-17T21:38:36.750Z,13.462,-89.217,33,4.5,mb,,,,0.95,us,usp00094pq,2014-11-07T01:07:14.476Z,El Salvador,earthquake,,,,13,reviewed,us,us
+1999-03-14T20:21:04.160Z,13.179,-88.635,49.3,4.5,mb,,,,1.31,us,usp00094h7,2014-11-07T01:07:13.784Z,offshore El Salvador,earthquake,,,,40,reviewed,us,us
+1999-03-09T14:10:33.010Z,15.704,-87.005,33,4.1,mb,,,,1.41,us,usp000945p,2014-11-07T01:07:12.408Z,Honduras,earthquake,,,,5,reviewed,us,us
+1999-03-09T07:55:20.100Z,13.358,-88.542,51.8,4.2,mb,,,,1.24,us,usp0009454,2014-11-07T01:07:12.347Z,El Salvador,earthquake,,,,7,reviewed,us,us
+1999-03-08T07:12:29.880Z,13.687,-88.088,250,4.4,mb,,,,1.06,us,usp000942k,2014-11-07T01:07:11.953Z,El Salvador,earthquake,,,,1,reviewed,us,us
+1999-03-07T10:06:49.480Z,13.195,-87.45,300,4,mb,,,,0.99,us,usp000940v,2014-11-07T01:07:11.671Z,Honduras,earthquake,,,,6,reviewed,us,us
+1999-03-02T07:13:02.600Z,13.385,-88.992,0,4.1,md,,,,,us,usp00093qe,2014-11-07T01:07:08.727Z,El Salvador,earthquake,,,,,reviewed,casc,casc
+1999-03-01T21:51:22.090Z,13.64,-88.734,33,4.7,mb,,,,1.25,us,usp00093ps,2014-11-07T01:07:08.389Z,El Salvador,earthquake,,,,10,reviewed,us,us
+1999-02-28T16:34:20.390Z,15.865,-87.276,33,4.2,mb,,,,1.39,us,usp00093mv,2014-11-07T01:07:05.826Z,offshore Honduras,earthquake,,,,7,reviewed,us,us
+1999-02-16T14:56:40.900Z,15.647,-87.13,10,5.2,mwc,,,,1.04,us,usp00092xd,2016-11-09T21:53:49.430Z,Honduras,earthquake,,,,,reviewed,us,hrv
+1999-02-08T08:34:52.760Z,14.801,-88.004,33,4.7,mb,,,,1.12,us,usp00092fj,2014-11-07T01:07:00.424Z,Honduras,earthquake,,,,4,reviewed,us,us
+1999-01-12T04:41:00.410Z,14.769,-88.129,33,4,mb,,,,1.25,us,usp00090zb,2014-11-07T01:06:48.583Z,Honduras,earthquake,,,,4,reviewed,us,us
+1999-01-04T18:10:11.400Z,15.215,-87.978,33,4.3,mb,,,,0.74,us,usp00090mh,2014-11-07T01:06:46.418Z,Honduras,earthquake,,,,3,reviewed,us,us
+1998-10-22T05:05:17.680Z,13.497,-88.181,200,4,mb,,,,1.1,us,usp0008wvs,2014-11-07T01:06:16.616Z,El Salvador,earthquake,,,,10,reviewed,us,us
+1998-08-25T05:49:51.380Z,13.265,-88.611,200,4.2,mb,,,,0.91,us,usp0008tu9,2014-11-07T01:05:53.069Z,El Salvador,earthquake,,,,6,reviewed,us,us
+1998-08-12T15:01:43.440Z,12.988,-89.117,33,3.3,md,,,,0.17,us,usp0008t56,2014-11-07T01:05:48.566Z,offshore El Salvador,earthquake,,,,,reviewed,us,sss
+1998-07-18T04:20:31.870Z,12.975,-88.377,73,4.2,mb,,,,1.03,us,usp0008rsc,2014-11-07T01:05:36.796Z,offshore El Salvador,earthquake,,,,13,reviewed,us,us
+1998-05-20T07:21:36.040Z,13.483,-88.114,200,4.6,mb,,,,0.81,us,usp0008ndy,2014-11-07T01:05:14.462Z,El Salvador,earthquake,,,,5,reviewed,us,us
+1998-04-19T17:40:48.580Z,13.345,-89.148,59.6,4.5,mb,,,,1.16,us,usp0008kjx,2014-11-07T01:05:01.341Z,offshore El Salvador,earthquake,,,,10,reviewed,us,us
+1998-03-19T10:18:32.160Z,13.145,-88.111,150,3.8,mb,,,,1.24,us,usp0008hpm,2014-11-07T01:04:46.909Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+1998-02-09T05:21:39.870Z,13.604,-88.639,100,4.5,mb,,,,1.19,us,usp0008fqn,2014-11-07T01:04:31.496Z,El Salvador,earthquake,,,,2,reviewed,us,us
+1998-02-05T14:20:45.350Z,13.35,-88.699,100,4.1,mb,,,,1.4,us,usp0008fge,2014-11-07T01:04:29.807Z,El Salvador,earthquake,,,,2,reviewed,us,us
+1997-12-18T15:30:12.130Z,13.026,-88.605,33,4.6,mb,,,,1.51,us,usp0008cv8,2014-11-07T01:04:08.563Z,offshore El Salvador,earthquake,,,,3,reviewed,us,us
+1997-12-18T15:02:00.320Z,13.84,-88.739,182.1,6.1,mwb,,,,0.98,us,usp0008cv7,2016-11-10T00:55:23.092Z,El Salvador,earthquake,,,,,reviewed,us,us
+1997-11-19T11:16:02.150Z,13.244,-88.977,77.1,4.1,mb,,,,1.02,us,usp0008az1,2014-11-07T01:03:56.016Z,offshore El Salvador,earthquake,,4.9,,1,reviewed,us,us
+1997-11-12T21:54:14.660Z,13.703,-89.356,89.2,4.8,mb,,,,1.13,us,usp0008ajg,2014-11-07T01:03:53.761Z,El Salvador,earthquake,,2.7,,33,reviewed,us,us
+1997-11-09T22:56:42.750Z,13.849,-88.808,176.4,6.5,mwb,,,,1.13,us,usp0008acs,2016-11-10T00:51:34.249Z,El Salvador,earthquake,,2.4,,,reviewed,us,us
+1997-10-18T19:10:14.190Z,14.744,-88.896,33,4.6,mb,,,,1.03,us,usp000899g,2014-11-07T01:03:42.983Z,Honduras,earthquake,,,,4,reviewed,us,us
+1997-10-18T14:17:45.610Z,13.147,-87.668,200,4.1,mb,,,,1.03,us,usp0008993,2014-11-07T01:03:42.953Z,Honduras,earthquake,,,,2,reviewed,us,us
+1997-10-08T12:47:31.240Z,13.801,-88.607,300,4.4,mb,,,,1.1,us,usp00088rf,2014-11-07T01:03:40.078Z,El Salvador,earthquake,,,,2,reviewed,us,us
+1997-09-16T23:43:56.080Z,13.195,-89.128,100,4.2,mb,,,,1.35,us,usp00087mb,2014-11-07T01:03:29.445Z,offshore El Salvador,earthquake,,,,10,reviewed,us,us
+1997-09-13T10:33:09.500Z,13.483,-87.54,300,4.2,mb,,,,0.94,us,usp00087g7,2014-11-07T01:03:28.716Z,Honduras,earthquake,,,,5,reviewed,us,us
+1997-09-08T18:52:38.160Z,16.628,-85.975,10,4.3,mb,,,,1.17,us,usp00087ad,2014-11-07T01:03:27.997Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+1997-07-06T20:13:37.030Z,16.157,-87.917,33,6.1,mwb,,,,1.24,us,usp00084fp,2017-04-26T17:53:45.545Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+1997-06-26T10:05:29.320Z,13.04,-88.575,100,4.4,mb,,,,1.15,us,usp0008401,2014-11-07T01:03:00.046Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+1997-06-24T06:59:52.850Z,13.336,-87.767,33,4.1,mb,,,,1.43,us,usp00083wb,2014-11-07T01:02:59.513Z,Golfo de Fonseca  El Salvador,earthquake,,,,2,reviewed,us,us
+1997-06-19T14:35:35.640Z,13.184,-89.077,74.7,4.2,mb,,,,1.43,us,usp00083qs,2014-11-07T01:02:58.855Z,offshore El Salvador,earthquake,,6.6,,4,reviewed,us,us
+1997-06-02T23:29:21.680Z,13.387,-89.251,79.7,4.3,mb,,,,1.21,us,usp000833a,2014-11-07T01:02:53.088Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+1997-05-27T17:38:26.750Z,13.51,-88.984,71.6,4.1,mb,,,,0.99,us,usp00082wn,2014-11-07T01:02:49.664Z,El Salvador,earthquake,,,,5,reviewed,us,us
+1997-05-20T08:18:49.680Z,15.86,-85.309,10,3.9,mb,,,,1.43,us,usp00082jy,2014-11-07T01:02:48.238Z,Honduras,earthquake,,,,3,reviewed,us,us
+1997-04-30T10:21:02.920Z,14.468,-83.54,33,4.5,mb,,,,0.87,us,usp00081h1,2014-11-07T01:02:39.452Z,Nicaragua,earthquake,,,,5,reviewed,us,us
+1997-04-22T22:42:06.500Z,13.996,-88.516,33,3.8,mb,,,,1.83,us,usp000812k,2014-11-07T01:02:37.708Z,Honduras,earthquake,,,,1,reviewed,us,us
+1997-04-15T07:51:02.820Z,16.453,-86.842,33,5.5,mwc,,,,1.07,us,usp00080m5,2016-11-09T22:18:38.166Z,offshore Honduras,earthquake,,,,,reviewed,us,hrv
+1997-04-04T15:42:10.300Z,13.072,-89.33,100,3.4,mb,,,,0.49,us,usp0007zyd,2014-11-07T01:02:30.108Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+1997-03-28T03:14:46.720Z,13.637,-89.451,100,4,mb,,,,1.36,us,usp0007zkn,2014-11-07T01:02:23.417Z,El Salvador,earthquake,,,,1,reviewed,us,us
+1997-03-23T16:00:01.680Z,13.753,-89.305,78.1,3.6,md,,,,1.2,us,usp0007zap,2014-11-07T01:02:22.209Z,El Salvador,earthquake,,4.9,,,reviewed,us,sss
+1997-03-17T22:15:28.030Z,13.247,-89.254,33,4.2,mb,,,,1.28,us,usp0007yzt,2014-11-07T01:02:20.346Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+1997-03-12T18:01:59.710Z,13.23,-89.06,71.6,3.9,md,,,,1.2,us,usp0007yqf,2014-11-07T01:02:19.401Z,offshore El Salvador,earthquake,,4.5,,,reviewed,us,sss
+1997-02-27T05:44:54.360Z,13.933,-89.315,201,4,mb,,,,0.7,us,usp0007xw3,2014-11-07T01:02:11.638Z,El Salvador,earthquake,,12.9,,1,reviewed,us,us
+1997-02-22T03:03:29.260Z,13.054,-88.999,33,2.8,md,,,,0.15,us,usp0007xmj,2014-11-07T01:02:10.457Z,offshore El Salvador,earthquake,,,,,reviewed,us,sss
+1997-02-10T05:24:26.500Z,15.357,-87.146,10,3.1,mb,,,,0.86,us,usp0007x0y,2014-11-07T01:02:07.914Z,Honduras,earthquake,,,,1,reviewed,us,us
+1997-02-07T10:30:22.700Z,13.398,-88.852,100,3.8,mb,,,,1.54,us,usp0007wwt,2014-11-07T01:02:07.303Z,El Salvador,earthquake,,,,2,reviewed,us,us
+1997-02-05T14:22:58.010Z,13.113,-88.428,100,4.3,mb,,,,1.13,us,usp0007wts,2014-11-07T01:02:06.637Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+1997-01-24T07:55:21.980Z,13.108,-88.159,66.2,3.6,md,,,,0.87,us,usp0007w9p,2014-11-07T01:02:00.038Z,offshore El Salvador,earthquake,,,,,reviewed,us,sss
+1997-01-15T07:49:25.180Z,13.796,-87.111,250,3.5,mb,,,,1.4,us,usp0007vw9,2014-11-07T01:01:58.011Z,Honduras,earthquake,,,,1,reviewed,us,us
+1997-01-03T02:22:18.080Z,13.506,-88.048,179.7,4.8,mb,,,,1.04,us,usp0007vcy,2014-11-07T01:01:54.896Z,El Salvador,earthquake,,,,41,reviewed,us,us
+1997-01-01T00:30:20.330Z,13.03,-88.083,33,4.5,mb,,,,0.71,us,usp0007v96,2014-11-07T01:01:52.248Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+1996-12-17T10:39:41.860Z,13.863,-89.092,150,3.9,mb,,,,1.19,us,usp0007ukc,2014-11-07T01:01:47.875Z,El Salvador,earthquake,,,,2,reviewed,us,us
+1996-12-16T20:56:10.390Z,13.231,-89.091,100,4.1,mb,,,,1.4,us,usp0007ujg,2014-11-07T01:01:47.789Z,offshore El Salvador,earthquake,,,,3,reviewed,us,us
+1996-08-27T00:21:43.390Z,13.241,-89.454,33,4.6,mb,,,,1.51,us,usp0007p3c,2014-11-07T01:01:01.736Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+1996-08-20T23:42:52.370Z,13.234,-87.414,212.2,4.3,mb,,,,1.1,us,usp0007nv4,2014-11-07T01:01:00.291Z,Honduras,earthquake,,,,29,reviewed,us,us
+1996-07-22T08:30:21.260Z,13.076,-88.723,61.1,5.6,mwc,,,,1.1,us,usp0007mde,2016-11-09T23:02:45.204Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+1996-07-18T05:21:49.370Z,12.97,-88.538,33,4.4,mb,,,,1.2,us,usp0007m6q,2014-11-07T01:00:48.325Z,offshore El Salvador,earthquake,,,,18,reviewed,us,us
+1996-07-17T16:04:40.930Z,13.072,-88.675,50,4.3,mb,,,,1.5,us,usp0007m5x,2014-11-07T01:00:48.240Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+1996-07-14T14:54:41.790Z,12.969,-87.509,300,3.1,mb,,,,1.2,us,usp0007m1n,2014-11-07T01:00:47.701Z,near the coast of Nicaragua,earthquake,,,,3,reviewed,us,us
+1996-07-13T04:39:11.670Z,13.125,-88.147,68.8,4.2,mb,,,,1,us,usp0007m06,2014-11-07T01:00:47.568Z,offshore El Salvador,earthquake,,11.9,,5,reviewed,us,us
+1996-07-07T23:46:49.050Z,13.037,-88.275,33,4.3,mb,,,,1.1,us,usp0007ku9,2014-11-07T01:00:46.895Z,offshore El Salvador,earthquake,,,,13,reviewed,us,us
+1996-06-05T14:56:55.970Z,14.493,-87.571,33,4.1,mb,,,,1.1,us,usp0007j6s,2014-11-07T01:00:34.566Z,Honduras,earthquake,,,,4,reviewed,us,us
+1996-05-28T15:26:43.980Z,13.033,-89.111,76.6,4.8,mb,,,,1.1,us,usp0007hw4,2014-11-07T01:00:29.440Z,offshore El Salvador,earthquake,,3.7,,33,reviewed,us,us
+1996-05-07T02:53:59.320Z,13.009,-89.2,33,3.2,md,,,,0.4,us,usp0007h1t,2014-11-07T01:00:25.736Z,offshore El Salvador,earthquake,,,,,reviewed,us,sss
+1996-04-13T05:10:16.590Z,13.017,-88.736,106.6,4,mb,,,,1.3,us,usp0007g3y,2014-11-07T01:00:16.783Z,offshore El Salvador,earthquake,,,,12,reviewed,us,us
+1996-03-29T09:04:41.170Z,13,-88.742,86.1,4.5,mb,,,,1.3,us,usp0007ffb,2014-11-07T01:00:09.415Z,offshore El Salvador,earthquake,,13.1,,14,reviewed,us,us
+1996-03-18T11:24:30.550Z,12.93,-89.368,129.9,4.1,mb,,,,1.5,us,usp0007eya,2014-11-07T01:00:07.155Z,offshore El Salvador,earthquake,,28.8,,8,reviewed,us,us
+1996-02-03T03:04:22.350Z,13.311,-88.231,100,3.8,mb,,,,0.7,us,usp0007c6y,2014-11-07T00:59:49.304Z,El Salvador,earthquake,,,,9,reviewed,us,us
+1996-01-16T22:32:22.120Z,15.559,-87.37,300,3.2,mb,,,,1.5,us,usp0007b7a,2014-11-07T00:59:41.184Z,Honduras,earthquake,,,,4,reviewed,us,us
+1996-01-15T20:02:45.240Z,15.848,-86.648,33,3.8,mb,,,,1.1,us,usp0007b4z,2014-11-07T00:59:40.590Z,offshore Honduras,earthquake,,,,5,reviewed,us,us
+1995-12-17T05:59:14.850Z,13.285,-89.452,81,4.3,mb,,,,1.3,us,usp000794k,2014-11-07T00:59:26.854Z,offshore El Salvador,earthquake,,,,21,reviewed,us,us
+1995-11-24T02:14:05.450Z,13.036,-88.616,33,3.8,mb,,,,1.3,us,usp00077cm,2014-11-07T00:59:13.278Z,offshore El Salvador,earthquake,,,,7,reviewed,us,us
+1995-06-28T12:19:21.530Z,16.64,-86.131,10,4.6,mb,,,,1.1,us,usp0006zu6,2014-11-07T00:58:12.305Z,offshore Honduras,earthquake,,,,9,reviewed,us,us
+1995-06-20T06:55:57.340Z,13.073,-89.447,33,3.4,md,,,,0.3,us,usp0006zet,2014-11-07T00:58:10.541Z,offshore El Salvador,earthquake,,,,,reviewed,us,sss
+1995-06-16T04:44:53.350Z,13.068,-88.084,29.6,3.9,mb,,,,0.8,us,usp0006z62,2014-11-07T00:58:09.310Z,offshore El Salvador,earthquake,,,,5,reviewed,us,us
+1995-06-12T01:44:31.820Z,13.039,-88.459,33,4.4,mb,,,,1.5,us,usp0006yyq,2014-11-07T00:58:08.191Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+1995-06-09T06:58:11.290Z,13.103,-88.451,65.7,4.1,mb,,,,1,us,usp0006yu1,2014-11-07T00:58:07.478Z,offshore El Salvador,earthquake,,10.8,,6,reviewed,us,us
+1995-05-22T07:10:25.110Z,13.027,-87.287,60,3.7,mb,,,,1.1,us,usp0006xup,2014-11-07T00:57:58.419Z,Honduras,earthquake,,,,2,reviewed,us,us
+1995-05-20T05:20:34.940Z,13.131,-88.611,33,4.7,mb,,,,1.5,us,usp0006xqz,2014-11-07T00:57:57.794Z,offshore El Salvador,earthquake,,,,14,reviewed,us,us
+1995-05-18T15:54:51.020Z,13.212,-89.439,74.7,4.6,mb,,,,1.3,us,usp0006xnc,2014-11-07T00:57:57.374Z,offshore El Salvador,earthquake,,5.4,,8,reviewed,us,us
+1995-05-16T22:21:53.050Z,13.007,-88.802,85,4,mb,,,,0.8,us,usp0006xgj,2014-11-07T00:57:56.434Z,offshore El Salvador,earthquake,,5.8,,2,reviewed,us,us
+1995-04-17T11:04:28.570Z,12.961,-88.734,70.2,4.3,mb,,,,1.3,us,usp0006vtk,2014-11-07T00:57:43.069Z,offshore El Salvador,earthquake,,6.4,,13,reviewed,us,us
+1995-03-20T20:19:47.500Z,13.473,-88.288,10,2.9,md,,,,0.4,us,usp0006ug3,2014-11-07T00:57:32.484Z,El Salvador,earthquake,,,,,reviewed,us,sss
+1995-03-20T14:49:18.180Z,13.321,-89.227,82.6,4.8,mb,,,,1.1,us,usp0006ufq,2014-11-07T00:57:32.441Z,offshore El Salvador,earthquake,,3.2,,33,reviewed,us,us
+1995-02-18T01:32:57.370Z,15.409,-86.197,33,4.4,mb,,,,1.4,us,usp0006t4p,2014-11-07T00:57:20.721Z,Honduras,earthquake,,,,13,reviewed,us,us
+1995-02-08T03:36:02.390Z,13.077,-88.622,65.5,4.3,mb,,,,1.2,us,usp0006sjb,2014-11-07T00:57:18.000Z,offshore El Salvador,earthquake,,,,13,reviewed,us,us
+1994-11-11T02:51:38.010Z,13.205,-88.004,33,4.7,mb,,,,1.2,us,usp0006nd1,2014-11-07T00:56:46.562Z,El Salvador,earthquake,,,,16,reviewed,us,us
+1994-10-18T03:07:36.230Z,13.286,-89.197,84.1,5.4,mw,,,,1.2,us,usp0006m9j,2016-11-09T23:45:04.810Z,offshore El Salvador,earthquake,,2.5,,,reviewed,us,hrv
+1994-10-11T18:27:57.570Z,13.054,-89.42,30.3,3.4,md,,,,0.2,us,usp0006kzc,2014-11-07T00:56:30.477Z,offshore El Salvador,earthquake,,6.1,,,reviewed,us,sss
+1994-09-22T01:17:31.000Z,13.224,-88.005,166.9,4.6,mb,,,,0.9,us,usp0006jub,2014-11-07T00:56:19.191Z,El Salvador,earthquake,,,,16,reviewed,us,us
+1994-08-19T15:15:23.670Z,13.164,-89.231,58.4,3.9,md,,,,0.3,us,usp0006h64,2014-11-07T00:56:06.194Z,offshore El Salvador,earthquake,,19,,,reviewed,us,sss
+1994-08-09T02:14:08.460Z,13.057,-89.04,33,4,md,,,,0.3,us,usp0006gqv,2014-11-07T00:56:01.433Z,offshore El Salvador,earthquake,,,,,reviewed,us,sss
+1994-07-31T17:00:51.540Z,16.545,-86.279,33,4.4,mb,,,,1,us,usp0006gcc,2014-11-07T00:55:55.968Z,offshore Honduras,earthquake,,,,9,reviewed,us,us
+1994-06-09T22:21:09.190Z,15.827,-88.444,34.4,4.5,mb,,,,1,us,usp0006e0r,2014-11-07T00:55:40.588Z,Guatemala,earthquake,,12.6,,13,reviewed,us,us
+1994-03-03T15:16:59.910Z,13.252,-87.572,180.3,4.3,mb,,,,1.1,us,usp0006977,2014-11-07T00:55:06.174Z,Golfo de Fonseca  Honduras,earthquake,,,,7,reviewed,us,us
+1994-02-14T10:36:15.220Z,13.548,-88.751,33,3.7,md,,,,0.5,us,usp00068gq,2014-11-07T00:54:58.964Z,El Salvador,earthquake,,,,,reviewed,us,gcg
+1994-02-12T22:53:23.080Z,12.977,-89.437,31.3,4.1,md,,,,0.8,us,usp00068es,2014-11-07T00:54:58.757Z,offshore El Salvador,earthquake,,4.6,,,reviewed,us,gcg
+1994-02-12T12:31:39.390Z,13.335,-89.214,100,4.3,md,,,,1.2,us,usp00068e7,2014-11-07T00:54:58.405Z,offshore El Salvador,earthquake,,,,,reviewed,us,gcg
+1993-12-24T00:21:38.510Z,16.01,-86.62,10,4.8,mb,,,,0.9,us,usp00065h4,2014-11-07T00:54:37.869Z,offshore Honduras,earthquake,,,,37,reviewed,us,us
+1993-11-08T15:49:52.840Z,13.177,-89.402,61.9,4.5,mb,,,,1,us,usp00063ce,2014-11-07T00:54:22.814Z,offshore El Salvador,earthquake,,5,,11,reviewed,us,us
+1993-11-06T00:48:27.890Z,13.138,-89.338,63.5,4.7,mb,,,,1.2,us,usp0006387,2014-11-07T00:54:21.991Z,offshore El Salvador,earthquake,,4.9,,18,reviewed,us,us
+1993-10-27T15:10:39.270Z,15.137,-88.89,33,4.5,ml,,,,0.6,us,usp00062t3,2014-11-07T00:54:15.711Z,Honduras,earthquake,,,,,reviewed,us,gcg
+1993-10-09T17:59:18.110Z,12.953,-88.802,59.2,4.9,mb,,,,1,us,usp00061qh,2014-11-07T00:54:11.314Z,offshore El Salvador,earthquake,,,,20,reviewed,us,us
+1993-10-08T23:08:14.570Z,12.961,-88,33,4.1,mb,,,,1,us,usp00061pk,2014-11-07T00:54:11.230Z,offshore El Salvador,earthquake,,,,2,reviewed,us,us
+1993-10-03T08:28:42.120Z,12.958,-88.72,75.1,4.6,mb,,,,1,us,usp00061dh,2014-11-07T00:54:09.497Z,offshore El Salvador,earthquake,,5.3,,8,reviewed,us,us
+1993-08-08T09:54:02.810Z,13.205,-89.029,68.5,4.8,mb,,,,1,us,usp0005y3u,2014-11-07T00:53:41.013Z,offshore El Salvador,earthquake,,10.7,,2,reviewed,us,us
+1993-07-12T08:04:21.080Z,12.962,-88.695,33,4.8,mb,,,,1.5,us,usp0005w08,2014-11-07T00:53:27.451Z,offshore El Salvador,earthquake,,,,17,reviewed,us,us
+1993-06-12T11:15:07.470Z,13.25,-87.528,217.8,5.9,mw,,,,1.1,us,usp0005uen,2016-11-09T22:44:42.603Z,Golfo de Fonseca  Honduras,earthquake,,,,,reviewed,us,hrv
+1993-05-18T13:21:06.160Z,13.11,-89.39,55.1,4.3,mb,,,,1.1,us,usp0005t1j,2014-11-07T00:53:02.394Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+1993-05-03T17:14:54.670Z,12.98,-88.635,49.7,4.6,mb,,,,1.3,us,usp0005s5h,2014-11-07T00:52:57.145Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+1993-03-11T09:29:09.980Z,13.324,-88.872,72.6,4.2,mb,,,,1.3,us,usp0005pap,2014-11-07T00:52:34.610Z,El Salvador,earthquake,,7,,4,reviewed,us,us
+1993-03-06T01:11:36.300Z,15.858,-87.462,10,4.1,mb,,,,0.3,us,usp0005p1z,2014-11-07T00:52:32.601Z,offshore Honduras,earthquake,,,,2,reviewed,us,us
+1993-02-16T01:11:27.030Z,13.447,-89.334,66.5,4.1,mb,,,,0.9,us,usp0005n5g,2014-11-07T00:52:24.634Z,offshore El Salvador,earthquake,,9.3,,2,reviewed,us,us
+1993-02-05T06:00:19.650Z,15.143,-88.256,139.7,4.6,mb,,,,1.4,us,usp0005mn9,2014-11-07T00:52:21.517Z,Honduras,earthquake,,,,6,reviewed,us,us
+1993-01-07T23:30:28.250Z,13.121,-89.227,82.3,4.1,mb,,,,0.6,us,usp0005kep,2014-11-07T00:52:12.417Z,offshore El Salvador,earthquake,,11.3,,1,reviewed,us,us
+1992-12-09T19:28:33.180Z,13.282,-88.606,103,4.5,mb,,,,1.3,us,usp0005j1d,2014-11-07T00:52:01.591Z,El Salvador,earthquake,,,,7,reviewed,us,us
+1992-11-22T19:49:48.950Z,13.604,-89.066,71.9,4.4,mb,,,,1.4,us,usp0005h7b,2014-11-07T00:51:53.905Z,El Salvador,earthquake,,8.8,,1,reviewed,us,us
+1992-08-10T20:53:31.260Z,13.026,-88.938,77.5,4.4,mb,,,,0.7,us,usp0005c91,2014-11-07T00:51:14.976Z,offshore El Salvador,earthquake,,9.8,,1,reviewed,us,us
+1992-07-08T09:28:58.430Z,13.165,-89.023,80.1,4.3,mb,,,,1.1,us,usp0005ag0,2014-11-07T00:51:02.226Z,offshore El Salvador,earthquake,,10.8,,1,reviewed,us,us
+1992-06-17T09:37:58.940Z,13.104,-87.8,33,4.4,mb,,,,1.3,us,usp000597q,2014-11-07T00:50:50.631Z,Golfo de Fonseca  El Salvador,earthquake,,,,3,reviewed,us,us
+1992-06-03T11:33:48.320Z,13.116,-88.716,82.6,4,mb,,,,0.8,us,usp00058mn,2014-11-07T00:50:47.387Z,offshore El Salvador,earthquake,,9,,1,reviewed,us,us
+1992-03-26T22:40:46.340Z,13.053,-89.435,65.9,4.6,mb,,,,1.1,us,usp00054wc,2014-11-07T00:50:19.222Z,offshore El Salvador,earthquake,,11.5,,4,reviewed,us,us
+1992-03-22T13:30:07.450Z,13.472,-88.404,210.2,4.4,mb,,,,1,us,usp00054p6,2014-11-07T00:50:18.158Z,El Salvador,earthquake,,44,,8,reviewed,us,us
+1992-02-15T18:47:55.560Z,16.087,-88.506,33,4.5,mb,,,,1.2,us,usp000534c,2014-11-07T00:50:06.150Z,offshore Guatemala,earthquake,,,,8,reviewed,us,us
+1992-02-12T22:53:26.430Z,13.731,-89.161,71.3,4.4,mb,,,,1.2,us,usp00052zv,2014-11-07T00:50:05.594Z,El Salvador,earthquake,,8,,1,reviewed,us,us
+1992-02-09T19:27:54.510Z,13.354,-89.226,79.4,4.6,mb,,,,1.2,us,usp00052uq,2014-11-07T00:50:04.980Z,offshore El Salvador,earthquake,,5.2,,2,reviewed,us,us
+1991-12-25T23:08:03.050Z,13.207,-89.313,80.5,4.6,mb,,,,1,us,usp00050yr,2014-11-07T00:49:47.184Z,offshore El Salvador,earthquake,,4.7,,9,reviewed,us,us
+1991-11-08T18:47:02.580Z,13.457,-87.95,212.5,4.1,mb,,,,0.8,us,usp0004yxz,2014-11-07T00:49:33.560Z,El Salvador,earthquake,,10.7,,4,reviewed,us,us
+1991-09-29T00:44:14.630Z,12.987,-88.883,72.5,4.6,mb,,,,0.9,us,usp0004x63,2014-11-07T00:49:18.041Z,offshore El Salvador,earthquake,,6.4,,3,reviewed,us,us
+1991-09-16T03:07:09.380Z,13.595,-89.152,168.1,4.1,mb,,,,1.1,us,usp0004wpj,2014-11-07T00:49:15.395Z,El Salvador,earthquake,,32.9,,4,reviewed,us,us
+1991-08-20T21:16:17.820Z,13.226,-88.807,81.4,4.6,mb,,,,1.1,us,usp0004vna,2014-11-07T00:49:06.998Z,offshore El Salvador,earthquake,,4.8,,3,reviewed,us,us
+1991-07-19T21:38:33.630Z,13.637,-86.995,56,4.4,mb,,,,0.9,us,usp0004uct,2014-11-07T00:48:56.063Z,Honduras,earthquake,,15.1,,13,reviewed,us,us
+1991-07-19T04:01:28.300Z,13.094,-88.446,73,4.6,mb,,,,1.3,us,usp0004ubk,2014-11-07T00:48:55.957Z,offshore El Salvador,earthquake,,6.6,,5,reviewed,us,us
+1991-06-24T01:26:49.870Z,16.619,-86.381,10,4.5,mb,,,,1.3,us,usp0004tb1,2014-11-07T00:48:46.989Z,offshore Honduras,earthquake,,,,10,reviewed,us,us
+1991-06-23T13:31:34.720Z,13.516,-88.38,141.8,4.3,mb,,,,1.3,us,usp0004tah,2014-11-07T00:48:46.860Z,El Salvador,earthquake,,23.7,,2,reviewed,us,us
+1991-06-21T04:50:58.040Z,13.145,-89.388,59.9,4.9,mb,,,,1.1,us,usp0004t7y,2014-11-07T00:48:46.377Z,offshore El Salvador,earthquake,,5.1,,18,reviewed,us,us
+1991-04-12T08:41:30.350Z,13.058,-88.322,67.8,5.5,mw,,,,1.1,us,usp0004q7y,2016-11-09T22:17:05.966Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+1991-04-03T07:16:09.140Z,13.406,-87.957,33,4.7,mb,,,,1.1,us,usp0004pw5,2014-11-07T00:48:18.615Z,El Salvador,earthquake,,,,3,reviewed,us,us
+1991-04-03T04:52:48.400Z,13.997,-87.966,27.8,4.3,mb,,,,1,us,usp0004pw0,2014-11-07T00:48:18.596Z,Honduras,earthquake,,11.4,,8,reviewed,us,us
+1991-03-18T14:42:07.240Z,16.069,-85.484,10,4.3,mb,,,,1,us,usp0004p74,2014-11-07T00:48:12.793Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+1991-02-24T11:58:23.050Z,13.098,-88.041,44.7,4.7,mb,,,,1.3,us,usp0004nca,2014-11-07T00:48:04.961Z,offshore El Salvador,earthquake,,11.4,,10,reviewed,us,us
+1991-02-24T06:08:09.190Z,13.002,-88.081,39.5,4.5,mb,,,,1.4,us,usp0004nc3,2014-11-07T00:48:04.924Z,offshore El Salvador,earthquake,,12,,11,reviewed,us,us
+1991-02-01T19:30:22.080Z,16.056,-87.77,33,4.8,mb,,,,1,us,usp0004mey,2014-11-07T00:47:56.179Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+1990-12-21T20:44:49.650Z,13.298,-89.134,78.9,4.5,mb,,,,1.5,us,usp0004jgw,2014-11-07T00:47:38.604Z,offshore El Salvador,earthquake,,6.5,,4,reviewed,us,us
+1990-12-18T18:36:19.550Z,15.69,-87.645,33,4.6,mb,,,,1.5,us,usp0004jag,2014-11-07T00:47:37.843Z,Honduras,earthquake,,,,2,reviewed,us,us
+1990-11-21T12:58:50.420Z,14.895,-87.549,33,4.5,mb,,,,1.1,us,usp0004h6a,2014-11-07T00:47:27.977Z,Honduras,earthquake,,,,5,reviewed,us,us
+1990-10-12T16:14:25.500Z,13.377,-87.56,207.5,4.5,mb,,,,1,us,usp0004fp0,2014-11-07T00:47:16.509Z,Honduras,earthquake,,,,10,reviewed,us,us
+1990-09-13T04:37:24.300Z,13.001,-88.71,73.2,4.6,mb,,,,1.4,us,usp0004enj,2014-11-07T00:47:06.789Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+1990-08-21T09:34:43.890Z,12.995,-89.284,78.1,4.5,mb,,,,1.1,us,usp0004dqr,2014-11-07T00:46:58.486Z,offshore El Salvador,earthquake,,15.7,,1,reviewed,us,us
+1990-08-21T03:03:39.400Z,13.268,-88.94,81.5,4.4,mb,,,,0.9,us,usp0004dqa,2014-11-07T00:46:58.459Z,offshore El Salvador,earthquake,,6.8,,1,reviewed,us,us
+1990-07-27T13:25:51.310Z,16.306,-86.12,10,4.4,mb,,,,1,us,usp0004cm9,2014-11-07T00:46:46.646Z,offshore Honduras,earthquake,,,,11,reviewed,us,us
+1990-07-27T01:45:21.410Z,16.373,-85.599,10,4.3,mb,,,,0.7,us,usp0004ckh,2014-11-07T00:46:46.443Z,offshore Honduras,earthquake,,,,3,reviewed,us,us
+1990-07-27T01:27:28.180Z,16.359,-85.636,10,4.4,mb,,,,0.3,us,usp0004ckg,2014-11-07T00:46:46.441Z,offshore Honduras,earthquake,,,,3,reviewed,us,us
+1990-07-27T00:54:56.800Z,16.062,-86.229,14.3,5.4,mw,,,,1,us,usp0004cke,2016-11-09T23:05:06.461Z,offshore Honduras,earthquake,,,,,reviewed,us,hrv
+1990-07-13T13:50:25.640Z,12.925,-87.723,22.4,5,ms,,,,1.1,us,usp0004bsx,2014-11-07T00:46:41.058Z,near the coast of Nicaragua,earthquake,,,,1,reviewed,us,us
+1990-06-17T04:23:57.170Z,13.129,-88.769,74.5,4.7,mb,,,,1,us,usp0004ama,2014-11-07T00:46:32.261Z,offshore El Salvador,earthquake,,4.8,,4,reviewed,us,us
+1990-05-22T08:28:34.110Z,13.545,-85.211,33,4.3,mb,,,,1.6,us,usp00049m0,2014-11-07T00:46:23.610Z,Nicaragua,earthquake,,,,3,reviewed,us,us
+1990-04-27T16:31:10.250Z,13.046,-89.234,79.7,4.6,mb,,,,0.7,us,usp00048jb,2014-11-07T00:46:12.173Z,offshore El Salvador,earthquake,,5.7,,1,reviewed,us,us
+1990-04-16T20:53:46.650Z,13.539,-87.885,145.4,4.5,mb,,,,1.5,us,usp000480f,2014-11-07T00:46:09.824Z,El Salvador,earthquake,,13.9,,2,reviewed,us,us
+1989-10-14T10:25:30.530Z,16.308,-86.839,10,4.9,mb,,,,1.2,us,usp00040ph,2014-11-07T00:45:01.795Z,offshore Honduras,earthquake,,,,12,reviewed,us,us
+1989-08-08T17:47:23.260Z,13.808,-89.446,185.8,4,mb,,,,0.7,us,usp0003y82,2014-11-07T00:44:41.030Z,El Salvador,earthquake,,4.1,,5,reviewed,us,us
+1989-05-12T22:25:25.870Z,12.952,-87.947,57.3,5.3,mw,,,,1.3,us,usp0003v66,2016-11-09T22:30:26.182Z,offshore El Salvador,earthquake,,,,,reviewed,us,hrv
+1988-10-10T01:41:06.370Z,13.004,-88.647,92.2,4.8,mb,,,,1.3,us,usp0003mpd,2014-11-07T00:42:57.193Z,offshore El Salvador,earthquake,,7.7,,11,reviewed,us,us
+1988-07-28T16:14:45.650Z,15.078,-86.513,42.8,4.2,mb,,,,1.3,us,usp0003jav,2014-11-07T00:42:33.311Z,Honduras,earthquake,,26.1,,3,reviewed,us,us
+1988-07-09T05:44:30.230Z,13.088,-88.82,135.5,5,mb,,,,1,us,usp0003hqj,2014-11-07T00:42:30.114Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+1988-07-07T12:24:07.940Z,13.24,-88.051,33,4.4,mb,,,,1.1,us,usp0003hp7,2014-11-07T00:42:29.697Z,El Salvador,earthquake,,,,3,reviewed,us,us
+1988-04-16T09:19:57.570Z,12.944,-88.719,57.6,4.5,mb,,,,1.1,us,usp0003f2u,2014-11-07T00:41:57.714Z,offshore El Salvador,earthquake,,16,,4,reviewed,us,us
+1988-03-13T23:28:48.940Z,13.195,-89.164,87.4,4.9,mb,,,,1.3,us,usp0003dxu,2014-11-07T00:41:48.124Z,offshore El Salvador,earthquake,,8.8,,34,reviewed,us,us
+1988-02-20T02:43:53.760Z,13.021,-88.783,60.9,4.8,mb,,,,1.2,us,usp0003d66,2014-11-07T00:41:40.484Z,offshore El Salvador,earthquake,,5.3,,6,reviewed,us,us
+1987-12-12T15:11:19.010Z,13.756,-88.043,33,4.8,mb,,,,1.2,us,usp0003b7t,2014-11-07T00:41:23.005Z,El Salvador,earthquake,,,,1,reviewed,us,us
+1987-10-01T05:51:34.680Z,13.05,-88.741,83.9,4.8,mb,,,,1,us,usp00038vg,2014-11-07T00:41:00.163Z,offshore El Salvador,earthquake,,8.1,,4,reviewed,us,us
+1987-08-24T14:28:46.640Z,15.332,-89.209,10,4.5,mb,,,,0.8,us,usp00037sq,2014-11-07T00:40:49.726Z,Guatemala,earthquake,,,,4,reviewed,us,us
+1987-08-22T17:58:42.920Z,13.146,-86.622,33,4.4,mb,,,,1.2,us,usp00037r2,2014-11-07T00:40:49.551Z,Nicaragua,earthquake,,,,4,reviewed,us,us
+1987-08-16T01:02:48.530Z,12.981,-88.75,72.8,4.9,mb,,,,1,us,usp00037jz,2014-11-07T00:40:48.943Z,offshore El Salvador,earthquake,,9.4,,12,reviewed,us,us
+1987-07-27T19:43:17.780Z,13.655,-88.309,195.6,4.6,mb,,,,0.9,us,usp00036zt,2014-11-07T00:40:42.228Z,El Salvador,earthquake,,6.3,,8,reviewed,us,us
+1987-06-26T10:28:56.540Z,13.161,-88.658,55.1,4.6,mb,,,,1,us,usp000363a,2014-11-07T00:40:34.036Z,offshore El Salvador,earthquake,,,,13,reviewed,us,us
+1987-04-23T01:15:45.100Z,13.432,-89.432,33,4.6,mb,,,,1,us,usp00034cz,2014-11-07T00:40:16.690Z,offshore El Salvador,earthquake,,,,8,reviewed,us,us
+1987-03-18T18:02:20.660Z,13.22,-89.127,57.9,4.5,mb,,,,1.3,us,usp00033dw,2014-11-07T00:40:05.065Z,offshore El Salvador,earthquake,,,,11,reviewed,us,us
+1987-02-03T00:22:14.020Z,12.949,-88.415,64,5.3,mb,,,,1.1,us,usp000324v,2014-11-07T00:39:45.682Z,offshore El Salvador,earthquake,,4.8,,40,reviewed,us,us
+1987-01-15T16:43:34.770Z,13.952,-89.344,10,4,m,,,,1.2,us,usp00031px,2014-11-07T00:39:39.473Z,El Salvador,earthquake,,,,,reviewed,us,gcg
+1986-10-13T22:24:34.160Z,13.721,-89.237,5,4.4,m,,,,1.1,us,usp0002yxg,2014-11-07T00:39:09.118Z,El Salvador,earthquake,,,,,reviewed,us,gcg
+1986-10-12T04:13:12.460Z,13.635,-89.239,5,4.3,m,,,,0.5,us,usp0002yvm,2014-11-07T00:39:08.830Z,El Salvador,earthquake,,,,,reviewed,us,gcg
+1986-10-10T20:50:10.960Z,13.671,-89.219,5,3.9,m,,,,0.5,us,usp0002yuj,2014-11-07T00:39:08.634Z,El Salvador,earthquake,,,,,reviewed,us,gcg
+1986-10-10T19:27:11.500Z,13.792,-89.158,5,4.6,mb,,,,1.1,us,usp0002yug,2017-04-26T17:40:14.831Z,El Salvador,earthquake,,,,4,reviewed,us,us
+1986-10-10T17:49:24.100Z,13.827,-89.118,7,5.7,mw,,,,1.2,us,usp0002yu9,2018-03-12T17:02:08.301Z,El Salvador,earthquake,,,,,reviewed,us,hrv
+1986-08-02T17:49:25.690Z,13.073,-88.806,80,5.6,mw,,,,1,us,usp0002wtw,2016-11-09T23:07:53.824Z,offshore El Salvador,earthquake,,4.7,,,reviewed,us,hrv
+1986-07-06T07:48:42.540Z,12.965,-88.486,84.3,5,mb,,,,1.2,us,usp0002vrf,2014-11-07T00:38:39.749Z,offshore El Salvador,earthquake,,9.1,,23,reviewed,us,us
+1986-04-05T12:52:29.950Z,15.943,-88.454,10.1,4,mb,,,,0.9,us,usp0002spd,2014-11-07T00:38:11.487Z,offshore Guatemala,earthquake,,4.5,,2,reviewed,us,us
+1986-02-21T07:38:02.930Z,12.924,-87.785,33,4.4,mb,,,,1.4,us,usp0002r63,2014-11-07T00:37:56.348Z,near the coast of Nicaragua,earthquake,,,,2,reviewed,us,us
+1986-02-19T08:01:52.210Z,13.068,-85.94,33,4.6,mb,,,,1.2,us,usp0002r46,2014-11-07T00:37:56.015Z,Nicaragua,earthquake,,,,2,reviewed,us,us
+1986-02-04T14:15:38.700Z,13.653,-87.921,33,3.7,mb,,,,1,us,usp0002qqc,2014-11-07T00:37:53.035Z,El Salvador,earthquake,,,,1,reviewed,us,us
+1985-12-02T01:01:47.480Z,13.064,-87.167,190,4.5,mb,,,,0.9,us,usp0002nfk,2014-11-07T00:37:34.268Z,Honduras,earthquake,,,,5,reviewed,us,us
+1985-11-21T00:55:18.790Z,13.336,-89.291,74.2,3.7,mb,,,,1.3,us,usp0002mzx,2014-11-07T00:37:29.579Z,offshore El Salvador,earthquake,,9,,1,reviewed,us,us
+1985-11-15T05:39:12.540Z,13.088,-88.69,89.4,5,mb,,,,1.3,us,usp0002msy,2014-11-07T00:37:28.540Z,offshore El Salvador,earthquake,,7.5,,22,reviewed,us,us
+1985-11-09T13:22:38.330Z,16.334,-85.297,10,4.2,mb,,,,1.1,us,usp0002mkj,2014-11-07T00:37:27.458Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+1985-08-17T06:58:55.350Z,12.956,-88.685,81.4,5,mb,,,,1.1,us,usp0002hur,2014-11-07T00:37:01.686Z,offshore El Salvador,earthquake,,8.9,,15,reviewed,us,us
+1985-07-30T21:51:35.980Z,13.297,-89.16,79.6,5.1,mb,,,,1.4,us,usp0002h86,2014-11-07T00:36:54.245Z,offshore El Salvador,earthquake,,10.2,,19,reviewed,us,us
+1985-07-13T01:49:48.310Z,13.178,-88.988,33,4,mb,,,,1.6,us,usp0002gr9,2014-11-07T00:36:51.776Z,offshore El Salvador,earthquake,,,,6,reviewed,us,us
+1985-04-23T15:16:21.950Z,13.469,-88.611,37.4,4.8,mb,,,,1.1,us,usp0002e2x,2014-11-07T00:36:27.942Z,El Salvador,earthquake,,11.4,,19,reviewed,us,us
+1985-03-10T19:33:13.100Z,13.454,-89.032,76.7,5.8,mw,,,,0.9,us,usp0002cq6,2016-11-09T22:02:55.426Z,El Salvador,earthquake,,3.9,,,reviewed,us,hrv
+1985-01-09T10:03:24.520Z,13.234,-87.562,212.5,4.6,mb,,,,1.4,us,usp0002aw6,2014-11-07T00:36:01.105Z,Golfo de Fonseca  Honduras,earthquake,,23.3,,9,reviewed,us,us
+1984-11-23T10:51:28.120Z,15.925,-88.784,33,4.1,mb,,,,1.3,us,usp00029bc,2014-11-07T00:35:44.403Z,Bahia de Amatique  Guatemala,earthquake,,,,2,reviewed,us,us
+1984-11-03T17:35:19.120Z,13.103,-88.06,33,4.8,mb,,,,1.5,us,usp00028s5,2014-11-07T00:35:40.495Z,offshore El Salvador,earthquake,,,,8,reviewed,us,us
+1984-10-26T04:02:13.610Z,13.061,-88.603,55.6,5,mb,,,,1.1,us,usp00028h7,2014-11-07T00:35:36.519Z,offshore El Salvador,earthquake,,,,20,reviewed,us,us
+1984-09-15T23:12:22.490Z,16.583,-85.842,10,4.8,mb,,,,1.2,us,usp00027e6,2014-11-07T00:35:26.945Z,offshore Honduras,earthquake,,,,4,reviewed,us,us
+1984-09-07T14:09:42.260Z,13.273,-88.446,73.1,4.8,mb,,,,1,us,usp000275h,2014-11-07T00:35:25.520Z,El Salvador,earthquake,,6.8,,4,reviewed,us,us
+1984-08-31T04:42:59.770Z,12.923,-87.071,42.1,5.6,mw,,,,1.2,us,usp00026w8,2017-04-13T21:56:46.119Z,near the coast of Nicaragua,earthquake,,4.9,,,reviewed,us,hrv
+1984-08-17T08:18:53.030Z,13.499,-88.177,153,4.9,mb,,,,1.1,us,usp00026fy,2014-11-07T00:35:19.180Z,El Salvador,earthquake,,,,24,reviewed,us,us
+1984-06-11T09:51:26.320Z,13.264,-87.703,232.2,5,mb,,,,0.9,us,usp00024xx,2014-11-07T00:35:01.292Z,Golfo de Fonseca  El Salvador,earthquake,,,,14,reviewed,us,us
+1983-11-11T19:22:16.740Z,13.183,-88.75,85.4,4.7,mb,,,,1.1,us,usp0001zr3,2014-11-07T00:34:07.890Z,offshore El Salvador,earthquake,,6.2,,6,reviewed,us,us
+1983-08-11T06:29:49.880Z,13.351,-89.106,79.8,4.5,mb,,,,1.4,us,usp0001xkk,2014-11-07T00:33:37.669Z,offshore El Salvador,earthquake,,6.7,,6,reviewed,us,us
+1983-05-22T22:14:42.940Z,13.644,-89.277,76.7,4.2,mb,,,,1.3,us,usp0001vjz,2014-11-07T00:33:11.256Z,El Salvador,earthquake,,5.9,,2,reviewed,us,us
+1983-04-29T01:02:19.210Z,13.42,-89.179,82.2,4.9,mb,,,,1.4,us,usp0001uux,2016-11-09T22:24:36.059Z,offshore El Salvador,earthquake,,2.6,,35,reviewed,us,us
+1983-04-15T01:35:03.630Z,15.541,-88.663,10,4.9,mb,,,,1.1,us,usp0001ufn,2014-11-07T00:32:59.095Z,Guatemala,earthquake,,,,24,reviewed,us,us
+1983-03-02T15:37:22.810Z,13.141,-89.153,90.1,4.8,mb,,,,0.9,us,usp0001te2,2014-11-07T00:32:46.193Z,offshore El Salvador,earthquake,,2.5,,9,reviewed,us,us
+1983-01-18T07:44:28.650Z,12.93,-88.817,70.4,4.9,mb,,,,1.3,us,usp0001sbn,2014-11-07T00:32:31.053Z,offshore El Salvador,earthquake,,5.1,,15,reviewed,us,us
+1982-11-21T16:54:50.670Z,12.989,-88.037,55,4.4,mb,,,,1.3,us,usp0001r1k,2014-11-07T00:32:13.627Z,offshore El Salvador,earthquake,,,,4,reviewed,us,us
+1982-10-27T10:09:03.350Z,13.458,-89.451,72.2,4.7,mb,,,,1.3,us,usp0001qj3,2014-11-07T00:32:04.933Z,offshore El Salvador,earthquake,,4.4,,5,reviewed,us,us
+1982-10-27T07:41:03.320Z,13.492,-89.326,72.4,5.1,mb,,,,1.4,us,usp0001qj2,2016-11-09T23:49:22.226Z,El Salvador,earthquake,,3.6,,39,reviewed,us,us
+1982-10-16T06:35:53.900Z,14.373,-89.354,33,4.5,mb,,,,0.8,us,usp0001q9g,2014-11-07T00:32:02.321Z,El Salvador,earthquake,,,,4,reviewed,us,us
+1982-10-03T21:38:34.220Z,14.442,-89.209,29.2,4.4,mb,,,,1.2,us,usp0001q0e,2014-11-07T00:31:58.377Z,Honduras,earthquake,,5.3,,3,reviewed,us,us
+1982-09-29T05:50:32.290Z,14.487,-89.121,12,5.5,mb,,,,0.9,us,usp0001pwe,2017-04-26T17:35:45.385Z,Honduras,earthquake,,,,71,reviewed,us,us
+1982-09-29T03:48:00.120Z,14.547,-89.131,15,5.1,mb,,,,1,us,usp0001pwc,2016-11-09T23:35:59.669Z,Honduras,earthquake,,,,51,reviewed,us,us
+1982-07-27T06:54:43.810Z,14.606,-87.853,33,4.9,mb,,,,0.9,us,usp0001npn,2014-11-07T00:31:38.903Z,Honduras,earthquake,,,,6,reviewed,us,us
+1982-07-26T10:34:58.670Z,13.365,-89.064,67,5.1,mb,,,,1.2,us,usp0001np5,2016-11-09T23:04:35.320Z,El Salvador,earthquake,,,,27,reviewed,us,us
+1982-07-02T11:59:35.680Z,13.056,-89.287,64.4,5,mb,,,,1.2,us,usp0001n82,2016-11-09T22:53:32.027Z,offshore El Salvador,earthquake,,3.4,,48,reviewed,us,us
+1982-06-23T08:51:38.930Z,14.009,-88.577,33,4.7,mb,,,,0.6,us,usp0001n37,2014-11-07T00:31:29.409Z,Honduras,earthquake,,,,1,reviewed,us,us
+1982-06-21T19:49:18.220Z,13.267,-89.331,92,5.1,mb,,,,0.6,us,usp0001n28,2014-11-07T00:31:29.152Z,offshore El Salvador,earthquake,,4,,2,reviewed,us,us
+1982-06-21T05:30:28.720Z,13.06,-89.328,61.4,4.9,mb,,,,1.1,us,usp0001n1w,2014-11-07T00:31:29.082Z,offshore El Salvador,earthquake,,3.1,,28,reviewed,us,us
+1982-06-19T06:21:58.000Z,13.332,-89.387,73,7.3,mw,,,,,iscgem,iscgem597450,2018-04-11T15:52:47.315Z,offshore El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1982-05-04T01:09:32.730Z,13.094,-88.352,75.4,4.9,mb,,,,1.1,us,usp0001m3j,2014-11-07T00:31:15.990Z,offshore El Salvador,earthquake,,5.8,,7,reviewed,us,us
+1982-04-27T04:53:39.720Z,14.679,-87.687,33,4.5,mb,,,,1.3,us,usp0001kyy,2014-11-07T00:31:11.763Z,Honduras,earthquake,,,,3,reviewed,us,us
+1982-04-27T03:15:20.470Z,14.506,-87.694,33.5,4.5,mb,,,,1.1,us,usp0001kyu,2014-11-07T00:31:11.749Z,Honduras,earthquake,,7.4,,3,reviewed,us,us
+1982-04-27T00:53:21.610Z,14.408,-87.786,33,4.9,mb,,,,1.4,us,usp0001kyp,2014-11-07T00:31:11.719Z,Honduras,earthquake,,,,2,reviewed,us,us
+1982-04-27T00:14:03.170Z,14.527,-87.72,32.7,5,mb,,,,1.1,us,usp0001kyn,2016-11-09T22:23:41.292Z,Honduras,earthquake,,5.5,,32,reviewed,us,us
+1982-03-30T17:37:34.900Z,13.144,-87.413,33,4.7,mb,,,,0.1,us,usp0001kf8,2014-11-07T00:31:02.768Z,Honduras,earthquake,,,,2,reviewed,us,us
+1982-03-04T11:41:03.130Z,13.256,-88.988,76,5.2,mb,,,,1.2,us,usp0001jyf,2016-11-09T22:00:28.112Z,offshore El Salvador,earthquake,,2.6,,51,reviewed,us,us
+1982-01-12T07:04:07.370Z,13.149,-87.596,10,4.8,mb,,,,1.4,us,usp0001j02,2014-11-07T00:30:40.252Z,Honduras,earthquake,,,,3,reviewed,us,us
+1982-01-12T05:48:17.630Z,13.158,-87.589,6.4,6,ms,,,,1.2,us,usp0001j01,2017-04-26T17:35:17.510Z,Golfo de Fonseca  Honduras,earthquake,,1.7,,16,reviewed,us,us
+1982-01-09T12:49:04.270Z,13.01,-88.857,79.8,4.3,mb,,,,1.5,us,usp0001hyk,2014-11-07T00:30:39.416Z,offshore El Salvador,earthquake,,10,,3,reviewed,us,us
+1982-01-09T01:55:12.310Z,13.127,-88.636,87.9,4.7,mb,,,,1.2,us,usp0001hyb,2014-11-07T00:30:39.318Z,offshore El Salvador,earthquake,,6,,10,reviewed,us,us
+1981-11-01T17:04:12.210Z,16.458,-85.57,10,4.7,mb,,,,1,us,usp0001grz,2014-11-07T00:30:18.896Z,offshore Honduras,earthquake,,,,14,reviewed,us,us
+1981-09-25T13:24:14.060Z,13.244,-88.441,87,4.7,mb,,,,0.9,us,usp0001g3c,2014-11-07T00:30:07.329Z,El Salvador,earthquake,,,,3,reviewed,us,us
+1981-09-05T05:38:50.930Z,16.623,-86.678,10,4.7,mb,,,,0.8,us,usp0001fpk,2014-11-07T00:30:03.381Z,offshore Honduras,earthquake,,,,15,reviewed,us,us
+1981-06-12T12:26:28.810Z,13.444,-88.001,33,4.4,mb,,,,0.8,us,usp0001e40,2014-11-07T00:29:37.206Z,El Salvador,earthquake,,,,4,reviewed,us,us
+1981-03-10T13:27:22.320Z,13.157,-89.091,90.2,5,mb,,,,0.9,us,usp0001cmp,2014-11-07T00:29:03.773Z,offshore El Salvador,earthquake,,8.7,,7,reviewed,us,us
+1981-02-21T16:13:58.710Z,12.945,-89.448,33,4,mb,,,,0.3,us,usp0001caq,2014-11-07T00:28:56.584Z,offshore El Salvador,earthquake,,,,1,reviewed,us,us
+1981-02-21T15:18:27.570Z,13.63,-87.608,33,4.2,mb,,,,1.1,us,usp0001cap,2014-11-07T00:28:56.579Z,Honduras,earthquake,,,,2,reviewed,us,us
+1981-01-15T10:09:58.100Z,13.405,-88.96,148,4.6,mb,,,,,us,usp0001bqw,2014-11-06T23:24:28.670Z,El Salvador,earthquake,,,,,reviewed,us,us
+1981-01-10T15:15:13.100Z,13.918,-89.179,33,4.9,mb,,,,,us,usp0001bp4,2014-11-06T23:24:28.615Z,El Salvador,earthquake,,,,,reviewed,us,us
+1980-11-30T07:45:36.000Z,16.602,-85.444,10,4.4,mb,,,,,us,usp0001b3p,2014-11-06T23:24:27.830Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+1980-09-02T10:28:08.800Z,15.909,-88.291,25,5.3,mb,,,,,us,usp00019nh,2016-11-09T23:23:12.505Z,offshore Guatemala,earthquake,,,,,reviewed,us,us
+1980-08-09T05:45:09.500Z,15.888,-88.516,22,6.4,ms,,,,,us,usp00019aw,2017-04-26T17:34:05.272Z,Guatemala,earthquake,,,,,reviewed,us,us
+1980-07-28T17:16:04.900Z,15.78,-88.71,33,4.3,mb,,,,,us,usp000194c,2014-11-06T23:24:24.858Z,Guatemala,earthquake,,,,,reviewed,us,us
+1980-06-04T07:07:16.700Z,13.384,-89.294,65,4.4,mb,,,,,us,usp00017ya,2014-11-06T23:24:22.900Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1980-05-08T08:55:12.600Z,13.56,-89.195,179,4.7,mb,,,,,us,usp000173s,2014-11-06T23:24:21.479Z,El Salvador,earthquake,,,,,reviewed,us,us
+1980-05-04T02:00:07.300Z,13.066,-88.068,77,4.9,mb,,,,,us,usp000171m,2014-11-06T23:24:21.382Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1980-03-14T04:24:23.100Z,12.95,-88.394,74,4.7,mb,,,,,us,usp0001604,2014-11-06T23:24:19.030Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1980-03-04T07:50:36.100Z,13.064,-88.228,78,4.3,mb,,,,,us,usp00015u3,2014-11-06T23:24:18.696Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1980-03-04T06:25:39.700Z,13.027,-88.366,73,5.2,mb,,,,,us,usp00015u0,2014-11-06T23:24:18.690Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1980-02-20T06:40:01.300Z,16.416,-85.925,33,4.5,mb,,,,,us,usp00015jk,2014-11-06T23:24:18.023Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+1979-10-10T02:20:18.100Z,15.562,-88.661,33,4.8,mb,,,,,us,usp00013bd,2014-11-06T23:22:06.074Z,Guatemala,earthquake,,,,,reviewed,us,us
+1979-09-16T13:44:59.300Z,13.299,-88.14,33,4.7,mb,,,,,us,usp00012zh,2014-11-06T23:22:05.590Z,El Salvador,earthquake,,,,,reviewed,us,us
+1979-09-02T01:10:57.600Z,13.061,-88.697,81,4.9,mb,,,,,us,usp00012ry,2014-11-06T23:22:05.185Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1979-05-15T22:44:42.500Z,15.697,-88.428,33,4.6,mb,,,,,us,usp00010nt,2014-11-06T23:22:01.213Z,Guatemala,earthquake,,,,,reviewed,us,us
+1979-05-06T05:04:14.300Z,13.287,-88.414,86,4.6,mb,,,,,us,usp00010fn,2014-11-06T23:22:00.919Z,El Salvador,earthquake,,,,,reviewed,us,us
+1979-04-30T22:20:18.500Z,13.518,-89.384,98,4.5,mb,,,,,us,usp00010cu,2014-11-06T23:22:00.800Z,El Salvador,earthquake,,,,,reviewed,us,us
+1979-04-09T07:30:51.500Z,13.69,-88.975,140,4.9,mb,,,,,us,usp0000zwu,2014-11-06T23:21:59.798Z,El Salvador,earthquake,,,,,reviewed,us,us
+1979-03-15T07:54:04.300Z,13.879,-87.54,33,4.8,mb,,,,,us,usp0000zcj,2014-11-06T23:21:58.466Z,Honduras,earthquake,,,,,reviewed,us,us
+1979-03-13T14:50:06.800Z,13.604,-89.157,98,4.7,mb,,,,,us,usp0000zb0,2014-11-06T23:21:58.311Z,El Salvador,earthquake,,,,,reviewed,us,us
+1979-03-07T16:58:49.800Z,14.626,-88.762,66,4.9,mb,,,,,us,usp0000z6w,2014-11-06T23:21:58.056Z,Honduras,earthquake,,,,,reviewed,us,us
+1978-12-24T10:32:14.700Z,12.938,-87.708,169,4.4,mb,,,,,us,usp0000y34,2014-11-06T23:21:55.271Z,near the coast of Nicaragua,earthquake,,,,,reviewed,us,us
+1978-12-18T07:03:27.300Z,13.854,-87.616,33,4.5,mb,,,,,us,usp0000xz1,2014-11-06T23:21:54.972Z,Honduras,earthquake,,,,,reviewed,us,us
+1978-12-18T02:31:27.100Z,12.987,-88.264,85,5.3,mb,,,,,us,usp0000xyx,2016-11-10T00:13:56.778Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1978-12-09T11:20:38.900Z,13.156,-89.362,93,4.7,mb,,,,,us,usp0000xur,2014-11-06T23:21:54.633Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1978-11-07T04:42:06.800Z,13.499,-89.271,98,4.4,mb,,,,,us,usp0000xap,2014-11-06T23:21:53.564Z,El Salvador,earthquake,,,,,reviewed,us,us
+1978-08-06T17:45:04.500Z,12.929,-88.686,84,4.7,mb,,,,,us,usp0000vya,2014-11-06T23:21:51.136Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1978-07-16T00:31:19.000Z,16.334,-86.934,33,4.8,mb,,,,,us,usp0000vkj,2014-11-06T23:21:50.369Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+1978-06-19T09:35:12.300Z,13.01,-88.73,83,4.7,mb,,,,,us,usp0000v4w,2014-11-06T23:21:49.875Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1978-03-21T02:36:26.700Z,13.386,-89.202,33,4.3,mb,,,,,us,usp0000tge,2014-11-06T23:21:47.734Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1977-10-31T00:53:16.600Z,12.983,-89.04,84,5.1,mb,,,,,us,usp0000rae,2014-11-06T23:21:45.018Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1977-10-23T13:44:57.700Z,13.231,-87.761,193,4.9,mb,,,,,us,usp0000r6r,2014-11-06T23:21:44.883Z,Golfo de Fonseca  El Salvador,earthquake,,,,,reviewed,us,us
+1977-08-20T02:46:11.800Z,16.612,-86.852,14,5.7,ms,,,,,us,usp0000q73,2017-04-26T17:30:56.897Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+1977-07-30T07:56:36.300Z,12.978,-88.771,81,4.8,mb,,,,,us,usp0000pxn,2014-11-06T23:21:43.200Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1977-04-17T14:41:27.300Z,13.629,-88.241,208,4.8,mb,,,,,us,usp0000neu,2014-11-06T23:21:41.110Z,El Salvador,earthquake,,,,,reviewed,us,us
+1977-04-11T10:01:23.600Z,13.154,-88.134,10,5.2,mb,,,,,us,usp0000nbj,2014-11-06T23:21:40.818Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1977-03-22T19:29:30.200Z,12.972,-88.536,76,5,mb,,,,,us,usp0000n2c,2014-11-06T23:21:40.347Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1977-01-22T05:14:44.800Z,13.055,-89.133,85,4.5,mb,,,,,us,usp0000ma0,2014-11-06T23:21:39.437Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1977-01-14T17:05:23.000Z,13.144,-87.755,33,3.7,mb,,,,,us,usp0000m62,2014-11-06T23:21:39.328Z,Golfo de Fonseca  El Salvador,earthquake,,,,,reviewed,us,us
+1976-12-11T17:20:39.100Z,13.596,-88.895,79,5,mb,,,,,us,usp0000kqh,2014-11-06T23:21:38.560Z,El Salvador,earthquake,,,,,reviewed,us,us
+1976-12-01T17:44:48.600Z,13.531,-89.251,85,4.9,mb,,,,,us,usp0000kk8,2014-11-06T23:21:38.450Z,El Salvador,earthquake,,,,,reviewed,us,us
+1976-10-22T05:53:49.400Z,13.075,-88.397,83,4.8,mb,,,,,us,usp0000jzp,2014-11-06T23:21:37.815Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1976-09-02T04:15:05.000Z,15.634,-88.487,43,4.3,mb,,,,,us,usp0000j5p,2014-11-06T23:21:36.996Z,Guatemala,earthquake,,,,,reviewed,us,us
+1976-09-01T22:34:37.900Z,13.512,-88.111,73,4.6,mb,,,,,us,usp0000j5h,2014-11-06T23:21:36.992Z,El Salvador,earthquake,,,,,reviewed,us,us
+1976-07-14T09:23:30.400Z,15.571,-88.042,33,4.6,mb,,,,,us,usp0000hbj,2014-11-06T23:21:36.207Z,Honduras,earthquake,,,,,reviewed,us,us
+1976-06-27T07:41:47.900Z,13.117,-89.432,95,4.3,mb,,,,,us,usp0000h2s,2014-11-06T23:21:35.992Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1976-06-15T15:19:41.000Z,13.318,-89.425,71,4.5,mb,,,,,us,usp0000gwc,2014-11-06T23:21:35.676Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1976-05-04T08:43:27.300Z,13.075,-87.568,33,5.3,mb,,,,,us,usp0000g4y,2015-05-13T18:53:12.000Z,Honduras,earthquake,,,,,reviewed,us,us
+1976-04-28T05:15:37.200Z,15.883,-86.126,36,4,mb,,,,,us,usp0000g2t,2014-11-06T23:21:34.960Z,Honduras,earthquake,,,,,reviewed,us,us
+1976-04-04T17:55:21.900Z,14.258,-87.636,45,4.8,mb,,,,,us,usp0000fs2,2014-11-06T23:21:34.729Z,Honduras,earthquake,,,,,reviewed,us,us
+1976-02-10T17:35:52.300Z,14.515,-88.964,5,4.6,mb,,,,,us,usp0000f0d,2014-11-06T23:21:34.034Z,Honduras,earthquake,,,,,reviewed,us,us
+1976-02-09T11:44:46.600Z,15.319,-89.073,5,5.2,mb,,,,,us,usp0000ezx,2014-11-06T23:21:34.023Z,Guatemala,earthquake,,,,,reviewed,us,us
+1976-02-08T08:13:46.700Z,15.571,-88.466,5,5.6,ms,,,,,us,usp0000eza,2017-04-26T17:29:08.406Z,Guatemala,earthquake,,,,,reviewed,us,us
+1976-02-04T17:20:44.700Z,15.856,-88.286,5,4.4,mb,,,,,us,usp0000exh,2014-11-06T23:21:33.969Z,offshore Guatemala,earthquake,,,,,reviewed,us,us
+1976-02-04T16:40:53.900Z,15.361,-89.184,5,4.5,mb,,,,,us,usp0000exg,2014-11-06T23:21:33.968Z,Guatemala,earthquake,,,,,reviewed,us,us
+1976-02-04T12:57:52.800Z,15.421,-89.223,5,4.3,mb,,,,,us,usp0000ex9,2014-11-06T23:21:33.964Z,Guatemala,earthquake,,,,,reviewed,us,us
+1976-02-04T09:01:43.400Z,15.324,-89.101,5,7.5,mw,,,,,us,usp0000ex3,2018-02-15T02:25:49.201Z,Guatemala,earthquake,,,,,reviewed,us,1000
+1976-01-31T04:55:56.100Z,13.703,-88.354,123,4.5,mb,,,,,us,usp0000euh,2014-11-06T23:21:33.823Z,El Salvador,earthquake,,,,,reviewed,us,us
+1976-01-30T10:41:26.000Z,13.796,-88.418,38,4.7,mb,,,,,us,usp0000eu3,2014-11-06T23:21:33.814Z,El Salvador,earthquake,,,,,reviewed,us,us
+1976-01-04T11:34:50.200Z,13.037,-88.666,33,5.3,mb,,,,,us,usp0000e9t,2014-11-06T23:21:33.390Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1975-10-15T20:55:50.600Z,12.924,-88.799,65,4.7,mb,,,,,us,usp0000d55,2014-11-06T23:21:32.263Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1975-07-17T17:52:01.200Z,13.568,-89.122,33,4.5,mb,,,,,us,usp0000c15,2014-11-06T23:21:31.246Z,El Salvador,earthquake,,,,,reviewed,us,us
+1975-06-19T16:12:42.200Z,13.369,-89.335,93,5,mb,,,,,us,usp0000bnq,2014-11-06T23:21:30.943Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1975-03-24T11:51:03.900Z,13.044,-89.252,93,4.6,mb,,,,,us,usp0000abu,2014-11-06T23:21:29.484Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1975-03-13T23:40:10.900Z,16.316,-86.96,33,5.2,ms,,,,,us,usp0000a7m,2014-11-06T23:21:29.345Z,offshore Honduras,earthquake,,,,,reviewed,us,us
+1975-02-10T03:59:06.900Z,13.058,-88.578,179,4.6,mb,,,,,us,usp00009vg,2014-11-06T23:21:28.815Z,offshore El Salvador,earthquake,,,,,reviewed,us,us
+1974-12-17T15:31:16.400Z,13.194,-88.472,50,5.3,ms,,,,,us,usp000095f,2014-11-06T23:21:27.875Z,El Salvador,earthquake,,,,,reviewed,us,us
+1974-09-01T13:49:38.500Z,13.299,-88.909,111,4.9,mb,,,,,us,usp00007w8,2014-11-06T23:21:26.111Z,El Salvador,earthquake,,,,,reviewed,us,us
+1974-01-17T11:16:02.800Z,13.21,-88.261,103,4.6,mb,,,,,us,usp00004yf,2014-11-06T23:21:22.437Z,El Salvador,earthquake,,,,,reviewed,us,us
+1973-11-02T03:06:56.800Z,13.233,-87.994,118,4.5,mb,,,,,us,usp000040u,2014-11-06T23:21:21.112Z,El Salvador,earthquake,,,,,reviewed,us,us
+1973-01-25T22:25:59.500Z,13.7,-89.324,100,4.4,mb,,,,,us,usp000009r,2014-11-06T23:21:08.436Z,El Salvador,earthquake,,,,,reviewed,us,us
+1972-11-19T04:35:26.000Z,13.061,-88.601,70.7,5.7,mw,,,,,iscgem,iscgem767495,2015-05-13T18:53:07.000Z,offshore El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1965-05-03T10:01:38.000Z,13.683,-89.07,15,5.9,mw,,,,,iscgem,iscgem856602,2018-02-14T22:27:48.535Z,El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1961-04-12T22:20:32.000Z,13.31,-88.76,65,6,mw,,,,,iscgem,iscgem876400,2015-05-13T18:52:55.000Z,El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1958-06-27T05:44:33.000Z,13.021,-88.422,58.2,5.8,mw,,,,,iscgem,iscgem884636,2015-05-13T18:52:52.000Z,offshore El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1955-04-26T03:03:38.000Z,12.984,-89.439,50,6.1,mw,,,,,iscgem,iscgem889470,2015-05-13T18:52:49.000Z,offshore El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1952-05-14T21:11:41.000Z,16.554,-86.345,29.3,5.7,mw,,,,,iscgem,iscgem892899,2015-05-13T18:52:47.000Z,offshore Honduras,earthquake,,,,,automatic,iscgem,iscgem
+1951-08-03T05:25:46.000Z,12.942,-87.317,15,5.8,mw,,,,,iscgem,iscgem894586,2015-05-13T18:52:46.000Z,near the coast of Nicaragua,earthquake,,,,,automatic,iscgem,iscgem
+1951-08-03T00:23:57.000Z,13.044,-87.427,15,6.1,mw,,,,,iscgem,iscgem894584,2015-05-13T18:52:46.000Z,Honduras,earthquake,,,,,automatic,iscgem,iscgem
+1951-08-02T20:30:14.000Z,13.06,-87.832,15,5.8,mw,,,,,iscgem,iscgem894583,2015-05-13T18:52:46.000Z,offshore El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1932-05-21T10:10:04.000Z,13.175,-88.07,15,7.1,mw,,,,,iscgem,iscgem906153,2015-05-13T18:52:43.000Z,El Salvador,earthquake,,,,,automatic,iscgem,iscgem
+1921-03-28T07:49:30.000Z,13.635,-87.09,15,7.3,mw,,,,,iscgem,iscgem912192,2015-05-13T18:52:41.000Z,Honduras,earthquake,,,,,automatic,iscgem,iscgem
